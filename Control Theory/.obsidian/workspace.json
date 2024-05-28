@@ -1,0 +1,190 @@
+{
+  "main": {
+    "id": "bea2af4a0e3fe081",
+    "type": "split",
+    "children": [
+      {
+        "id": "679700d87519adcf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2c1d3def06829421",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 Control Theory (Basic)/Results/Characterizations/Characterizations - Stability.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5ea36ac8163ae335",
+    "type": "split",
+    "children": [
+      {
+        "id": "6b68d12519b0c8cb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "25aeed035a96c6ba",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b10e8ee17009762f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d9e78a193cb561ce",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "996e4053ce2361ec",
+    "type": "split",
+    "children": [
+      {
+        "id": "ac1fabf49ca80655",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8fa44130af6d94e3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "00 Control Theory (Basic)/Results/Characterizations/Characterizations - Stability.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "efc8816e413c0e81",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "00 Control Theory (Basic)/Results/Characterizations/Characterizations - Stability.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d5caa75d950fe80c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3e3223e9d2e69e83",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "00 Control Theory (Basic)/Results/Characterizations/Characterizations - Stability.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "2c1d3def06829421",
+  "lastOpenFiles": [
+    "00 Control Theory (Basic)/Results/Characterizations/Characterizations - ISS.md",
+    "00 Control Theory Vault Notation and Practice.md",
+    "00 Welcome.md",
+    "00 Control Theory (Basic)/Remarks/Bounded vs. Lipschitz.md",
+    "00 Control Theory (Basic)/Theorems/Tryms Theorems/GUAS of scalar systems by class K Lyapunov function.md",
+    "00 Control Theory (Basic)/Techniques",
+    "00 Control Theory (Basic)/Techniques/Cascade Parameterization.md",
+    "00 Control Theory (Basic)/Theorems/Tryms Theorems",
+    "00 Control Theory (Basic)/Theorems/Miscellaneous/Uniform Continuity from uniformly bounded derivative.md",
+    "00 Control Theory (Basic)/Theorems/Miscellaneous/Uniform Boundedness.md",
+    "00 Control Theory (Basic)/Theorems/Miscellaneous/Theorem - Main CBF Theorem (safe control).md",
+    "00 Control Theory (Basic)/Theorems/Miscellaneous/Sufficient Condition - Assumption 12.md",
+    "00 Control Theory (Basic)/Theorems/Miscellaneous/Result from Barbalat's Lemma.md",
+    "00 Control Theory (Basic)/Theorems/Miscellaneous/Bony-Brezis Theorem (Nagumo's Theorem).md",
+    "00 Control Theory (Basic)/Theorems/Miscellaneous",
+    "00 Control Theory (Basic)/Theorems/Lemmas/Khalil/Lemma 4.6 - ISS from global exponential stability of uncontrolled dynamics.md",
+    "00 Control Theory (Basic)/Theorems/Lemmas/Khalil/Lemma 3.2 - Locally Lipschitz.md",
+    "00 Control Theory (Basic)/Theorems/Lemmas/Khalil/Lemma 3.3 - Globally Lipschisz.md",
+    "00 Control Theory (Basic)/Theorems/Lemmas/Khalil",
+    "00 Control Theory (Basic)/Theorems/Lemmas/Antonio Loria's Lectures/Lemma 9 - Integration Lemma for uniform asymptotic stability.md",
+    "00 Control Theory (Basic)/Theorems/Lemmas/Antonio Loria's Lectures/Lemma 8 - Integration Lemma for exponential stability.md",
+    "00 Control Theory (Basic)/Theorems/Lemmas/Antonio Loria's Lectures/Lemma 26 - Forward Completeness.md",
+    "00 Control Theory (Basic)/Theorems/Lemmas/Antonio Loria's Lectures/Lemma 25 - iISS.md",
+    "00 Control Theory (Basic)/Theorems/Lemmas/Antonio Loria's Lectures/Lemma 23 - Linear Growth Conditions for Cascaded Systems.md",
+    "00 Control Theory (Basic)/Theorems/Lemmas/Antonio Loria's Lectures/Lemma 11 - Integration Lemma for uniform asymptotic stability 2.md",
+    "00 Control Theory (Basic)/Theorems/Lemmas/Antonio Loria's Lectures/Lemma 10 - Integration Lemma for asymptotic stability.md",
+    "00 Control Theory (Basic)/Theorems/Lemmas/Lemma - Integrability to Convergence.md",
+    "00 Control Theory (Basic)/Theorems/Lemmas/ISS Lemma.md",
+    "00 Control Theory (Basic)/Theorems/Lemmas/Barbalat's Lemma.md",
+    "00 Control Theory (Basic)/Theorems/Lemmas/Antonio Loria's Lectures",
+    "00 Control Theory (Basic)/Theorems/Interconnections/Feedback Interconnection.md",
+    "00 Control Theory (Basic)/Theorems/Drawings/Cascaded Systems.png",
+    "00 Control Theory (Basic)/Theorems/Lemmas",
+    "00 Control Theory (Basic)/Theorems/Interconnections",
+    "00 Control Theory (Basic)/Theorems/Khalil",
+    "00 Control Theory (Basic)/Theorems/Drawings",
+    "00 Control Theory (Basic)/Theorems/Antonio Loria's Lectures",
+    "00 Control Theory (Basic)/Canvases/ISS.canvas"
+  ]
+}

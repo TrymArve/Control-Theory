@@ -1,0 +1,58 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#Theory/Theorem  ",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    },
+    {
+      "query": "tag:#Theory/Lemma  ",
+      "color": {
+        "a": 1,
+        "rgb": 5029666
+      }
+    },
+    {
+      "query": "tag:#Theory/Definition  ",
+      "color": {
+        "a": 1,
+        "rgb": 11494892
+      }
+    },
+    {
+      "query": "tag:#Theory/Assumption  ",
+      "color": {
+        "a": 1,
+        "rgb": 13286172
+      }
+    },
+    {
+      "query": "tag:#Theory/Consider  ",
+      "color": {
+        "a": 1,
+        "rgb": 12812082
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0.2,
+  "nodeSizeMultiplier": 0.763541666666667,
+  "lineSizeMultiplier": 1.50364583333333,
+  "collapse-forces": true,
+  "centerStrength": 0.598958333333333,
+  "repelStrength": 11.25,
+  "linkStrength": 1,
+  "linkDistance": 30,
+  "scale": 1.2526463391548872,
+  "close": false
+}
