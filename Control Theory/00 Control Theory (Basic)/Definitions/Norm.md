@@ -1,4 +1,4 @@
-#Theory/Definition/Norm 
+#Theory/Definition
 
 # Norm
 A real valued function 

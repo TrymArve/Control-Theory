@@ -1,5 +1,4 @@
-#Theory/Consider/Feedback-Interconnection  
-#Theory/Consider/Cascade
+#Theory/Technique
 
 Consider: ![[Consider - Feedback Interconnection#^feedback-interconnected-system]]
 To break the loop, we can view system $\Sigma_2$ as being parameterized by the solution $x_1^\circ(t)$ to system $\Sigma_1$. 

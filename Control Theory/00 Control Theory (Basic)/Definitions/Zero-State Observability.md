@@ -1,4 +1,4 @@
-#Theory/Definition/Zero-State-Observability
+#Theory/Definition
 
 Consider: ![[Consider - Controlled NTI#^system]]
 where 

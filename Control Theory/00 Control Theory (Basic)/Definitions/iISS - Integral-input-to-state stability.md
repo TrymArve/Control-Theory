@@ -1,3 +1,4 @@
+#Theory/Definition 
 # Definition 23 (Angeli-Sontag) (Loria's Lectures)
 The system 
 $$\dot{x} = f(x,v)$$

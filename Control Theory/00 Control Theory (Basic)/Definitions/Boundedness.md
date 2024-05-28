@@ -1,5 +1,4 @@
-#Theory/Definition/Boundedness
-#Theory/Definition/Ultimate-Boundedness
+#Theory/Definition
 
 # Definition
 Consider:

@@ -14,3 +14,10 @@ Consider: ![[Consider - Controlled NTI#^system]]
 	- When the state is inside some ball defined by the input, V no longer has to decrease.
 	- When the input goes to zero, $x_2 \rightarrow 0$, the non-decreasing ball goes away, and the state must converge to zero.
 	- **Simply put:** *The ISS property means that the system must converge to $\mathbb{B}_{\alpha(u)}$ for each constant $u$*
+
+## Relevant Implications
+Clearly, if the system is ISS, the it is also 0-GAS, and also BIBO stable if the state is considered the output of the system:
+
+- ISS $\implies$ [[0-GAS]]
+- ISS $\implies$ [[BIBO Stability|BIBO stable]] (if the state is considered the output: $y = x$)
+- 0-GAS $\implies$ Local ISS

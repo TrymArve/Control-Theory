@@ -1,5 +1,4 @@
-#Theory/Definition/0-GAS
-# Definition
+#Theory/Definition
 Consider: ![[Consider - Controlled NTI#^system]]
 where:
 - $\boldsymbol{u}$ is a Lebesgue measurable essentially bounded external input

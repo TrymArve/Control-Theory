@@ -1,4 +1,4 @@
-#Theory/Definition/Definiteness 
+#Theory/Definition
 Consider functions 
 $$
 \begin{align}

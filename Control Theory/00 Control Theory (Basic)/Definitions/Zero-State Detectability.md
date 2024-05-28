@@ -1,4 +1,4 @@
-#Theory/Definition/Zero-State-Detectability
+#Theory/Definition
 
 Consider: ![[Consider - NTI#^system]]
 If 

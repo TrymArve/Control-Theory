@@ -1,4 +1,4 @@
-#Theory/Definition/Forward-Completeness 
+#Theory/Definition
 The system ![[Consider - NTV#^system]]
 is said to be **forward complete** iff
 - the solutions $t\mapsto x$ exist for all $t\geq t_\circ\geq 0$

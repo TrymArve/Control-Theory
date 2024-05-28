@@ -1,5 +1,5 @@
 # Definition
-#Theory/Definition/Attractivity 
+#Theory/Definition
 *Attractivity* in $\mathbb{D}\subset\mathbb{R}^{n}$ is obtained iff
 - $\forall t_0$
 	- $\forall \sigma > 0$
