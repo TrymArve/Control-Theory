@@ -1,5 +1,4 @@
 #Theory/Lemma 
-#resources/Lecture/Loria
 Consider: ![[Consider - Controlled NTI#^system]]
 The system $\Sigma_\circ$ is ***[[iISS - Integral-input-to-state stability|iISS]]*** iff:
 - $\exists\, V:\mathbb{R}^n\mapsto\mathbb{R}$ that is:

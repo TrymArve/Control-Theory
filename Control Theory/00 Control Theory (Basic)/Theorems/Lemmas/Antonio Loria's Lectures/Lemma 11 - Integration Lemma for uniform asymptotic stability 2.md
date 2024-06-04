@@ -1,5 +1,4 @@
 #Theory/Lemma 
-#resources/Lecture/Loria
 *A relaxation of [[Lemma 9 - Integration Lemma for uniform asymptotic stability]]*
 
 Consider: ![[Consider - NTV#^system]]

@@ -1,5 +1,4 @@
 #Theory/Lemma 
-#resources/Book/Khalil 
 Consider: ![[Consider - Controlled NTV#^system]]
 If:
 - $f$ is 

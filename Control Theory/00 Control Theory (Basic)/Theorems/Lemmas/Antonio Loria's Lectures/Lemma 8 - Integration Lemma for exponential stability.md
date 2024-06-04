@@ -1,5 +1,4 @@
 #Theory/Lemma 
-#resources/Lecture/Loria 
 Consider: ![[Consider - NTV#^system]]
 If:
 - $\exists~r,c,p>0:$

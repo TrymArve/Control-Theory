@@ -1,5 +1,4 @@
 #Theory/Lemma 
-#resources/Book/Khalil 
 Consider: ![[Consider - NTV#^system]]
 If:
 - on the domain $[a,b]\times(\mathbb{D}\subset\mathbb{R}^{n_x})$:

@@ -17,7 +17,7 @@ where
 asymptotically stabilizes the origin; $x=0$.
 
 
-# Intuition
+**Intuition**
 - We notice that since the system is passive, we have
 	- $\dot{V}(x(t)) \leq u(t)^\top y(t)$ 
 	- (storage: $V(x(t)) \leq V(x(t_\circ)) + \big|\int_{t_\circ}^t u(\tau)^\top y(\tau) ~d\tau\big|$)

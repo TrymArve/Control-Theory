@@ -1,7 +1,4 @@
-#Theory/Theorem/Uniform-Global-Boundedness
-#Theory/Definition/Boundedness 
-#Theory/Consider/Feedback-Interconnection 
-#resources/Lecture/Loria
+#Theory/Theorem 
 
 *"Case 1: $f_1(t,\cdot)$ dominates over $g(t,\cdot,x_2)$"*
 
@@ -13,7 +10,7 @@ If
 	- $t\geq0$
 	$$ \frac{\partial V(t,x_1)}{\partial x_1}g(t,x_1,x_2) = o(W(x_1)) ,$$
 then
-- the solutions of $\Sigma_1$ and $\Sigma_2$ are uniformly globally bounded.
+- the solutions of $\Sigma_1$ and $\Sigma_2$ are [[Boundedness|uniformly globally bounded]].
 
 
 

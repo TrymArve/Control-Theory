@@ -1,5 +1,4 @@
 #Theory/Theorem 
-#resources/Lecture/Loria
 Consider: ![[Consider - Cascade Interconnection (Time-Invariant)#^cascade-interconnected-system]]
 If:
 - the origin of $\Sigma_2$ is GAS

@@ -1,5 +1,4 @@
 #Theory/Lemma 
-#resources/Lecture/Loria
 Consider: ![[Consider - NTI#^system]]
 Iff:
 - the solutions of $\Sigma_\circ$ are [[Forward Completeness|forward complete]]

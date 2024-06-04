@@ -1,5 +1,4 @@
 #Theory/Theorem 
-#resources/Book/Khalil 
 Consider: ![[Consider - Controlled NTV#^system]]
 If:
 - $\exists~V:\mathbb{R}_+\times\mathbb{R}^{n_x}\mapsto\mathbb{R}$ 

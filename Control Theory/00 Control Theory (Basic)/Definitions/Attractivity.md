@@ -1,6 +1,5 @@
-# Definition
 #Theory/Definition
-*Attractivity* in $\mathbb{D}\subset\mathbb{R}^{n}$ is obtained iff
+**Attractivity** in $\mathbb{D}\subset\mathbb{R}^{n}$ is obtained iff
 - $\forall t_0$
 	- $\forall \sigma > 0$
 		- $\exists~T>0$

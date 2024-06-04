@@ -1,5 +1,4 @@
 #Theory/Lemma 
-#resources/Lecture/Loria
 Consider: ![[Consider - Cascade Interconnection (Time-Invariant)#^ae7b80]]
 Let $\theta_1$, $\theta_2$ be 
 - continuous

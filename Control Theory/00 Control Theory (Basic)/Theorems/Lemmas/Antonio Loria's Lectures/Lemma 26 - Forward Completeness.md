@@ -1,8 +1,4 @@
-#Theory/Definition/Forward-Completeness 
-#Theory/Lemma/Forward-Completeness
-#Theory/Consider/Feedback-Interconnection 
-#resources/Lecture/Loria
-
+#Theory/Lemma
 Consider: ![[Consider - Feedback Interconnection#^feedback-interconnected-system]]
 
 Let 

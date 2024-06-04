@@ -1,6 +1,4 @@
 #Theory/Definition
-
-# Definition
 Consider:
 $$(1)\qquad  \dot{x} = f(x,u,t), \quad x(t_0) = x_0$$
 whose trajectory is denoted:   $x^0(t), ~t\geq t_0$.

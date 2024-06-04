@@ -1,5 +1,4 @@
 #Theory/Theorem 
-#resources/Book/Khalil 
 Consider: ![[Consider - NTV#^system]]
 If:
 - $x = 0$ is an equilibrium of $\Sigma_\circ$
