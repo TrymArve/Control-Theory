@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "tag:#Theory/Theorem  ",
@@ -41,6 +41,34 @@
         "a": 1,
         "rgb": 12812082
       }
+    },
+    {
+      "query": "tag:#Theory/Result  ",
+      "color": {
+        "a": 1,
+        "rgb": 6863587
+      }
+    },
+    {
+      "query": "tag:#Theory/Technique  ",
+      "color": {
+        "a": 1,
+        "rgb": 5921522
+      }
+    },
+    {
+      "query": "tag:#Theory/Rule  ",
+      "color": {
+        "a": 1,
+        "rgb": 7787946
+      }
+    },
+    {
+      "query": "tag:#Theory/Remark  ",
+      "color": {
+        "a": 1,
+        "rgb": 15963632
+      }
     }
   ],
   "collapse-display": true,
@@ -53,6 +81,6 @@
   "repelStrength": 11.25,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 1.2526463391548872,
-  "close": false
+  "scale": 0.4061496711336511,
+  "close": true
 }

@@ -1,4 +1,4 @@
-#Theory/Consider/Feedback-Interconnection
+#Theory/Consider
 
 Consider:
 $$

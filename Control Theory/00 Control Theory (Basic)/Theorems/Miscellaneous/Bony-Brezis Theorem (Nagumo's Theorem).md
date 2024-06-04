@@ -21,7 +21,7 @@ Then,
 	- ????
 
 
-# From [[Control Barrier Functions - Theory and Applications|CBF - Review]]
+# From *"Control Barrier Functions - Theory and Applications"*
 Consider: ![[Consider - NTI#^system]]
 If:
 - $b:\mathbb{R}^{n_x}\mapsto\mathbb{R}$ is

@@ -1,7 +1,4 @@
-# Consider
-$$\Sigma_1:\qquad \dot{x}_1 = f_1(x_1,x_2)$$
-$$ \Sigma_2:\qquad \dot{x}_2 = f_2(x_2)$$
-![[Cascaded Systems.png]]
+Consider: ![[Consider - Cascade Interconnection (Time-Invariant)#^cascade-interconnected-system]]
 # **Theorem 12 (Loria's Lectures)**
 - If:
 	- $\Sigma_2$ is GAS         ($x_2 \rightarrow 0$ from anywhere)

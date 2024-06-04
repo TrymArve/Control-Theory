@@ -11,8 +11,30 @@
             "id": "c7bd23129db511de",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "00 Control Theory (Basic)/Definitions/LISS - Local Input-to-State Stability.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "aae048e6bdb27d12",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c05694d68a47fcb0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 Control Theory (Basic)/Definitions/ISS - Input-to-State Stability.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "00 Control Theory (Basic)/Definitions/LISS - Local Input-to-State Stability.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "00 Control Theory (Basic)/Definitions/LISS - Local Input-to-State Stability.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +142,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "00 Control Theory (Basic)/Definitions/LISS - Local Input-to-State Stability.md"
+              }
             }
           }
         ]
@@ -140,38 +166,39 @@
   },
   "active": "c7bd23129db511de",
   "lastOpenFiles": [
-    "00 Control Theory (Basic)/Canvases/ISS.canvas",
-    "00 Control Theory (Basic)/Theorems/Lemmas/Khalil/Lemma 4.6 - ISS from global exponential stability of uncontrolled dynamics.md",
-    "00 Control Theory Vault Notation and Practice.md",
-    "00 Control Theory (Basic)/Theorems/Antonio Loria's Lectures/Theorem 4 - Passivity-Based Control for Asymptotic Stability.md",
-    "00 Control Theory (Basic)/Techniques/Cascade Parameterization.md",
-    "00 Control Theory (Basic)/Definitions/0-GAS.md",
-    "00 Control Theory (Basic)/Definitions/Asymptotic Gain.md",
-    "00 Control Theory (Basic)/Definitions/Attractivity.md",
-    "00 Control Theory (Basic)/Definitions/BIBO Stability.md",
-    "00 Control Theory (Basic)/Definitions/Boundedness.md",
-    "00 Control Theory (Basic)/Definitions/Class K function.md",
-    "00 Control Theory (Basic)/Definitions/Control Barrier Function.md",
+    "00 Control Theory (Basic)/Definitions/Malkin's Total Stability.md",
+    "00 Control Theory (Basic)/Definitions/LISS - Local Input-to-State Stability.md",
+    "00 Control Theory (Basic)/Definitions/ISS - Input-to-State Stability.md",
+    "00 Control Theory (Basic)/Definitions/Lyapunov Stability.md",
+    "00 Control Theory (Basic)/Definitions/iISS - Integral-input-to-state stability.md",
+    "00 Control Theory (Basic)/Definitions/Lipschitz.md",
     "00 Control Theory (Basic)/Definitions/Control Lyapunov Function.md",
     "00 Control Theory (Basic)/Definitions/Definiteness.md",
-    "00 Control Theory (Basic)/Definitions/Forward Completeness.md",
-    "00 Control Theory (Basic)/Definitions/iISS - Integral-input-to-state stability.md",
-    "00 Control Theory (Basic)/Definitions/ISS - Input-to-State Stability.md",
-    "00 Control Theory (Basic)/Definitions/Lipschitz.md",
-    "00 Control Theory (Basic)/Definitions/Lyapunov Stability.md",
-    "00 Control Theory (Basic)/Definitions/Norm.md",
-    "00 Control Theory (Basic)/Definitions/Passivity.md",
-    "00 Control Theory (Basic)/Definitions/Zero-State Detectability.md",
-    "00 Control Theory (Basic)/Definitions/Uniform Continuity.md",
-    "00 Control Theory (Basic)/Definitions/Zero-State Observability.md",
-    "00 Control Theory (Basic)/Remarks/Bounded vs. Lipschitz.md",
-    "00 Control Theory (Basic)/Rules/Linear Algebra and Calculus/Jacobian of Dot Product.md",
+    "00 Control Theory (Basic)/Definitions/Control Barrier Function.md",
+    "00 Control Theory (Basic)/Definitions/Attractivity.md",
+    "00 Control Theory (Basic)/Consider/Consider - Controlled NTI.md",
+    "00 Control Theory (Basic)/Consider/Consider - Control Affine System.md",
+    "00 Control Theory (Basic)/Theorems/Interconnections/Cascaded Systems.md",
+    "00 Control Theory (Basic)/Consider/Consider - Cascade Interconnection (Time-Invariant).md",
+    "00 Control Theory (Basic)/Consider/Consider - Feedback Interconnection.md",
+    "00 Control Theory (Basic)/Theorems/Interconnections/Feedback Interconnection.md",
+    "00 Control Theory (Basic)/Theorems/Drawings/Cascaded Systems.png",
+    "00 Control Theory (Basic)/Theorems/Miscellaneous/Bony-Brezis Theorem (Nagumo's Theorem).md",
+    "00 Control Theory (Basic)/Theorems/Lemmas/Antonio Loria's Lectures/Lemma 8 - Integration Lemma for exponential stability.md",
+    "00 Control Theory (Basic)/Consider/Consider - NTV.md",
+    "00 Control Theory (Basic)/Theorems/Lemmas/Antonio Loria's Lectures/Lemma 9 - Integration Lemma for uniform asymptotic stability.md",
+    "00 Control Theory (Basic)/Theorems/Miscellaneous/Uniform Continuity from uniformly bounded derivative.md",
+    "00 Control Theory (Basic)/Theorems/Miscellaneous/Uniform Boundedness.md",
+    "00 Control Theory (Basic)/Theorems/Miscellaneous/Theorem - Main CBF Theorem (safe control).md",
+    "00 Control Theory (Basic)/Results/Sufficient Condition - Assumption 12.md",
+    "00 Control Theory (Basic)/Results/Result from Barbalat's Lemma.md",
+    "00 Control Theory (Basic)/Consider/Consider - NTI.md",
+    "00 Control Theory (Basic)/Canvases/ISS.canvas",
     "00 Control Theory (Basic)/Techniques",
     "00 Control Theory (Basic)/Theorems/Tryms Theorems",
     "00 Control Theory (Basic)/Theorems/Miscellaneous",
     "00 Control Theory (Basic)/Theorems/Lemmas/Khalil",
     "00 Control Theory (Basic)/Theorems/Lemmas/Antonio Loria's Lectures",
-    "00 Control Theory (Basic)/Theorems/Drawings/Cascaded Systems.png",
     "00 Control Theory (Basic)/Theorems/Lemmas",
     "00 Control Theory (Basic)/Theorems/Interconnections",
     "00 Control Theory (Basic)/Theorems/Khalil",

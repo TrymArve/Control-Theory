@@ -1,4 +1,4 @@
-#Theory/Consider/Cascade-Interconnection
+#Theory/Consider
 
 Consider:
 $$

@@ -1,5 +1,4 @@
-#Theory/Assumption 
-#Theory/Consider/Feedback-Interconnection 
+#Theory/Assumption
 
 Consider ![[Consider - Feedback Interconnection#^feedback-interconnected-system]]
 Assume that there exists a function

@@ -1,6 +1,4 @@
-#Theory/Assumption 
-#Theory/Consider/Feedback-Interconnection  
-#Theory/Definition/Forward-Completeness 
+#Theory/Assumption
 
 Consider:
 ![[Consider - Feedback Interconnection#^feedback-interconnected-system]]

@@ -1,4 +1,4 @@
-#Theory/Consider/Nonlinear-Time-Invariant 
+#Theory/Consider 
 Consider:
 $$
 \Sigma_\circ:\quad
