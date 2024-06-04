@@ -1,10 +1,4 @@
 #Theory/Theorem 
-#resources/Lecture/Loria
-Reference: 
-*C. Byrnes, A. Isidori, and J. C. Willems. Passivity, feedback equivalence, and the*
-*global stabilization of minimum phase nonlinear systems. IEEE Trans. on Automatic*
-*Control, AC-36(11):1228{1240, 1991.*
-
 Consider: ![[Consider - Controlled NTI#^system]]
 If $\Sigma_\circ$
 - is passive on the map $u \mapsto y$
@@ -26,3 +20,8 @@ asymptotically stabilizes the origin; $x=0$.
 - [[Barbalat's Lemma]] gives us: $y\rightarrow0$
 - And zero-state detectability then gives $x\rightarrow0$
 
+
+**Reference:** 
+*C. Byrnes, A. Isidori, and J. C. Willems. Passivity, feedback equivalence, and the*
+*global stabilization of minimum phase nonlinear systems. IEEE Trans. on Automatic*
+*Control, AC-36(11):1228{1240, 1991.*

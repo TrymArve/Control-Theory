@@ -1,6 +1,4 @@
-#Theory/Theorem 
-#Theory/Consider/Feedback-Interconnection 
-#resources/Lecture/Loria
+#Theory/Theorem
 
 *"case 1: $f_1(t,\cdot)$ dominates over $g(t,\cdot,x_2)$"*
 

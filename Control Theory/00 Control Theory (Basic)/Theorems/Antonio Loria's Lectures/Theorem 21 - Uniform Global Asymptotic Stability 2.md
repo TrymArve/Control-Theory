@@ -1,6 +1,4 @@
 #Theory/Theorem
-#Theory/Consider/Feedback-Interconnection 
-#resources/Lecture/Loria
 
 *"case 2:  $g(t,\cdot,x_2) = \mathcal{O}(f_1(t,\cdot))$"*
 

@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Control Theory Vault Notation and Practice.md",
+                "file": "00 Control Theory (Basic)/Theorems/Antonio Loria's Lectures/Theorem 21 - Uniform Global Asymptotic Stability 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Theory/Consider",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +98,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -118,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Control Theory Vault Notation and Practice.md",
+                "file": "00 Control Theory (Basic)/Theorems/Antonio Loria's Lectures/Theorem 21 - Uniform Global Asymptotic Stability 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Control Theory Vault Notation and Practice.md",
+                "file": "00 Control Theory (Basic)/Theorems/Antonio Loria's Lectures/Theorem 21 - Uniform Global Asymptotic Stability 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,16 +159,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Control Theory Vault Notation and Practice.md"
+                "file": "00 Control Theory (Basic)/Theorems/Antonio Loria's Lectures/Theorem 21 - Uniform Global Asymptotic Stability 2.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,8 +180,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "58c45ddeafb0fa2c",
+  "active": "b10e8ee17009762f",
   "lastOpenFiles": [
+    "00 Control Theory (Basic)/Theorems/Antonio Loria's Lectures/Theorem 18 - Uniform Global Boundedness 1.md",
+    "00 Control Theory (Basic)/Theorems/Antonio Loria's Lectures/Theorem 21 - Uniform Global Asymptotic Stability 2.md",
+    "00 Control Theory (Basic)/Theorems/Antonio Loria's Lectures/Theorem 20 - Uniform Global Asymptotic Stability 1.md",
+    "00 Control Theory (Basic)/Theorems/Antonio Loria's Lectures/Theorem 19 - Uniform Global Boundedness 2.md",
+    "00 Control Theory (Basic)/Theorems/Antonio Loria's Lectures/Theorem 4 - Passivity-Based Control for Asymptotic Stability.md",
+    "00 Control Theory (Basic)/Theorems/Antonio Loria's Lectures/Theorem 12 - GAS of Cascaded Interconnection.md",
+    "Theory.md",
+    "00 Control Theory Vault Notation and Practice.md",
     "00 Control Theory (Basic)/Theorems/Miscellaneous/Uniform Continuity from uniformly bounded derivative.md",
     "00 Control Theory (Basic)/Theorems/Miscellaneous/Uniform Boundedness.md",
     "00 Control Theory (Basic)/Theorems/Miscellaneous/Theorem - Main CBF Theorem (safe control).md",
@@ -200,15 +209,7 @@
     "00 Control Theory (Basic)/Theorems/Lemmas/Antonio Loria's Lectures/Lemma 8 - Integration Lemma for exponential stability.md",
     "00 Control Theory (Basic)/Theorems/Interconnections/Cascaded Systems/Canvas - Cascaded Systems.canvas",
     "00 Control Theory (Basic)/Theorems/Interconnections/Cascaded Systems/CascSys - GAS by 0-GAS.md",
-    "00 Control Theory (Basic)/Theorems/Khalil/Theorem 4.18 - (Ultimate) Boundedness from Lyapunov function.md",
-    "00 Control Theory (Basic)/Theorems/Khalil/Theorem 4.19 - ISS from Lyapunov function.md",
-    "00 Control Theory (Basic)/Theorems/Khalil/Theorem 4.17 - Lyapunov Function on Region of Attraction for AS equilibria.md",
-    "00 Control Theory (Basic)/Theorems/Khalil/Theorem 4.16 - Converse Lyapunov Theorem - Asymptotic Stability.md",
-    "00 Control Theory (Basic)/Theorems/Khalil/Theorem 4.15 - Exponential Stability from Linearization.md",
-    "00 Control Theory (Basic)/Theorems/Khalil/Theorem 3.2 - Global Existence and Uniqueness of solutions.md",
     "00 Control Theory (Basic)/Theorems/Interconnections/Cascaded Systems/Cascade Stability - GES + ISS = GAS.png",
-    "00 Control Theory (Basic)/Theorems/Interconnections/Cascaded Systems/CascSys - GAS by ISS.md",
-    "00 Control Theory (Basic)/Theorems/Interconnections/Cascaded Systems/CascSys - GAS by iISS.md",
     "00 Control Theory (Basic)/Theorems/Interconnections/Feedback Interconnections",
     "00 Control Theory (Basic)/Theorems/Interconnections/Cascaded Systems",
     "00 Control Theory (Basic)/Theorems/Drawings/Cascaded Systems.png",
