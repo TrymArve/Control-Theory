@@ -1,0 +1,12 @@
+# Basic Optimization Notation
+- $\phi(\cdot)$ - objective/cost function
+	- not $f$, to distinguish from dynamic constraints
+- $z$ - decision/optimization variable
+	- not $x$, to distinguish from state variables in dynamic opt.problems
+- $\mathcal{L}$ - [[Lagrangian]]
+- $\lambda$ - Lagrangian multipliers for equality constraints
+	- $\bar{\lambda}$ - to specify equality constraints
+	- $\hat{\lambda}$ - to specify inequality constraints
+	- Unless otherwise specified, we use $\lambda^{\top} \triangleq [\bar{\lambda}^{\top}, \hat{\lambda}^{\top}]$
+- $g(\cdot)$ - equality constraints
+- $h(\cdot)$ - inequality constraints ($h(\cdot) \geq 0$)

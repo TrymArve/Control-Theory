@@ -10,6 +10,7 @@ then:
 
 
 **Note:** 
-- if the system has a solution on $t\in[t_\circ,\infty\rangle$, the the system is [[Forward Completeness|forward complete]]
+- if the system has a solution on $t\in[t_\circ,\infty\rangle$, the the system is [[Forward Completeness|forward complete]].
+	This theorem, with $t_1\rightarrow \infty$, is therefore sufficient to show forward completeness.
 
 

@@ -6,7 +6,6 @@
       {
         "id": "51c7b1c8cba2abeb",
         "type": "tabs",
-        "dimension": 64.11290322580645,
         "children": [
           {
             "id": "c7bd23129db511de",
@@ -14,39 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Control Theory (Basic)/Theorems/Antonio Loria's Lectures/Theorem 18 - Uniform Global Boundedness 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "58c45ddeafb0fa2c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 Control Theory (Basic)/Theorems/Antonio Loria's Lectures/Theorem 21 - Uniform Global Asymptotic Stability 2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "aae048e6bdb27d12",
-        "type": "tabs",
-        "dimension": 35.88709677419355,
-        "children": [
-          {
-            "id": "c05694d68a47fcb0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 Control Theory (Basic)/Definitions/ISS - Input-to-State Stability.md",
+                "file": "01 Optimization Based Control/Optimization/General/KKT Conditions.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Theory/Consider",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -119,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Control Theory (Basic)/Theorems/Antonio Loria's Lectures/Theorem 21 - Uniform Global Asymptotic Stability 2.md",
+                "file": "01 Optimization Based Control/Optimization/General/KKT Conditions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Control Theory (Basic)/Theorems/Antonio Loria's Lectures/Theorem 21 - Uniform Global Asymptotic Stability 2.md",
+                "file": "01 Optimization Based Control/Optimization/General/KKT Conditions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,12 +125,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Control Theory (Basic)/Theorems/Antonio Loria's Lectures/Theorem 21 - Uniform Global Asymptotic Stability 2.md"
+                "file": "01 Optimization Based Control/Optimization/General/KKT Conditions.md"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -180,47 +146,47 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b10e8ee17009762f",
+  "active": "c7bd23129db511de",
   "lastOpenFiles": [
-    "00 Control Theory (Basic)/Theorems/Antonio Loria's Lectures/Theorem 18 - Uniform Global Boundedness 1.md",
-    "00 Control Theory (Basic)/Theorems/Antonio Loria's Lectures/Theorem 21 - Uniform Global Asymptotic Stability 2.md",
-    "00 Control Theory (Basic)/Theorems/Antonio Loria's Lectures/Theorem 20 - Uniform Global Asymptotic Stability 1.md",
-    "00 Control Theory (Basic)/Theorems/Antonio Loria's Lectures/Theorem 19 - Uniform Global Boundedness 2.md",
-    "00 Control Theory (Basic)/Theorems/Antonio Loria's Lectures/Theorem 4 - Passivity-Based Control for Asymptotic Stability.md",
-    "00 Control Theory (Basic)/Theorems/Antonio Loria's Lectures/Theorem 12 - GAS of Cascaded Interconnection.md",
-    "Theory.md",
-    "00 Control Theory Vault Notation and Practice.md",
-    "00 Control Theory (Basic)/Theorems/Miscellaneous/Uniform Continuity from uniformly bounded derivative.md",
-    "00 Control Theory (Basic)/Theorems/Miscellaneous/Uniform Boundedness.md",
-    "00 Control Theory (Basic)/Theorems/Miscellaneous/Theorem - Main CBF Theorem (safe control).md",
-    "00 Control Theory (Basic)/Theorems/Miscellaneous/Bony-Brezis Theorem (Nagumo's Theorem).md",
+    "01 Optimization Based Control/Notation and Practice - Optimization Based Control.md",
+    "01 Optimization Based Control/Optimization/General/KKT Conditions.md",
+    "01 Optimization Based Control/Optimization/LP/LP formulation.md",
+    "01 Optimization Based Control/Optimization/General/Lagrangian.md",
+    "01 Optimization Based Control/Optimization/NLP/NLP formulation.md",
+    "01 Optimization Based Control/Optimization/QP/QP formulation.md",
+    "01 Optimization Based Control/Optimization/NLP/Untitled",
+    "01 Optimization Based Control/Optimization/General",
+    "00 Control Theory (Basic)/Notation and Practice - Basic Control Theory.md",
+    "01 Optimization Based Control/Reinforcement Learning (RL)",
+    "01 Optimization Based Control/Model Predictive Control (MPC)/Stochastic MPC",
+    "01 Optimization Based Control/Model Predictive Control (MPC)/Robust MPC",
+    "01 Optimization Based Control/Model Predictive Control (MPC)",
+    "01 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)",
+    "01 Optimization Based Control/Model Predictive Control (MPC)/Linear MPC",
+    "01 Optimization Based Control/Optimization/NLP",
+    "01 Optimization Based Control/Optimization/QP",
+    "00 Control Theory (Basic)/Canvases/Canvas - Cascaded Systems.canvas",
+    "00 Control Theory (Basic)/Canvases/ISS.canvas",
     "00 Control Theory (Basic)/Theorems/Lemmas/Lemma - Integrability to Convergence.md",
     "00 Control Theory (Basic)/Theorems/Lemmas/ISS Lemma.md",
     "00 Control Theory (Basic)/Theorems/Lemmas/Barbalat's Lemma.md",
     "00 Control Theory (Basic)/Theorems/Lemmas/Khalil/Lemma 4.6 - ISS from global exponential stability of uncontrolled dynamics.md",
     "00 Control Theory (Basic)/Theorems/Lemmas/Khalil/Lemma 3.3 - Globally Lipschisz.md",
     "00 Control Theory (Basic)/Theorems/Lemmas/Khalil/Lemma 3.2 - Locally Lipschitz.md",
-    "00 Control Theory (Basic)/Theorems/Lemmas/Antonio Loria's Lectures/Lemma 26 - Forward Completeness.md",
-    "00 Control Theory (Basic)/Theorems/Lemmas/Antonio Loria's Lectures/Lemma 11 - Integration Lemma for uniform asymptotic stability 2.md",
-    "00 Control Theory (Basic)/Theorems/Lemmas/Antonio Loria's Lectures/Lemma 23 - Linear Growth Conditions for Cascaded Systems.md",
     "00 Control Theory (Basic)/Theorems/Lemmas/Antonio Loria's Lectures/Lemma 25 - iISS.md",
-    "00 Control Theory (Basic)/Theorems/Lemmas/Antonio Loria's Lectures/Lemma 10 - Integration Lemma for asymptotic stability.md",
-    "00 Control Theory (Basic)/Theorems/Lemmas/Antonio Loria's Lectures/Lemma 9 - Integration Lemma for uniform asymptotic stability.md",
-    "00 Control Theory (Basic)/Theorems/Lemmas/Antonio Loria's Lectures/Lemma 8 - Integration Lemma for exponential stability.md",
-    "00 Control Theory (Basic)/Theorems/Interconnections/Cascaded Systems/Canvas - Cascaded Systems.canvas",
+    "00 Control Theory (Basic)/Theorems/Khalil/Theorem 3.2 - Global Existence and Uniqueness of solutions.md",
+    "00 Control Theory (Basic)/Theorems/Khalil/Theorem 4.16 - Converse Lyapunov Theorem - Asymptotic Stability.md",
+    "00 Control Theory (Basic)/Theorems/Khalil/Theorem 4.15 - Exponential Stability from Linearization.md",
     "00 Control Theory (Basic)/Theorems/Interconnections/Cascaded Systems/CascSys - GAS by 0-GAS.md",
+    "00 Control Theory (Basic)/Theorems/Antonio Loria's Lectures/Theorem 20 - Uniform Global Asymptotic Stability 1.md",
+    "00 Control Theory (Basic)/Theorems/Antonio Loria's Lectures/Theorem 21 - Uniform Global Asymptotic Stability 2.md",
+    "00 Control Theory (Basic)/Theorems/Antonio Loria's Lectures/Theorem 4 - Passivity-Based Control for Asymptotic Stability.md",
+    "00 Control Theory (Basic)/Theorems/Antonio Loria's Lectures/Theorem 12 - GAS of Cascaded Interconnection.md",
+    "00 Control Theory (Basic)/Theorems/Antonio Loria's Lectures/Theorem 18 - Uniform Global Boundedness 1.md",
+    "00 Control Theory (Basic)/Theorems/Antonio Loria's Lectures/Theorem 19 - Uniform Global Boundedness 2.md",
+    "Theory.md",
+    "00 Control Theory (Basic)/Theorems/Miscellaneous/Uniform Continuity from uniformly bounded derivative.md",
     "00 Control Theory (Basic)/Theorems/Interconnections/Cascaded Systems/Cascade Stability - GES + ISS = GAS.png",
-    "00 Control Theory (Basic)/Theorems/Interconnections/Feedback Interconnections",
-    "00 Control Theory (Basic)/Theorems/Interconnections/Cascaded Systems",
-    "00 Control Theory (Basic)/Theorems/Drawings/Cascaded Systems.png",
-    "00 Control Theory (Basic)/Canvases/ISS.canvas",
-    "00 Control Theory (Basic)/Techniques",
-    "00 Control Theory (Basic)/Theorems/Tryms Theorems",
-    "00 Control Theory (Basic)/Theorems/Miscellaneous",
-    "00 Control Theory (Basic)/Theorems/Lemmas/Khalil",
-    "00 Control Theory (Basic)/Theorems/Lemmas/Antonio Loria's Lectures",
-    "00 Control Theory (Basic)/Theorems/Lemmas",
-    "00 Control Theory (Basic)/Theorems/Interconnections",
-    "00 Control Theory (Basic)/Theorems/Khalil"
+    "00 Control Theory (Basic)/Theorems/Drawings/Cascaded Systems.png"
   ]
 }

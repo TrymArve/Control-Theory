@@ -150,3 +150,4 @@ and we use the following consistent notation:
 		- $\beta(r,\cdot) \in \mathcal{K}$   in $r$ 
 		- $\beta(\cdot,t) \in \mathcal{L}$    in $t$
 - $V$ - Lyapunov functions
+	- and Lyapunov 'like' functions
