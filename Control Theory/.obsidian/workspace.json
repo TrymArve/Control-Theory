@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Optimization Based Control/Optimization/General/KKT Conditions.md",
+                "file": "02 Optimization Based Control/Optimization/Definitions/Solution.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Optimization Based Control/Optimization/General/KKT Conditions.md",
+                "file": "02 Optimization Based Control/Optimization/Definitions/Solution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 Optimization Based Control/Optimization/General/KKT Conditions.md",
+                "file": "02 Optimization Based Control/Optimization/Definitions/Solution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Optimization Based Control/Optimization/General/KKT Conditions.md"
+                "file": "02 Optimization Based Control/Optimization/Definitions/Solution.md"
               }
             }
           }
@@ -148,44 +148,44 @@
   },
   "active": "c7bd23129db511de",
   "lastOpenFiles": [
-    "01 Optimization Based Control/Notation and Practice - Optimization Based Control.md",
-    "01 Optimization Based Control/Optimization/General/KKT Conditions.md",
-    "01 Optimization Based Control/Optimization/LP/LP formulation.md",
-    "01 Optimization Based Control/Optimization/General/Lagrangian.md",
-    "01 Optimization Based Control/Optimization/NLP/NLP formulation.md",
-    "01 Optimization Based Control/Optimization/QP/QP formulation.md",
+    "00 Notation and Practice/Sets.md",
+    "00 Notation and Practice/Optimization.md",
+    "00 Notation and Practice/Functions and Dynamical Systems.md",
+    "00 Notation and Practice/00 Preface.md",
+    "00 Notation and Practice",
+    "02 Optimization Based Control/Optimization/Definitions/Solution.md",
+    "02 Optimization Based Control/Optimization/Definitions/Feasible Set.md",
+    "02 Optimization Based Control/Optimization/Definitions/NLP formulation.md",
+    "02 Optimization Based Control/Optimization/Theorems/Nocedal and Wright/Theorem 21.1 - First Order Necessary Conditions.md",
+    "02 Optimization Based Control/Optimization/Definitions/LP formulation.md",
+    "02 Optimization Based Control/Optimization/Definitions/LICQ - Linear Independence Constraint Qualification.md",
+    "02 Optimization Based Control/Optimization/Definitions/Lagrangian.md",
+    "02 Optimization Based Control/Optimization/Theorems/Nocedal and Wright",
+    "01 Optimization Based Control/Optimization/Theorems/Untitled.md",
+    "02 Optimization Based Control/Optimization/Theorems",
+    "02 Optimization Based Control/Optimization/Definitions/KKT Conditions.md",
+    "02 Optimization Based Control/Optimization/Definitions",
+    "02 Optimization Based Control/Optimization/Definitions/QP formulation.md",
     "01 Optimization Based Control/Optimization/NLP/Untitled",
     "01 Optimization Based Control/Optimization/General",
-    "00 Control Theory (Basic)/Notation and Practice - Basic Control Theory.md",
-    "01 Optimization Based Control/Reinforcement Learning (RL)",
-    "01 Optimization Based Control/Model Predictive Control (MPC)/Stochastic MPC",
-    "01 Optimization Based Control/Model Predictive Control (MPC)/Robust MPC",
-    "01 Optimization Based Control/Model Predictive Control (MPC)",
-    "01 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)",
-    "01 Optimization Based Control/Model Predictive Control (MPC)/Linear MPC",
-    "01 Optimization Based Control/Optimization/NLP",
-    "01 Optimization Based Control/Optimization/QP",
-    "00 Control Theory (Basic)/Canvases/Canvas - Cascaded Systems.canvas",
-    "00 Control Theory (Basic)/Canvases/ISS.canvas",
-    "00 Control Theory (Basic)/Theorems/Lemmas/Lemma - Integrability to Convergence.md",
-    "00 Control Theory (Basic)/Theorems/Lemmas/ISS Lemma.md",
-    "00 Control Theory (Basic)/Theorems/Lemmas/Barbalat's Lemma.md",
-    "00 Control Theory (Basic)/Theorems/Lemmas/Khalil/Lemma 4.6 - ISS from global exponential stability of uncontrolled dynamics.md",
-    "00 Control Theory (Basic)/Theorems/Lemmas/Khalil/Lemma 3.3 - Globally Lipschisz.md",
-    "00 Control Theory (Basic)/Theorems/Lemmas/Khalil/Lemma 3.2 - Locally Lipschitz.md",
-    "00 Control Theory (Basic)/Theorems/Lemmas/Antonio Loria's Lectures/Lemma 25 - iISS.md",
-    "00 Control Theory (Basic)/Theorems/Khalil/Theorem 3.2 - Global Existence and Uniqueness of solutions.md",
-    "00 Control Theory (Basic)/Theorems/Khalil/Theorem 4.16 - Converse Lyapunov Theorem - Asymptotic Stability.md",
-    "00 Control Theory (Basic)/Theorems/Khalil/Theorem 4.15 - Exponential Stability from Linearization.md",
-    "00 Control Theory (Basic)/Theorems/Interconnections/Cascaded Systems/CascSys - GAS by 0-GAS.md",
-    "00 Control Theory (Basic)/Theorems/Antonio Loria's Lectures/Theorem 20 - Uniform Global Asymptotic Stability 1.md",
-    "00 Control Theory (Basic)/Theorems/Antonio Loria's Lectures/Theorem 21 - Uniform Global Asymptotic Stability 2.md",
-    "00 Control Theory (Basic)/Theorems/Antonio Loria's Lectures/Theorem 4 - Passivity-Based Control for Asymptotic Stability.md",
-    "00 Control Theory (Basic)/Theorems/Antonio Loria's Lectures/Theorem 12 - GAS of Cascaded Interconnection.md",
-    "00 Control Theory (Basic)/Theorems/Antonio Loria's Lectures/Theorem 18 - Uniform Global Boundedness 1.md",
-    "00 Control Theory (Basic)/Theorems/Antonio Loria's Lectures/Theorem 19 - Uniform Global Boundedness 2.md",
-    "Theory.md",
-    "00 Control Theory (Basic)/Theorems/Miscellaneous/Uniform Continuity from uniformly bounded derivative.md",
+    "02 Optimization Based Control/Reinforcement Learning (RL)",
+    "02 Optimization Based Control/Model Predictive Control (MPC)/Stochastic MPC",
+    "02 Optimization Based Control/Model Predictive Control (MPC)/Robust MPC",
+    "02 Optimization Based Control/Model Predictive Control (MPC)",
+    "01 Control Theory (Basic)/Canvases/Canvas - Cascaded Systems.canvas",
+    "01 Control Theory (Basic)/Canvases/ISS.canvas",
+    "01 Control Theory (Basic)/Theorems/Lemmas/Lemma - Integrability to Convergence.md",
+    "01 Control Theory (Basic)/Theorems/Lemmas/ISS Lemma.md",
+    "01 Control Theory (Basic)/Theorems/Lemmas/Barbalat's Lemma.md",
+    "01 Control Theory (Basic)/Theorems/Lemmas/Khalil/Lemma 4.6 - ISS from global exponential stability of uncontrolled dynamics.md",
+    "01 Control Theory (Basic)/Theorems/Lemmas/Khalil/Lemma 3.3 - Globally Lipschisz.md",
+    "01 Control Theory (Basic)/Theorems/Lemmas/Khalil/Lemma 3.2 - Locally Lipschitz.md",
+    "01 Control Theory (Basic)/Theorems/Lemmas/Antonio Loria's Lectures/Lemma 25 - iISS.md",
+    "01 Control Theory (Basic)/Theorems/Khalil/Theorem 3.2 - Global Existence and Uniqueness of solutions.md",
+    "01 Control Theory (Basic)/Theorems/Khalil/Theorem 4.16 - Converse Lyapunov Theorem - Asymptotic Stability.md",
+    "01 Control Theory (Basic)/Theorems/Khalil/Theorem 4.15 - Exponential Stability from Linearization.md",
+    "01 Control Theory (Basic)/Theorems/Interconnections/Cascaded Systems/CascSys - GAS by 0-GAS.md",
+    "01 Control Theory (Basic)/Theorems/Antonio Loria's Lectures/Theorem 20 - Uniform Global Asymptotic Stability 1.md",
     "00 Control Theory (Basic)/Theorems/Interconnections/Cascaded Systems/Cascade Stability - GES + ISS = GAS.png",
     "00 Control Theory (Basic)/Theorems/Drawings/Cascaded Systems.png"
   ]

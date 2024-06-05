@@ -1,8 +1,0 @@
-{
-	"nodes":[
-		{"id":"9473db1b7d2f7ab8","type":"file","file":"00 Control Theory (Basic)/Theorems/Lemmas/ISS Lemma.md","x":-340,"y":380,"width":420,"height":320,"color":"4"},
-		{"id":"441ad7a806ac1919","type":"file","file":"00 Control Theory (Basic)/Theorems/Khalil/Theorem 4.19 - ISS from Lyapunov function.md","x":240,"y":-160,"width":680,"height":700,"color":"1"},
-		{"id":"c0ab2894da2b8315","type":"file","file":"00 Control Theory (Basic)/Definitions/ISS - Input-to-State Stability.md","x":-600,"y":-240,"width":800,"height":600,"color":"6"}
-	],
-	"edges":[]
-}

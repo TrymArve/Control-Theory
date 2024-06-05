@@ -10,3 +10,5 @@
 	- Unless otherwise specified, we use $\lambda^{\top} \triangleq [\bar{\lambda}^{\top}, \hat{\lambda}^{\top}]$
 - $g(\cdot)$ - equality constraints
 - $h(\cdot)$ - inequality constraints ($h(\cdot) \geq 0$)
+
+## LP/QP Specific
