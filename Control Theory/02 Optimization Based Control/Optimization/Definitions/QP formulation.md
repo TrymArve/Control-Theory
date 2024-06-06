@@ -9,3 +9,7 @@ where
 - $b_{eq} \in \mathbb{R}^{n_{eq}}$ is the equality constraint vector
 - $A_{in}\in \mathbb{R}^{n_{in}\times n_z}$ is the inequality constraint matrix
 - $b_{in} \in \mathbb{R}^{n_{in}}$ is the inequality constraint vector
+
+
+**Remarks:**
+- An LP is technically a QP, with $G=[0]$, but we often do not include LPs in the notion of a QP.

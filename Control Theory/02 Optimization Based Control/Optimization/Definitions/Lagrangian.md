@@ -1,4 +1,4 @@
-consider: ![[NLP formulation#^59f1b4]]
+consider: ![[NLP formulation#^NLP]]
 The Lagrangian is defined *(in this vault)* as:
 
 $$\mathcal{L}(z,\lambda) \triangleq \phi(z) - \sum\limits_{i=1}^{n_{eq}}\bar{\lambda}_{i}g_i(z) - \sum\limits_{i=1}^{n_{in}}\hat{\lambda}_{i}h_i(z) $$ ^f38d6e

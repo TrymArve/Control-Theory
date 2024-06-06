@@ -1,6 +1,6 @@
 **Also known as:** *'Karush–Kuhn–Tucker' conditions
 
-Consider ![[NLP formulation#^59f1b4]]
+Consider ![[NLP formulation#^NLP]]
 and ![[Lagrangian#^f38d6e]]
 The KKT conditions are:
 $$\begin{align*}

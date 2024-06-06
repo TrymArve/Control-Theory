@@ -1,4 +1,4 @@
-Consider ![[NLP formulation#^59f1b4]]
+Consider ![[NLP formulation#^NLP]]
 If:
 - $z^{*} \in \mathbb{F}$
 - $\phi(z^{*})\leq \phi(z') \quad \forall z' \in \tilde{\mathbb{N}}(z^{*}) \cap \mathbb{F}$
@@ -13,7 +13,7 @@ Then:
 
 
 # Strict Solution
-Consider ![[NLP formulation#^59f1b4]]
+Consider ![[NLP formulation#^NLP]]
 If:
 - $z^{*} \in \mathbb{F}$
 - $\phi(z^{*}) < \phi(z') \quad \forall z' \in \tilde{\mathbb{N}}(z^{*}) \cap \mathbb{F}$
@@ -26,7 +26,7 @@ Then:
 
 
 # Global Solution
-Consider ![[NLP formulation#^59f1b4]]
+Consider ![[NLP formulation#^NLP]]
 If:
 - $z^{*} \in \mathbb{F}$
 - $\phi(z^{*}) \leq \phi(z') \quad \forall z' \in \mathbb{F}$
@@ -41,7 +41,7 @@ Then:
 
 
 # Unique Solution
-Consider ![[NLP formulation#^59f1b4]]
+Consider ![[NLP formulation#^NLP]]
 If:
 - $z^{*} \in \mathbb{F}$
 - $\phi(z^{*}) < \phi(z') \quad \forall z' \in \mathbb{F}\setminus z^{*}$
@@ -49,10 +49,10 @@ Then:
 - $z^*$ is a ***unique solution*** of (NLP)
 
 **Remarks:**
-- All other feasible points yield a larger objective value
+- All other feasible points yield a strictly larger objective value
 - There is only one or zero unique solutions
 - A unique solution is a global solution
 - A unique solution is a strict solution
-- If there is a unique solutions, there are no other global solutions
+- A unique solution is a, and is the only, global solution
 
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Optimization Based Control/Optimization/Definitions/Solution.md",
+                "file": "02 Optimization Based Control/Optimization/Definitions/LICQ - Linear Independence Constraint Qualification.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 Optimization Based Control/Optimization/Definitions/Solution.md",
+                "file": "02 Optimization Based Control/Optimization/Definitions/LICQ - Linear Independence Constraint Qualification.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 Optimization Based Control/Optimization/Definitions/Solution.md",
+                "file": "02 Optimization Based Control/Optimization/Definitions/LICQ - Linear Independence Constraint Qualification.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 Optimization Based Control/Optimization/Definitions/Solution.md"
+                "file": "02 Optimization Based Control/Optimization/Definitions/LICQ - Linear Independence Constraint Qualification.md"
               }
             }
           }
@@ -148,24 +148,26 @@
   },
   "active": "c7bd23129db511de",
   "lastOpenFiles": [
+    "02 Optimization Based Control/Optimization/Definitions/Active Set.md",
     "00 Notation and Practice/Sets.md",
+    "02 Optimization Based Control/Optimization/Definitions/Active Constraint.md",
     "00 Notation and Practice/Optimization.md",
+    "02 Optimization Based Control/Optimization/Definitions/LICQ - Linear Independence Constraint Qualification.md",
+    "02 Optimization Based Control/Optimization/Definitions/Feasible Set.md",
+    "02 Optimization Based Control/Optimization/Definitions/NLP formulation.md",
+    "02 Optimization Based Control/Optimization/Definitions/QP formulation.md",
+    "02 Optimization Based Control/Optimization/Definitions/Solution.md",
+    "02 Optimization Based Control/Optimization/Definitions/LP formulation.md",
+    "02 Optimization Based Control/Optimization/Definitions/Lagrangian.md",
+    "02 Optimization Based Control/Optimization/Definitions/KKT Conditions.md",
     "00 Notation and Practice/Functions and Dynamical Systems.md",
     "00 Notation and Practice/00 Preface.md",
     "00 Notation and Practice",
-    "02 Optimization Based Control/Optimization/Definitions/Solution.md",
-    "02 Optimization Based Control/Optimization/Definitions/Feasible Set.md",
-    "02 Optimization Based Control/Optimization/Definitions/NLP formulation.md",
     "02 Optimization Based Control/Optimization/Theorems/Nocedal and Wright/Theorem 21.1 - First Order Necessary Conditions.md",
-    "02 Optimization Based Control/Optimization/Definitions/LP formulation.md",
-    "02 Optimization Based Control/Optimization/Definitions/LICQ - Linear Independence Constraint Qualification.md",
-    "02 Optimization Based Control/Optimization/Definitions/Lagrangian.md",
     "02 Optimization Based Control/Optimization/Theorems/Nocedal and Wright",
     "01 Optimization Based Control/Optimization/Theorems/Untitled.md",
     "02 Optimization Based Control/Optimization/Theorems",
-    "02 Optimization Based Control/Optimization/Definitions/KKT Conditions.md",
     "02 Optimization Based Control/Optimization/Definitions",
-    "02 Optimization Based Control/Optimization/Definitions/QP formulation.md",
     "01 Optimization Based Control/Optimization/NLP/Untitled",
     "01 Optimization Based Control/Optimization/General",
     "02 Optimization Based Control/Reinforcement Learning (RL)",
@@ -184,8 +186,6 @@
     "01 Control Theory (Basic)/Theorems/Khalil/Theorem 3.2 - Global Existence and Uniqueness of solutions.md",
     "01 Control Theory (Basic)/Theorems/Khalil/Theorem 4.16 - Converse Lyapunov Theorem - Asymptotic Stability.md",
     "01 Control Theory (Basic)/Theorems/Khalil/Theorem 4.15 - Exponential Stability from Linearization.md",
-    "01 Control Theory (Basic)/Theorems/Interconnections/Cascaded Systems/CascSys - GAS by 0-GAS.md",
-    "01 Control Theory (Basic)/Theorems/Antonio Loria's Lectures/Theorem 20 - Uniform Global Asymptotic Stability 1.md",
     "00 Control Theory (Basic)/Theorems/Interconnections/Cascaded Systems/Cascade Stability - GES + ISS = GAS.png",
     "00 Control Theory (Basic)/Theorems/Drawings/Cascaded Systems.png"
   ]

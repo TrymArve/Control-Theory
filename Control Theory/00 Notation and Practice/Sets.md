@@ -34,6 +34,7 @@ These are typical uses for set symbols, but non-strict. That is, we strive to us
 	- "safe sets" - Safe control: [[Control Barrier Function]] etc.
 - $\mathbb{A}$ 
 	- "region of attraction" - [[Lyapunov Stability#Asymptotic Stability (AS)|Asymptotic Stability]]
+	- "Active Set" - [[Active Set]]
 - $\mathbb{P}$
 	- "set of primes" - $\mathbb{P} = \{x\in \mathbb{N} | x\text{ is prime}\}$
 	- "Positive orthant" - $\mathbb{P} = \mathbb{R}_{>0}^{n}$

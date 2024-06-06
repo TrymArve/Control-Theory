@@ -1,4 +1,4 @@
 %% #Theory/Theorem%%
-Consider ![[NLP formulation#^59f1b4]]
+Consider ![[NLP formulation#^NLP]]
 If:
 - $x^*$ is a local solution of 

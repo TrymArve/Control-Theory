@@ -1,4 +1,4 @@
-$$\text{(NLP):} \qquad  \min_{z\in\mathbb{R}^{n_z}} ~\phi(z)\quad s.t. \quad g(z) = 0\, , \quad h(z) \geq 0$$ ^59f1b4
+$$\text{(NLP):} \qquad  \min_{z\in\mathbb{R}^{n_z}} ~\phi(z)\quad s.t. \quad g(z) = 0\, , \quad h(z) \geq 0$$ ^NLP
 
 
 where
@@ -12,3 +12,4 @@ where
 - $\phi,g,h$ are usually continuously differentiable if not specified otherwise.
 	- though this is not necessarily the case.
 - inequality constraints may be specified as $h(z) \leq 0$ sometimes in literature, but we consistently use the positive formulation above in this vault.
+- Technically, a QP and an LP is a type of NLP, but in practice we often use "NLP" to distinguish from a QP/LP.

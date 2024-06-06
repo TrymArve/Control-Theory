@@ -1,9 +1,12 @@
-Consider ![[NLP formulation#^59f1b4]]
+Consider ![[NLP formulation#^NLP]]
 The Feasible Set of (NLP) is defined as:
 $$\mathbb{F}\triangleq \{z\in \mathbb{R}^{n_{z}} | \quad g(z) = 0 ~ \wedge ~h(z) \geq 0 \}$$
-
-
-
-
-A problem is said to be **Infeasible** iff:
+**Infeasible:**
+- A problem is said to be **Infeasible** iff:
 $$\mathbb{F} = \emptyset$$
+
+
+
+**Remarks:**
+- A point $z$ is called a *"feasible point"* if $z\in \mathbb{F}$
+
