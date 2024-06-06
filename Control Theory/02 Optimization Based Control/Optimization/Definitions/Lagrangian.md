@@ -5,5 +5,5 @@ $$\mathcal{L}(z,\lambda) \triangleq \phi(z) - \sum\limits_{i=1}^{n_{eq}}\bar{\la
 
 where
 - $\lambda^{\top} \triangleq [\bar{\lambda}^{\top}, \hat{\lambda}^{\top}]$
-
+	- these are called the *"Lagrangian multipliers"*
 

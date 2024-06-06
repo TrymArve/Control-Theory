@@ -2,7 +2,7 @@
 
 Consider ![[NLP formulation#^NLP]]
 and ![[Lagrangian#^f38d6e]]
-The KKT conditions are:
+For a given solution $z^{*}$, and lagrangian multipliers $\lambda^{*}$, the KKT conditions are:
 $$\begin{align*}
 \text{(KKT-1):} \qquad && \nabla_{z}\mathcal{L}(z^*,\lambda^*)&=0\\
 \text{(KKT-2):} \qquad && g(z^*)&=0\\

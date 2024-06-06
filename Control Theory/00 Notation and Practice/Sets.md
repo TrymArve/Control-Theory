@@ -41,6 +41,11 @@ These are typical uses for set symbols, but non-strict. That is, we strive to us
 		- $\mathbb{P}_0 = \mathbb{R}_{+}^{n}$
 - $\mathbb{U}$ 
 	- "admissible inputs" - the set of possible/acceptable inputs to a dynamical system
+- $\mathbb{T}_{\Omega}(z)$
+	- "Tangent Cone" - [[Tangent Cone]]
+- $\mathbb{F}$
+	- "Feasible Set" - [[Feasible Set]]
+	- use $\vec{\mathbb{F}}(z)$ to denote [[Linearized Feasible Directions]]
 
 # Other Set Notational Practices
 - $\mathbb{E}^{n}$ 
