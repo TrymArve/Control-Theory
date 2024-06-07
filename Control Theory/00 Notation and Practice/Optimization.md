@@ -15,4 +15,14 @@
 - $h(\cdot)$ - inequality constraints ($h(\cdot) \geq 0$)
 
 ## LP/QP Specific
+
+
+
+# Simulation/Dynamic Optimization
+- $t\in[0,T]$ - simulation/operation interval is 
+- N - Number of samples of a discretized/transcribed trajectory
+	- *'horizon of overall simulation/planned operation'*
+	- not including the "0th" sample (current/initial)
+- H - "horizon"
+	- number of integration steps in horizon of dynamic optimization problem
 - 

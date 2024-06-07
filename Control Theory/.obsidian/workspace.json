@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Optimization Based Control/Optimization/Definitions/Critical Cone.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a163613854e26104",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 Optimization Based Control/Optimization/Definitions/Critical Cone.md",
+                "file": "03 Optimization Based Control/Consider/Consider - reference trajectory.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 355.5
   },
   "right": {
     "id": "996e4053ce2361ec",
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 Optimization Based Control/Optimization/Definitions/Critical Cone.md",
+                "file": "03 Optimization Based Control/Consider/Consider - reference trajectory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 Optimization Based Control/Optimization/Definitions/Critical Cone.md",
+                "file": "03 Optimization Based Control/Consider/Consider - reference trajectory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,12 +125,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 Optimization Based Control/Optimization/Definitions/Critical Cone.md"
+                "file": "03 Optimization Based Control/Consider/Consider - reference trajectory.md"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -160,44 +147,44 @@
   },
   "active": "aeb8559d30733d77",
   "lastOpenFiles": [
-    "02 Optimization Based Control/Optimization/Definitions/Linearized Feasible Directions.md",
-    "02 Optimization Based Control/Optimization/Definitions/LICQ - Linear Independence Constraint Qualification.md",
-    "02 Optimization Based Control/Optimization/Definitions/Lagrangian.md",
-    "02 Optimization Based Control/Optimization/Definitions/KKT Conditions.md",
-    "02 Optimization Based Control/Optimization/Definitions/Feasible Set.md",
-    "02 Optimization Based Control/Optimization/Definitions/Active Constraint.md",
-    "02 Optimization Based Control/Optimization/Definitions/Active Set.md",
-    "02 Optimization Based Control/Optimization/Definitions/Critical Cone.md",
-    "02 Optimization Based Control/Optimization/Definitions/Tangent Cone.md",
-    "02 Optimization Based Control/Optimization/Definitions/Solution.md",
-    "02 Optimization Based Control/Optimization/Definitions/QP formulation.md",
-    "02 Optimization Based Control/Optimization/Definitions/NLP formulation.md",
-    "02 Optimization Based Control/Optimization/Definitions/LP formulation.md",
-    "00 Notation and Practice/Sets.md",
-    "02 Optimization Based Control/Optimization/Theorems/Lemmas/Farkas Lemma.md",
-    "02 Optimization Based Control/Optimization/Theorems/Nocedal and Wright/Theorem 12.3 - Objective Gradient at Solution.md",
-    "02 Optimization Based Control/Optimization/Theorems/Lemmas/Nocedal and Wright/Lemma 12.2 - Feasible Directions and Tangent Cone relation.md",
-    "02 Optimization Based Control/Optimization/Theorems/Lemmas/Nocedal and Wright",
-    "02 Optimization Based Control/Optimization/Theorems/Lemmas",
-    "02 Optimization Based Control/Optimization/Theorems/Nocedal and Wright/Theorem 12.1 - First-Order Necessary Conditions.md",
-    "01 Control Theory (Basic)/Proofs",
     "00 Notation and Practice/Optimization.md",
-    "00 Notation and Practice/Functions and Dynamical Systems.md",
-    "00 Notation and Practice/00 Preface.md",
-    "00 Notation and Practice",
-    "02 Optimization Based Control/Optimization/Theorems/Nocedal and Wright",
-    "01 Optimization Based Control/Optimization/Theorems/Untitled.md",
-    "02 Optimization Based Control/Optimization/Theorems",
-    "02 Optimization Based Control/Optimization/Definitions",
-    "01 Optimization Based Control/Optimization/NLP/Untitled",
-    "01 Optimization Based Control/Optimization/General",
-    "02 Optimization Based Control/Reinforcement Learning (RL)",
-    "01 Control Theory (Basic)/Canvases/Canvas - Cascaded Systems.canvas",
-    "01 Control Theory (Basic)/Canvases/ISS.canvas",
-    "01 Control Theory (Basic)/Theorems/Lemmas/Lemma - Integrability to Convergence.md",
-    "01 Control Theory (Basic)/Theorems/Lemmas/ISS Lemma.md",
-    "01 Control Theory (Basic)/Theorems/Lemmas/Barbalat's Lemma.md",
-    "01 Control Theory (Basic)/Theorems/Lemmas/Khalil/Lemma 4.6 - ISS from global exponential stability of uncontrolled dynamics.md",
+    "03 Optimization Based Control/Consider/Consider - reference trajectory.md",
+    "03 Optimization Based Control/Model Predictive Control (MPC)/Linear MPC/Untitled.md",
+    "03 Optimization Based Control/Consider",
+    "03 Optimization Based Control/Optimization/Theorems/Lemmas/Nocedal and Wright/Lemma 12.2 - Feasible Directions and Tangent Cone relation.md",
+    "03 Optimization Based Control/Optimization/Theorems/Lemmas/Farkas Lemma.md",
+    "03 Optimization Based Control/Optimization/Theorems/Nocedal and Wright/Theorem 12.3 - Objective Gradient at Solution.md",
+    "03 Optimization Based Control/Optimization/Theorems/Nocedal and Wright/Theorem 12.1 - First-Order Necessary Conditions.md",
+    "03 Optimization Based Control/Optimization/Definitions/KKT Conditions.md",
+    "03 Optimization Based Control/Optimization/Definitions/Tangent Cone.md",
+    "03 Optimization Based Control/Optimization/Definitions/Solution.md",
+    "03 Optimization Based Control/Optimization/Definitions/QP formulation.md",
+    "03 Optimization Based Control/Optimization/Definitions/NLP formulation.md",
+    "03 Optimization Based Control/Dynamic Optimization/Single Shooting.md",
+    "03 Optimization Based Control/Dynamic Optimization/Direct Transcription.md",
+    "03 Optimization Based Control/Dynamic Optimization/Direct Collocation.md",
+    "02 Control Theory (Basic)/Theorems/Miscellaneous/Theorem - Main CBF Theorem (safe control).md",
+    "04 Simulation/Collocation",
+    "04 Simulation/Runge Kutta Methods",
+    "04 Simulation",
+    "02 Control Theory (Basic)/Theorems/Miscellaneous/Bony-Brezis Theorem (Nagumo's Theorem).md",
+    "02 Control Theory (Basic)/Assumptions/Antonio Loria's Lectures/Assumption 14 - Growth rate condition 2.md",
+    "02 Control Theory (Basic)/Techniques/Cascade Parameterization.md",
+    "01 Relevant Mathematics/Rules/Linear Algebra and Calculus/Derivative of norm.md",
+    "01 Relevant Mathematics/Rules/Linear Algebra and Calculus/Jacobian of Dot Product.md",
+    "01 Relevant Mathematics/Definitions/Surjective.md",
+    "01 Relevant Mathematics/Definitions/Injective.md",
+    "01 Relevant Mathematics/Definitions/Bijective.md",
+    "03 Optimization Based Control/Dynamic Optimization/Multiple Shooting.md",
+    "03 Optimization Based Control/Optimization/LP/Algorithms/Simplex Algorithm.md",
+    "02 Optimization Based Control/Dynamic Optimization/Single Shooting",
+    "03 Optimization Based Control/Dynamic Optimization",
+    "02 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/Untitled",
+    "02 Optimization Based Control/Optimization/LP/Algorithms/Untitled",
+    "03 Optimization Based Control/Optimization/LP/Algorithms",
+    "03 Optimization Based Control/Optimization/QP/Algorithms",
+    "02 Control Theory (Basic)/Canvases/Canvas - Cascaded Systems.canvas",
+    "02 Control Theory (Basic)/Canvases/ISS.canvas",
     "00 Control Theory (Basic)/Theorems/Interconnections/Cascaded Systems/Cascade Stability - GES + ISS = GAS.png",
     "00 Control Theory (Basic)/Theorems/Drawings/Cascaded Systems.png"
   ]
