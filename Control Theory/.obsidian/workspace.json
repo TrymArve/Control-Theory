@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e786bc39b05c80e6",
+        "id": "262a4d89e6ace3d2",
         "type": "tabs",
         "children": [
           {
-            "id": "aeb8559d30733d77",
+            "id": "e4864465926f46e1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Optimization Based Control/Consider/Consider - reference trajectory.md",
+                "file": "04 Optimization Based Control/Model Predictive Control (MPC)/Linear MPC (LMPC)/LMPC - Discussion by Gros.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 Optimization Based Control/Consider/Consider - reference trajectory.md",
+                "file": "04 Optimization Based Control/Model Predictive Control (MPC)/Linear MPC (LMPC)/LMPC - Discussion by Gros.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 Optimization Based Control/Consider/Consider - reference trajectory.md",
+                "file": "04 Optimization Based Control/Model Predictive Control (MPC)/Linear MPC (LMPC)/LMPC - Discussion by Gros.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Optimization Based Control/Consider/Consider - reference trajectory.md"
+                "file": "04 Optimization Based Control/Model Predictive Control (MPC)/Linear MPC (LMPC)/LMPC - Discussion by Gros.md"
               }
             }
           }
@@ -133,7 +133,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -145,46 +146,47 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "aeb8559d30733d77",
+  "active": "e4864465926f46e1",
   "lastOpenFiles": [
+    "03 Nonlinear Control/Definitions/LISS - Local Input-to-State Stability.md",
+    "04 Optimization Based Control/Model Predictive Control (MPC)/Linear MPC (LMPC)/LMPC - Discussion by Gros.md",
     "00 Notation and Practice/Optimization.md",
-    "03 Optimization Based Control/Consider/Consider - reference trajectory.md",
-    "03 Optimization Based Control/Model Predictive Control (MPC)/Linear MPC/Untitled.md",
-    "03 Optimization Based Control/Consider",
-    "03 Optimization Based Control/Optimization/Theorems/Lemmas/Nocedal and Wright/Lemma 12.2 - Feasible Directions and Tangent Cone relation.md",
-    "03 Optimization Based Control/Optimization/Theorems/Lemmas/Farkas Lemma.md",
-    "03 Optimization Based Control/Optimization/Theorems/Nocedal and Wright/Theorem 12.3 - Objective Gradient at Solution.md",
-    "03 Optimization Based Control/Optimization/Theorems/Nocedal and Wright/Theorem 12.1 - First-Order Necessary Conditions.md",
-    "03 Optimization Based Control/Optimization/Definitions/KKT Conditions.md",
-    "03 Optimization Based Control/Optimization/Definitions/Tangent Cone.md",
-    "03 Optimization Based Control/Optimization/Definitions/Solution.md",
-    "03 Optimization Based Control/Optimization/Definitions/QP formulation.md",
-    "03 Optimization Based Control/Optimization/Definitions/NLP formulation.md",
-    "03 Optimization Based Control/Dynamic Optimization/Single Shooting.md",
-    "03 Optimization Based Control/Dynamic Optimization/Direct Transcription.md",
-    "03 Optimization Based Control/Dynamic Optimization/Direct Collocation.md",
-    "02 Control Theory (Basic)/Theorems/Miscellaneous/Theorem - Main CBF Theorem (safe control).md",
-    "04 Simulation/Collocation",
-    "04 Simulation/Runge Kutta Methods",
-    "04 Simulation",
-    "02 Control Theory (Basic)/Theorems/Miscellaneous/Bony-Brezis Theorem (Nagumo's Theorem).md",
-    "02 Control Theory (Basic)/Assumptions/Antonio Loria's Lectures/Assumption 14 - Growth rate condition 2.md",
-    "02 Control Theory (Basic)/Techniques/Cascade Parameterization.md",
+    "04 Optimization Based Control/Model Predictive Control (MPC)/Linear MPC (LMPC)/Basic LMPC - By Gros.md",
+    "04 Optimization Based Control/Consider/Consider - reference trajectory.md",
+    "02 Linear Systems",
+    "04 Optimization Based Control/Consider/Consider - Discrete NTV.md",
+    "04 Optimization Based Control/Model Predictive Control (MPC)/Images/MPC Trajectory Notation.pdf",
+    "03 Optimization Based Control/Model Predictive Control (MPC)/Images/MPC Trajectory NotationOLD.pdf",
+    "04 Optimization Based Control/Model Predictive Control (MPC)/Images/MPC Trajectory Notation.svg",
+    "04 Optimization Based Control/Model Predictive Control (MPC)/Images",
+    "03 Optimization Based Control/MPC Trajectory Notation.pdf",
+    "MPC Trajectory Notation.pdf",
+    "04 Optimization Based Control/Consider",
+    "04 Optimization Based Control/Optimization/Theorems/Lemmas/Nocedal and Wright/Lemma 12.2 - Feasible Directions and Tangent Cone relation.md",
+    "04 Optimization Based Control/Optimization/Theorems/Lemmas/Farkas Lemma.md",
+    "04 Optimization Based Control/Optimization/Theorems/Nocedal and Wright/Theorem 12.3 - Objective Gradient at Solution.md",
+    "04 Optimization Based Control/Optimization/Theorems/Nocedal and Wright/Theorem 12.1 - First-Order Necessary Conditions.md",
+    "04 Optimization Based Control/Optimization/Definitions/KKT Conditions.md",
+    "04 Optimization Based Control/Optimization/Definitions/Tangent Cone.md",
+    "04 Optimization Based Control/Optimization/Definitions/Solution.md",
+    "04 Optimization Based Control/Optimization/Definitions/QP formulation.md",
+    "04 Optimization Based Control/Optimization/Definitions/NLP formulation.md",
+    "04 Optimization Based Control/Dynamic Optimization/Single Shooting.md",
+    "04 Optimization Based Control/Dynamic Optimization/Direct Transcription.md",
+    "04 Optimization Based Control/Dynamic Optimization/Direct Collocation.md",
+    "03 Nonlinear Control/Theorems/Miscellaneous/Theorem - Main CBF Theorem (safe control).md",
+    "05 Simulation/Collocation",
+    "05 Simulation/Runge Kutta Methods",
+    "05 Simulation",
+    "03 Nonlinear Control/Theorems/Miscellaneous/Bony-Brezis Theorem (Nagumo's Theorem).md",
+    "03 Nonlinear Control/Assumptions/Antonio Loria's Lectures/Assumption 14 - Growth rate condition 2.md",
+    "03 Nonlinear Control/Techniques/Cascade Parameterization.md",
     "01 Relevant Mathematics/Rules/Linear Algebra and Calculus/Derivative of norm.md",
     "01 Relevant Mathematics/Rules/Linear Algebra and Calculus/Jacobian of Dot Product.md",
     "01 Relevant Mathematics/Definitions/Surjective.md",
     "01 Relevant Mathematics/Definitions/Injective.md",
-    "01 Relevant Mathematics/Definitions/Bijective.md",
-    "03 Optimization Based Control/Dynamic Optimization/Multiple Shooting.md",
-    "03 Optimization Based Control/Optimization/LP/Algorithms/Simplex Algorithm.md",
-    "02 Optimization Based Control/Dynamic Optimization/Single Shooting",
-    "03 Optimization Based Control/Dynamic Optimization",
-    "02 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/Untitled",
-    "02 Optimization Based Control/Optimization/LP/Algorithms/Untitled",
-    "03 Optimization Based Control/Optimization/LP/Algorithms",
-    "03 Optimization Based Control/Optimization/QP/Algorithms",
-    "02 Control Theory (Basic)/Canvases/Canvas - Cascaded Systems.canvas",
-    "02 Control Theory (Basic)/Canvases/ISS.canvas",
+    "03 Nonlinear Control/Canvases/Canvas - Cascaded Systems.canvas",
+    "03 Nonlinear Control/Canvases/ISS.canvas",
     "00 Control Theory (Basic)/Theorems/Interconnections/Cascaded Systems/Cascade Stability - GES + ISS = GAS.png",
     "00 Control Theory (Basic)/Theorems/Drawings/Cascaded Systems.png"
   ]

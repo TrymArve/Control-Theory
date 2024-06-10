@@ -1,9 +1,9 @@
 {
 	"nodes":[
-		{"id":"2e8a346aea1f9008","x":381,"y":400,"width":791,"height":711,"type":"file","file":"02 Control Theory (Basic)/Theorems/Interconnections/Cascaded Systems/CascSys - GAS by ISS.md"},
+		{"id":"2e8a346aea1f9008","x":381,"y":400,"width":791,"height":711,"type":"file","file":"03 Nonlinear Control/Theorems/Interconnections/Cascaded Systems/CascSys - GAS by ISS.md"},
 		{"id":"85558fa8990c1747","x":507,"y":60,"width":540,"height":220,"color":"#d60a0a","type":"text","text":"**Summary of Cascaded Systems Stability Results**\n$$\\begin{align*}\n    \\text{(1):} \\quad && (\\text{GAS})_{\\Sigma_1} \\rightarrow (\\text{0-GAS})_{\\Sigma_2} &\\implies (\\text{GAS})_{\\Sigma_1 \\rightarrow \\Sigma_2}\\\\\n    \\text{(2):} \\quad && (\\text{GAS})_{\\Sigma_1} \\rightarrow (\\text{ISS})_{\\Sigma_2} &\\implies (\\text{GAS})_{\\Sigma_1 \\rightarrow \\Sigma_2} \\\\\n    \\text{(3):} \\quad &&  u \\rightarrow (\\text{ISS})_{\\Sigma_1} \\rightarrow (\\text{ISS})_{\\Sigma_2} &\\implies (\\text{GAS})_{\\Sigma_1 \\rightarrow \\Sigma_2} \n\\end{align*}$$\n- (1) - [[CascSys - GAS by 0-GAS]]\n- (2),(3) - [[CascSys - GAS by ISS]]"},
-		{"id":"b69e3da2a9a1f0a7","x":-260,"y":60,"width":641,"height":480,"type":"file","file":"02 Control Theory (Basic)/Theorems/Interconnections/Cascaded Systems/CascSys - GAS by 0-GAS.md"},
-		{"id":"c3380dd1c08b142d","x":1172,"y":60,"width":740,"height":600,"type":"file","file":"02 Control Theory (Basic)/Theorems/Interconnections/Cascaded Systems/CascSys - GAS by iISS.md"}
+		{"id":"b69e3da2a9a1f0a7","x":-260,"y":60,"width":641,"height":480,"type":"file","file":"03 Nonlinear Control/Theorems/Interconnections/Cascaded Systems/CascSys - GAS by 0-GAS.md"},
+		{"id":"c3380dd1c08b142d","x":1172,"y":60,"width":740,"height":600,"type":"file","file":"03 Nonlinear Control/Theorems/Interconnections/Cascaded Systems/CascSys - GAS by iISS.md"}
 	],
 	"edges":[]
 }
