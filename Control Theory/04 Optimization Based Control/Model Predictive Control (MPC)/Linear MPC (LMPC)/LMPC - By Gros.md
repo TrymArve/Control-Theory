@@ -22,12 +22,12 @@ with $$\begin{align*}
 where 
 - $0 \prec W^{i}_{j} = W^{i^{\top}}_{j} \in \mathbb{R}^{n_{x}\times n_{x}}$  is a weight matrix
 - $A^{i}_{j},~ B^{i}_{j}~~$ are the linearized *(discrete)* dynamics for time $t_{i+j}$, as computed at time $t_{i}$
-	- The dynamics are linearized about the reference trajectory; see [[Basic LMPC - By Gros#Linearization|Linearization]]
+	- The dynamics are linearized about the reference trajectory; see [[LMPC - By Gros#Linearization|Linearization]]
 	- Note that if the reference, $(x^{ref},u^{ref})$, remains the constant through operation, we have that $$A^{i}_{H} = A^{i+1}_{H-1} = A^{i+2}_{H-2} = \cdots = A^{i+H-1}_{1} = A^{i+H}_{0}$$
 	- and similar for $B^{i}_{j}$
 - $C^{i}_{j},~~D^{i}_{j}~~$ are the linearized state and input constraints for time $t_{i+j}$, as computed at time $t_{i}$
 - $r^{i}_{j}$ is the difference between the next reference state, and the next state predicted by the linearized model
-	- That is: $r^{i}_{j} \triangleq A^{i}_{j} \Delta x^{ref,i}_{j} + B^{i}_{j}\Delta u^{ref,i}_{j} - x^{ref,i}_{j}$
+	- That is: $r^{i}_{j} \triangleq A^{i}_{j} x^{ref,i}_{j} + B^{i}_{j}u^{ref,i}_{j} - x^{ref,i}_{j+1}$
 - $h^{i}_{j}$ is the constraint-function evaluated at the reference
 	- That is: $h^{i}_{j} \triangleq h(t_{i+j},x^{ref,i}_{j},u^{ref,i}_{j})$
 

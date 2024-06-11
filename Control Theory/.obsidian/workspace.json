@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 Optimization Based Control/Model Predictive Control (MPC)/Linear MPC (LMPC)/LMPC - Discussion by Gros.md",
+                "file": "04 Optimization Based Control/Model Predictive Control (MPC)/Linear MPC (LMPC)/LMPC - By Gros.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04 Optimization Based Control/Model Predictive Control (MPC)/Linear MPC (LMPC)/LMPC - Discussion by Gros.md",
+                "file": "04 Optimization Based Control/Model Predictive Control (MPC)/Linear MPC (LMPC)/LMPC - By Gros.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04 Optimization Based Control/Model Predictive Control (MPC)/Linear MPC (LMPC)/LMPC - Discussion by Gros.md",
+                "file": "04 Optimization Based Control/Model Predictive Control (MPC)/Linear MPC (LMPC)/LMPC - By Gros.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 Optimization Based Control/Model Predictive Control (MPC)/Linear MPC (LMPC)/LMPC - Discussion by Gros.md"
+                "file": "04 Optimization Based Control/Model Predictive Control (MPC)/Linear MPC (LMPC)/LMPC - By Gros.md"
               }
             }
           }
@@ -148,43 +148,44 @@
   },
   "active": "e4864465926f46e1",
   "lastOpenFiles": [
-    "03 Nonlinear Control/Definitions/LISS - Local Input-to-State Stability.md",
     "04 Optimization Based Control/Model Predictive Control (MPC)/Linear MPC (LMPC)/LMPC - Discussion by Gros.md",
+    "04 Optimization Based Control/Model Predictive Control (MPC)/Linear MPC (LMPC)/LMPC - Implementation.md",
+    "04 Optimization Based Control/Model Predictive Control (MPC)/Linear MPC (LMPC)/LMPC - By Gros.md",
+    "01 Relevant Mathematics/Definitions/Orthogonal Polynomial.md",
+    "01 Relevant Mathematics/Definitions/Legendre Polynomials.md",
+    "01 Relevant Mathematics/Definitions/Monotonoic.md",
+    "01 Relevant Mathematics/Tools/Function Approximation/Taylor Series Approximation.md",
+    "01 Relevant Mathematics/Tools/Function Approximation",
     "00 Notation and Practice/Optimization.md",
-    "04 Optimization Based Control/Model Predictive Control (MPC)/Linear MPC (LMPC)/Basic LMPC - By Gros.md",
+    "00 Notation and Practice/Functions and Dynamical Systems.md",
+    "00 Notation and Practice/00 Preface.md",
+    "01 Relevant Mathematics/Definitions/Continuously Differentiable.md",
+    "01 Relevant Mathematics/Definitions/Continuous.md",
+    "01 Relevant Mathematics/Definitions/Smooth.md",
+    "In Progress....md",
+    "01 Relevant Mathematics/Tools/Quadrature/Radau Quadrature.md",
+    "01 Relevant Mathematics/Tools/Quadrature",
+    "01 Relevant Mathematics/Tools/Quadrature/Gauss-Legendre Quadrature.md",
+    "05 Simulation/Collocation/Gauss-Radau Polynomials",
+    "05 Simulation/Collocation/Gauss-Legendre Methods",
+    "05 Simulation/Runge Kutta Methods/Butcher Tableaus",
+    "In Progress",
+    "01 Relevant Mathematics/Rules/Linear Algebra and Calculus/Derivative of norm.md",
+    "01 Relevant Mathematics/Rules/Linear Algebra and Calculus/Jacobian of Dot Product.md",
+    "01 Relevant Mathematics/Tools",
+    "04 Optimization Based Control/Model Predictive Control (MPC)/Images/Reference Trajectory - Model Offset.pdf",
+    "04 Optimization Based Control/Model Predictive Control (MPC)/Images/Reference Trajectory - Model Offset 1.pdf",
+    "04 Optimization Based Control/Model Predictive Control (MPC)/Images/Reference Trajectory - Model Offset.svg",
+    "03 Nonlinear Control/Definitions/ISS - Input-to-State Stability.md",
+    "03 Nonlinear Control/Definitions/LISS - Local Input-to-State Stability.md",
+    "03 Nonlinear Control/Definitions/Lipschitz.md",
+    "01 Relevant Mathematics/Definitions/Bijective.md",
     "04 Optimization Based Control/Consider/Consider - reference trajectory.md",
     "02 Linear Systems",
     "04 Optimization Based Control/Consider/Consider - Discrete NTV.md",
-    "04 Optimization Based Control/Model Predictive Control (MPC)/Images/MPC Trajectory Notation.pdf",
-    "03 Optimization Based Control/Model Predictive Control (MPC)/Images/MPC Trajectory NotationOLD.pdf",
     "04 Optimization Based Control/Model Predictive Control (MPC)/Images/MPC Trajectory Notation.svg",
-    "04 Optimization Based Control/Model Predictive Control (MPC)/Images",
-    "03 Optimization Based Control/MPC Trajectory Notation.pdf",
-    "MPC Trajectory Notation.pdf",
-    "04 Optimization Based Control/Consider",
     "04 Optimization Based Control/Optimization/Theorems/Lemmas/Nocedal and Wright/Lemma 12.2 - Feasible Directions and Tangent Cone relation.md",
     "04 Optimization Based Control/Optimization/Theorems/Lemmas/Farkas Lemma.md",
-    "04 Optimization Based Control/Optimization/Theorems/Nocedal and Wright/Theorem 12.3 - Objective Gradient at Solution.md",
-    "04 Optimization Based Control/Optimization/Theorems/Nocedal and Wright/Theorem 12.1 - First-Order Necessary Conditions.md",
-    "04 Optimization Based Control/Optimization/Definitions/KKT Conditions.md",
-    "04 Optimization Based Control/Optimization/Definitions/Tangent Cone.md",
-    "04 Optimization Based Control/Optimization/Definitions/Solution.md",
-    "04 Optimization Based Control/Optimization/Definitions/QP formulation.md",
-    "04 Optimization Based Control/Optimization/Definitions/NLP formulation.md",
-    "04 Optimization Based Control/Dynamic Optimization/Single Shooting.md",
-    "04 Optimization Based Control/Dynamic Optimization/Direct Transcription.md",
-    "04 Optimization Based Control/Dynamic Optimization/Direct Collocation.md",
-    "03 Nonlinear Control/Theorems/Miscellaneous/Theorem - Main CBF Theorem (safe control).md",
-    "05 Simulation/Collocation",
-    "05 Simulation/Runge Kutta Methods",
-    "05 Simulation",
-    "03 Nonlinear Control/Theorems/Miscellaneous/Bony-Brezis Theorem (Nagumo's Theorem).md",
-    "03 Nonlinear Control/Assumptions/Antonio Loria's Lectures/Assumption 14 - Growth rate condition 2.md",
-    "03 Nonlinear Control/Techniques/Cascade Parameterization.md",
-    "01 Relevant Mathematics/Rules/Linear Algebra and Calculus/Derivative of norm.md",
-    "01 Relevant Mathematics/Rules/Linear Algebra and Calculus/Jacobian of Dot Product.md",
-    "01 Relevant Mathematics/Definitions/Surjective.md",
-    "01 Relevant Mathematics/Definitions/Injective.md",
     "03 Nonlinear Control/Canvases/Canvas - Cascaded Systems.canvas",
     "03 Nonlinear Control/Canvases/ISS.canvas",
     "00 Control Theory (Basic)/Theorems/Interconnections/Cascaded Systems/Cascade Stability - GES + ISS = GAS.png",
