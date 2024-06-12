@@ -1,13 +1,11 @@
-**Reference:**
-- Gros, S., Zanon, M., Quirynen, R., Bemporad, A. and Diehl, M., 2020. From linear to nonlinear MPC: bridging the gap via the real-time iteration. _International Journal of Control_, _93_(1), pp.62-80.
+%% #LinearMPC %%
+**Reference:** Gros, S., Zanon, M., Quirynen, R., Bemporad, A. and Diehl, M., 2020. From linear to nonlinear MPC: bridging the gap via the real-time iteration. _International Journal of Control_, _93_(1), pp.62-80.
+Notation: [[Optimization#Dynamic Optimization / MPC|here]]
+OCP: ![[Optimal Control Problem#^OCP]]
 
-Notation: [[Optimization#Dynamic Optimization / MPC]]
 
-# Control Problem
-Consider the discrete *prediction model* ![[Consider - Discrete NTV#^Discrete-NTV]]and following constraints (actuator limitations, obstacles, etc.):
-$$0\leq h(t_{k},x_{k},u_{k})\in \mathbb{R}^{n_{h}}$$
 
-# LMPC Controller
+**LMPC Controller:**
 At every time instant; $t_{i}$ , the control input is given by $$u_{i}^{LMPC} = u^{ref,i}_{0} + \Delta u^{i}_{0}$$
 where $\Delta u^{i}_{0}$ is found by $$(\Delta x_{i},\Delta u_{i}) = \text{QP}_\text{LMPC}^{i}(\hat{x}_{i},x^{ref,i},u^{ref,i})$$
 with $$\begin{align*}
@@ -39,7 +37,7 @@ where
 		- or "Terminal constraints"
 
 
-## Linearization
+**Linearization**
 The dynamics and constraints are linearized about the reference trajectory as follows:
 
 $$\begin{align*}

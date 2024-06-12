@@ -6,6 +6,8 @@
 	- $z^*$  -  used to denote a [[Solution]]
 	- $z^{**}$  - used to specify a [[Solution#Global Solution|global solution]]
 	- $z^{***}$ - used to specify a [[Solution#Unique Solution|unique solution]]
+	- $z^{g}$ - used to denote a "guess" during iteration
+		- $z^{g_{i}}$ - denotes the $i^{\text{th}}$ guess during iteration
 - $\mathcal{L}$ - [[Lagrangian]]
 - $\lambda$ - Lagrangian multipliers for equality constraints
 	- $\bar{\lambda}$ - to specify equality constraints
@@ -24,8 +26,12 @@ Consider the system to be controlled/simulated: ![[Consider - Controlled NTI#^sy
 
 **where:**
 - $T$ is the total time of operation. (i.e. the total duration over which we plan to control/operate the process/system, for which we also have a reference trajectory)
+- $\tilde{t} = \{t_{0},t_{1},\dots,t_{N}\}$  is the set of sampling times
 - $x$ is the system state
 - $u$ is the control input
+- $x^{\circ}(t)$ is the true trajectory of the system, as controlled by our controller, and starting at $x_{\circ}$
+- $x^{\circ} = \{x^{\circ}_{0},x^{\circ}_{1},\dots,x^{\circ}_{N}\}$ is the true evolution of the system state on $\tilde{t}$
+- $u^{\circ} = \{u^{\circ}_{0},u^{\circ}_{1},\dots,u^{\circ}_{N-1}\}$ is the true evolution of the control input on $\tilde{t}$
 - $x^{ref}(t)$ is the state reference
 - $u^{ref}(t)$ is the input reference
 - $x_{i}^{ref}$ is the state reference value at time $t_{i}$
@@ -42,12 +48,13 @@ Consider the system to be controlled/simulated: ![[Consider - Controlled NTI#^sy
 - $u^{ref,i}$ is a input reference horizon, starting at $u^{ref}_{i}$
 	- we have $u^{ref,i}_{j} = u^{ref}_{i+j}$
 	- $u^{ref,i} \triangleq \{u^{ref,i}_{0},u^{ref,i}_{1},\dots,u^{ref,i}_{H-1}\}$   (extends only to $H-1$)
-- $x^{\circ}(t)$ is the true trajectory of the system, as controlled by our controller, and starting at $x_{\circ}$
 - $\hat{x}_{i}$ is the estimate of the system state at time $t_{i}$ (i.e. $\hat{x}_{i} \approx x^{\circ}(t_{i})$)
 - $\tilde{x}^{i}_{j}$ is the predicted system state, predicted to occur at time $t_{i+j}$, as predicted at time $t_{i}$ (i.e. at time $t_{i}$, we predict the state $j$ samples into the future)
 - $\tilde{x}^{i} \triangleq \{\tilde{x}^{i}_{0},\tilde{x}^{i}_{1},\dots,\tilde{x}^{i}_{H_{i}}\}$
 - $\tilde{u}^{i}_{j}$ is the predicted control input, predicted to be imposed at time $t_{i+j}$, as predicted at time $t_{i}$ (i.e. at time $t_{i}$, we predict the input $j$ samples into the future)
 - $\tilde{u}^{i} \triangleq \{\tilde{u}^{i}_{0},\tilde{u}^{i}_{1},\dots,\tilde{u}^{i}_{H_{i}-1}\}$
+- $\tilde{x} = \{\tilde{x}_{0},\tilde{x}_{1},\dots,\tilde{x}_{N}\}$ is used to refer to the entire predicted state trajectory on $\tilde{t}$, as predicted off-line
+- $\tilde{u} = \{\tilde{u}_{0},\tilde{u}_{1},\dots,\tilde{u}_{N-1}\}$ is used to refer to the entire predicted input trajectory on $\tilde{t}$, as predicted off-line
 - $\Delta x^{i}_j$ is the difference between the predicted state and reference state
 	- that is: $\Delta x^{i}_{j} \triangleq \tilde{x}^{i}_{j} - x^{ref,i}_{j} = \tilde{x}^{i}_{j} - x^{ref}_{i+j}$
 - $\Delta u^{i}_j$ is the difference between the predicted input and reference input
