@@ -1,4 +1,4 @@
-#Theory/Lemma 
+#NonlinearSystems/Lemma 
 *A relaxation of [[Lemma 9 - Integration Lemma for uniform asymptotic stability]]*
 
 Consider: ![[Consider - NTV#^system]]

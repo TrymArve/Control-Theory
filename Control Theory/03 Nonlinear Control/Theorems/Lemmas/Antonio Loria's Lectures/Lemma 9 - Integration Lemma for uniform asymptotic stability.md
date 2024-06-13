@@ -1,4 +1,4 @@
-#Theory/Lemma 
+#NonlinearSystems/Lemma 
 Consider: ![[Consider - NTV#^system]]
 If:
 - the origin $x=0$ is [[Lyapunov Stability#Stability (S)|uniformly globally stable]] (UGS)

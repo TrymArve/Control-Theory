@@ -1,4 +1,4 @@
-#Theory/Theorem 
+#NonlinearSystems/Theorem 
 Consider: ![[Consider - Cascade Interconnection (Time-Invariant)#^cascade-interconnected-system]]
 If:
 - the origin of $\Sigma_2$ is GAS

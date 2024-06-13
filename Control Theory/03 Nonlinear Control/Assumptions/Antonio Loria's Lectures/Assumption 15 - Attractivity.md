@@ -1,4 +1,4 @@
-#Theory/Assumption
+#NonlinearSystems/Assumption
 
 Consider ![[Consider - Feedback Interconnection#^feedback-interconnected-system]]
 Assume that there exists a function

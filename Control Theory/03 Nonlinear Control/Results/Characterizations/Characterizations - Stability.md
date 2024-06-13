@@ -1,4 +1,3 @@
-# Basic [[Lyapunov Stability|Stability]] Characterizations
 Consider: ![[Consider - NTV#^system]]
 - **Asymptotic Stability**
 	-  (U)S  +  (U)A in $\mathbb{D}$  =  (U)AS in $\mathbb{D}$
@@ -6,8 +5,7 @@ Consider: ![[Consider - NTV#^system]]
 - **Global Stability**
 	-  (U)S  +  (U)G[[Boundedness|B]]  =  (U)GS
 
-# Remarks
-
+**Remarks**
 For non-autonomous systems:
 - UGA $\implies$ GB
 - UGA $\centernot\implies$ UGB

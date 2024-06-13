@@ -1,4 +1,4 @@
-#Theory/Theorem 
+#NonlinearSystems/Theorem 
 Consider: ![[Consider - NTV#^system]]
 If:
 - $f(t,x)$ is piecewise continuous in $t$

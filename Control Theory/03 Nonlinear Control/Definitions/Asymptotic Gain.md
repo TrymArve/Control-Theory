@@ -1,4 +1,4 @@
-#Theory/Definition
+#NonlinearSystems/Definition
 Consider: ![[Consider - Controlled NTV#^system]]
 The system $\dot{x} = f(t,x,u)$ satisfies the **Asymptotic Gain*** property iff
 - $\exists~\gamma\in\mathcal{K}:$

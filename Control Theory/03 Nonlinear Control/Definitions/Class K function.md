@@ -1,4 +1,4 @@
-#Theory/Definition 
+#NonlinearSystems/Definition 
 
 A function $\alpha:[0,a\rangle\mapsto[0,\infty\rangle$ is said to be **class $\mathcal{K}$** iff:
 - it is strictly increasing

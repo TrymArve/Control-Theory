@@ -1,4 +1,4 @@
-#Theory/Definition 
+#NonlinearSystems/Definition 
 Consider: ![[Consider - Control Affine System#^system]]
 with $f,G$ [[Lipschitz#"$f$ is locally Lipschitz"|locally Lipschitz]].
 

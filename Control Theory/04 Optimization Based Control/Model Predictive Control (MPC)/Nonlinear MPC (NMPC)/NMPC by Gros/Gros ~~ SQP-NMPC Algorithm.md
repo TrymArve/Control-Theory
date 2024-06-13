@@ -1,8 +1,8 @@
-Based on [[SQP for NMPC by Gros]]
+Based on [[Gros ~ SQP for NMPC]]
 
 
 ---
-# $\text{SQP}_{\text{NMPC}}(\hat{x}_{i},\tilde{x}^{i,g_{0}},\tilde{u}^{i,g_{0}},x^{ref,i},u^{ref,i},k_{max}) \triangleq$
+# $\text{SQP}^{i}_{\text{NMPC}}(\hat{x}_{i},\tilde{x}^{i,g_{0}},\tilde{u}^{i,g_{0}},x^{ref,i},u^{ref,i},k_{max}) \triangleq$
 
 1) $\text{Set:~}k = 0$ *(current iteration)*
 2) $\text{While:~} (\text{Not Converged ~~AND~}\quad k < k_{max})$ 
@@ -19,7 +19,8 @@ Based on [[SQP for NMPC by Gros]]
 	4) $\text{Update...}$
 		- $\text{...Guess:}\quad (\tilde{x}^{i,g_{k+1}},\tilde{u}^{i,g_{k+1}}) = (\tilde{x}^{i,g_{k}},\tilde{u}^{i,g_{k}}) + \alpha(\Delta x^{i}, \Delta u^{i})_{k}$
 		- $\text{...Iteration Index:}\quad k \leftarrow k+1$
-	$\text{End}$
 3) $\text{Return:} ~~ (\tilde{x}^{i,g_{k}},\tilde{u}^{i,g_{k}})$
 
 ---
+
+

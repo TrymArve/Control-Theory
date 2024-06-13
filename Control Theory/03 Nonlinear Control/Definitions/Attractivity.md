@@ -1,4 +1,4 @@
-#Theory/Definition
+#NonlinearSystems/Definition
 **Attractivity** in $\mathbb{D}\subset\mathbb{R}^{n}$ is obtained iff
 - $\forall t_0$
 	- $\forall \sigma > 0$

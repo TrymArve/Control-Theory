@@ -1,4 +1,4 @@
-#Theory/Lemma 
+#NonlinearSystems/Lemma 
 Consider: ![[Consider - NTV#^system]]
 If:
 - $\exists~r,c,p>0:$

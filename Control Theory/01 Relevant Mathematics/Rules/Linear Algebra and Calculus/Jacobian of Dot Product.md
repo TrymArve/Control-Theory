@@ -1,4 +1,4 @@
-#Theory/Rule
+#NonlinearSystems/Rule
 Consider two vectors
 $$a(x),b(x) : \mathbb{R}^{n_x} \mapsto \mathbb{R}^m$$
 Then we have the following:

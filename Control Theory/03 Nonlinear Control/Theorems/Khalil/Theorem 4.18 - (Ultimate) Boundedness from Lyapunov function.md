@@ -1,4 +1,4 @@
-#Theory/Theorem 
+#NonlinearSystems/Theorem 
 Consider: ![[Consider - NTV#^system]]
 If:
 - $\exists~V:\mathbb{R}_+\times\mathbb{D}\subseteq\mathbb{R}^{n_x}\mapsto\mathbb{R}$ 

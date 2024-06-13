@@ -1,4 +1,4 @@
-#Theory/Lemma
+#NonlinearSystems/Lemma
 Consider: ![[Consider - Feedback Interconnection#^feedback-interconnected-system]]
 
 Let 

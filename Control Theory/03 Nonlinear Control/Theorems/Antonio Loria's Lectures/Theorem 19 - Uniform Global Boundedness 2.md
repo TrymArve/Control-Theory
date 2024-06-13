@@ -1,4 +1,4 @@
-#Theory/Theorem
+#NonlinearSystems/Theorem
 
 *"Case 2: $f_1(t,\cdot)$ is of the same order as $g(t,\cdot,x_2)$"*
 

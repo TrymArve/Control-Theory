@@ -1,4 +1,4 @@
-#Theory/Theorem
+#NonlinearSystems/Theorem
 
 *"case 2:  $g(t,\cdot,x_2) = \mathcal{O}(f_1(t,\cdot))$"*
 

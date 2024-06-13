@@ -1,7 +1,7 @@
 LQ Control is the class of control methods that solve the LQ Problem: ![[LQ Problem#^LQ-Problem]]
 
 **Such as:
-- [[LMPC - By Gros|Linear MPC]]
+- [[Gros ~ LMPC|Linear MPC]]
 - [[Linear Quadratic Regulator (LQR)]]
 - [[Linear Quadratic Regulator with Integration (LQI)]]
 

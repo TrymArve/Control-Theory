@@ -1,4 +1,4 @@
-#Theory/Consider
+#NonlinearSystems/Consider
 Consider:
 $$
 \Sigma_\circ:\quad

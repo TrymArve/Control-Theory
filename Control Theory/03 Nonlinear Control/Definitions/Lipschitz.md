@@ -1,4 +1,4 @@
-#Theory/Definition 
+#NonlinearSystems/Definition 
 
 # Locally Lipschitz "at $(t_\circ,x_\circ)$"
 A function $f:\mathbb{R}\times\mathbb{R}^n\mapsto\mathbb{R}^m$ is **(Locally) Lipschitz at $(t_\circ,x_\circ)$**  iff:

@@ -1,4 +1,4 @@
-In a practical [[LMPC - By Gros|LMPC]] setting, we wish to reduce the computation time as much as possible to allow faster regulation, with longer prediction horizons and higher resolution discretization.
+In a practical [[Gros ~ LMPC|LMPC]] setting, we wish to reduce the computation time as much as possible to allow faster regulation, with longer prediction horizons and higher resolution discretization.
 
 # Preparing Matrices
 Whenever possible, we want to compute parameters/matrices offline, in advance.
@@ -12,7 +12,7 @@ Whenever possible, we want to compute parameters/matrices offline, in advance.
 - **Inequality Constraints:** similarly we know the constraint functions, and the reference, where the constraint functions are evaluated, thus we can pre-compute;$$\left.\frac{\partial h(t,x,u)}{\partial x}\right|_{(t_{k},x^{ref}_{k}, u^{ref}_{k})}, \quad \left.\frac{\partial h(t,x,u)}{\partial u}\right|_{(t_{k},x^{ref}_{k}, u^{ref}_{k})}$$ for all points along the trajectory.
 
 
-Therefore, Linear MPC is very fast, since the only computation needed is only the $\text{QP}_\text{LMPC}$: [[LMPC - By Gros#^LMPC-Problem|QP-LMPC]] at each sample.
+Therefore, Linear MPC is very fast, since the only computation needed is only the $\text{QP}_\text{LMPC}$: [[Gros ~ LMPC#^LMPC-Problem|QP-LMPC]] at each sample.
 
 # Initial Guess for QP
 Since the reference for over the horizon at the current time; $t_{i}$, is the same as at the previous time; $t_{i-1}$, only shifted by one (assume constant $H$ for now):

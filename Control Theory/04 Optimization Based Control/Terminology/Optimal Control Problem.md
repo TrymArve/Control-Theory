@@ -1,5 +1,4 @@
-#Unfinished 
-Notation: [[Optimization#Dynamic Optimization / MPC]]
+Notation: [[Optimization#Dynamic Optimization / MPC|here]]
 
 An optimal control problem *(discrete)*, is a problem where:
 - we wish to control a dynamical system, modelled as ![[Consider - Discrete NTV#^Discrete-NTV]]

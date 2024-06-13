@@ -1,4 +1,4 @@
-#Theory/Result
+#NonlinearSystems/Result
 If
 - $(t,x(t)) \mapsto V(t,x(t))$
 is such that

@@ -1,4 +1,4 @@
-%% #Theory/Definition %%
+%% #NonlinearSystems/Definition %%
 A map $f:\mathbb{D}\mapsto \mathbb{O}$ is said to be ***bijective*** iff:
 - it is [[Injective]]
 - it is [[Surjective]]

@@ -1,4 +1,4 @@
-#Theory/Theorem 
+#NonlinearSystems/Theorem 
 Consider: ![[Consider - Controlled NTI#^system]]
 If $\Sigma_\circ$
 - is passive on the map $u \mapsto y$

@@ -1,4 +1,4 @@
-#Theory/Assumption
+#NonlinearSystems/Assumption
 
 Assume that the solutions of feedback-interconnected system ![[Consider - Feedback Interconnection#^feedback-interconnected-system]]
 are defined on $[t_\circ,t_{max}\rangle$.

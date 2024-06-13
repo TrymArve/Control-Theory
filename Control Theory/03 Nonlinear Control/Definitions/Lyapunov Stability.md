@@ -1,4 +1,4 @@
-#Theory/Definition 
+#NonlinearSystems/Definition 
 # Definitions (using comparison functions)
 
 ## Stability (S) 

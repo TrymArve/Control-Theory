@@ -1,4 +1,4 @@
-#Theory/Definition 
+#NonlinearSystems/Definition 
 Consider: ![[Consider - Control Affine System#^system]]
 Iff a function $(t,x,u)\mapsto V(t,x,u)$
 - is positive definite in $x$

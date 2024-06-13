@@ -1,7 +1,4 @@
-Discussion on LMPC, as a continuation of [[LMPC - By Gros]].
-
-# Recap:
-![[LMPC - By Gros#^LMPC-Problem]]where ![[LMPC - By Gros#^LMPC-Linearizations]]
+Discussion on LMPC, as a continuation of [[Gros ~ LMPC]].
 
 # Discussion
 

@@ -1,4 +1,4 @@
-#Theory/Theorem 
+#NonlinearSystems/Theorem 
 Consider: ![[Consider - Control Affine System#^system]]
 Let:
 - $\mathbb{D}\subseteq\mathbb{R}^{n_x}$

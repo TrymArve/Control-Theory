@@ -1,4 +1,4 @@
-#Theory/Definition 
+#NonlinearSystems/Definition 
 
 Consider: ![[Consider - Controlled NTI#^system]]
 where:

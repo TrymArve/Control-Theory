@@ -1,4 +1,4 @@
-%% #Theory/Definition %%
+%% #NonlinearSystems/Definition %%
 A map $f:\mathbb{D}\mapsto \mathbb{O}$ is said to be ***injective*** iff:
 - $\left(~f(a)=f(b) \implies a=b ~\right) \quad \forall (a,b)\in \mathbb{D}$
 

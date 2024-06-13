@@ -1,4 +1,4 @@
-#Theory/Lemma 
+#NonlinearSystems/Lemma 
 Let:
 - $\phi:\mathbb{R}_+\mapsto\mathbb{R}^{n}$
 	- be continuously differentiable ($\phi \in \mathcal{C}^1$)

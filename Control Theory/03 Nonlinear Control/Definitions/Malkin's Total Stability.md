@@ -1,4 +1,4 @@
-#Theory/Definition 
+#NonlinearSystems/Definition 
 The origin for $\dot{x} = f(t,x,0)$ is said to be ***Locally ISS** (totally stable)* iff
 - The solutions, $x^\circ(t)$, of the system $\dot{x} = f(t,x,u),\quad x^\circ(t_\circ) = x_\circ$, are such that
 	- $\forall~\epsilon>0$

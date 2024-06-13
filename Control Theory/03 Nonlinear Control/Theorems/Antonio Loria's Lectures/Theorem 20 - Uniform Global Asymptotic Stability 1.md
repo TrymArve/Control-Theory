@@ -1,4 +1,4 @@
-#Theory/Theorem
+#NonlinearSystems/Theorem
 
 *"case 1: $f_1(t,\cdot)$ dominates over $g(t,\cdot,x_2)$"*
 

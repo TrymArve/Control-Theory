@@ -1,4 +1,4 @@
-#Theory/Definition 
+#NonlinearSystems/Definition 
 A system is called **Locally ISS*** iff:
 - $\exists~\rho>0$
 - $\exists~\gamma\in\mathcal{K}$

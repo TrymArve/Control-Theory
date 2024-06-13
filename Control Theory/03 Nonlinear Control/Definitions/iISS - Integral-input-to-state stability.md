@@ -1,4 +1,4 @@
-#Theory/Definition 
+#NonlinearSystems/Definition 
 The system 
 $$\dot{x} = f(x,v)$$
 is said to be ***integral-input-to-state stable (iISS)*** iff:

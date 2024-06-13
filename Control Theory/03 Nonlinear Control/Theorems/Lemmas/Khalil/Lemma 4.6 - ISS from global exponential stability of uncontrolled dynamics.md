@@ -1,4 +1,4 @@
-#Theory/Lemma 
+#NonlinearSystems/Lemma 
 Consider: ![[Consider - Controlled NTV#^system]]
 If:
 - $f$ is 

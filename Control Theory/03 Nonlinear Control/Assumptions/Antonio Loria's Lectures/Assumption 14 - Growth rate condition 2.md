@@ -1,4 +1,4 @@
-#Theory/Assumption
+#NonlinearSystems/Assumption
 Consider: ![[Consider - Feedback Interconnection#^feedback-interconnected-system]]
 Assume that 
 - $\exists~\gamma:\mathbb{R}_+\mapsto\mathbb{R}_+$ that is

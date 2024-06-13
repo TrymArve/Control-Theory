@@ -1,4 +1,4 @@
-#Theory/Definition
+#NonlinearSystems/Definition
 
 Reference:
 *"Nonlinear Systems"*- by Hassan K. Khalil, third edition - Pearson New International Edition p.236.

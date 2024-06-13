@@ -1,4 +1,4 @@
-%% #Theory/Theorem%%
+%% #NonlinearSystems/Theorem%%
 Consider ![[NLP formulation#^NLP]]
 If:
 - $z^*$ is a local solution of (NLP)

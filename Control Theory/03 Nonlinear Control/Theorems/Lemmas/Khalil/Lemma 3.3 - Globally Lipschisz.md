@@ -1,4 +1,4 @@
-#Theory/Lemma 
+#NonlinearSystems/Lemma 
 Consider: ![[Consider - NTV#^system]]
 If:
 - on the domain $[a,b]\times\mathbb{R}^{n_x}$:
