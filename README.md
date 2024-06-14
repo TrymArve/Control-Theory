@@ -1,5 +1,5 @@
 # Control-Theory
-❗In the making❗
+❗In the making❗ --> Please contribute by writing about your the things you have expertise in🙌
 
 This is a practical collection of 
 - definitions
@@ -29,3 +29,15 @@ Feel free to contribute to the vault, with your own knowledge.
 **Things to add:**
 - some sorf of neat system for references will be concoted in the future
 - suggestions?
+
+---
+**How to contribute:**
+- Please pull the repository and add notes, then push and create pull request. (I or someone trusted will have to approve the changes)
+  - I guess you should contact me first... so we can have a look at the best way to do this.
+  - (we'll have to figure out how to do this properly)
+  - Please adhere to the notational standards (you may suggest changing the standard)
+- Reviewing notes:
+  - plese take the time to review (double check) the notes created by others if you have sufficient/expertise in the field, and/or access to the reference (to cross check)
+  - If you have reviewd a note, add your name to the "Review By"-tag/property of the metadata (at the top of the note).
+    - This way, people who use the vault may be confident that the note does not contain many mistakes, if the notes has been reviewed by many people.
+  - Please review even if many has already reviewed it. There are always more mistakes!
