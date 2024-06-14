@@ -3,6 +3,11 @@ tags:
   - NonlinearSystems/Lemma
   - Optimization/NMPC
   - Optimization/LMPC
+Note Author:
+  - Trym A. Gabrielsen
+Theory Author:
+  - Sébastien Gros
+Reviewed By:
 ---
 ---
 If:
@@ -25,11 +30,11 @@ $$\text{QP}^{i}_{\text{LPMC}}(\hat{x}_{i},x^{ref,i},u^{ref,i}) = \text{QP}^{i}_{
 
 
 # Comparison:
-![[QP-LMPC Formulation#^QP]]
+![[Gros ~~ QP-LMPC Formulation#^QP]]
 
 ![[Gros ~~ QP-NMPC Formulation#^QP]]
 **QP-LMPC Linearizations:**
-![[QP-LMPC Linearizations#^Linearizations]]
+![[Gros ~~ QP-LMPC Linearizations#^Linearizations]]
 **QP-NMPC Linearizations:**
 ![[Gros ~~ QP-NMPC Linearizations#^Linearizations]]
 

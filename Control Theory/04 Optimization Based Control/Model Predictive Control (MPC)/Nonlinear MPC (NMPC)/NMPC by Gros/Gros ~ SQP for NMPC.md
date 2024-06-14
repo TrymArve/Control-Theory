@@ -2,6 +2,11 @@
 tags:
   - Optimization/NMPC
   - Optimization/SQP
+Note Author:
+  - Trym A. Gabrielsen
+Theory Author:
+  - Sébastien Gros
+Reviewed By:
 ---
 
 An [[General SQP Method|SQP]]-type strategy for solving the NMPC problem.
@@ -27,7 +32,7 @@ The algorithm is defined as: ![[Gros ~~ SQP-NMPC Algorithm#$ text{SQP} {i}_{ tex
 	-  ("Gauss-Newton Hessian approximation" $\rightarrow H^{i}_{j} = W^{i}_{j}$ in this case)
 4) We then define: $$(\Delta x^{i},\Delta u^{i})_{k} \triangleq \text{QP}_{\text{NMPC}}^{i}(\hat{x}_{i},\tilde{x}^{g_{k}},\tilde{u}^{g_{k}},x^{ref,i},u^{ref,i})$$
 - **Interpretation:**
-	- These adjustments adjusts the guess in such a way that the new guess minimizes a [[QP-LMPC Formulation|QP]] approximation of the original [[Gros ~~ NMPC Formulation|NLP]]
+	- These adjustments adjusts the guess in such a way that the new guess minimizes a [[Gros ~~ QP-LMPC Formulation|QP]] approximation of the original [[Gros ~~ NMPC Formulation|NLP]]
 	- The new guess likely also approximates the solution to the NLP better than the previous guess
 		- this is not necessarily the case, and one usually chooses somewhere in between the two guesses *(step length)* as the actual new guess.
 	- One may understand that the QP is a meaningful approximation of the NLP by noticing that the KKT conditions are either the same, or good approximations of each other.

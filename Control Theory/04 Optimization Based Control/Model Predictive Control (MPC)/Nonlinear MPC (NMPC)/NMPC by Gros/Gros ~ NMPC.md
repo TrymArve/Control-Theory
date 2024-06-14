@@ -7,7 +7,6 @@ Theory Author:
   - Sébastien Gros
 Reviewed By:
 ---
-
 Notation: [[Optimization#Dynamic Optimization / MPC|here]]
 Consider OCP: ![[Optimal Control Problem#^OCP]]
 

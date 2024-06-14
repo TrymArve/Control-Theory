@@ -1,3 +1,12 @@
+---
+tags:
+  - Optimization/LMPC
+Note Author:
+  - Trym A. Gabrielsen
+Theory Author:
+  - Sébastien Gros
+Reviewed By:
+---
 In a practical [[Gros ~ LMPC|LMPC]] setting, we wish to reduce the computation time as much as possible to allow faster regulation, with longer prediction horizons and higher resolution discretization.
 
 # Preparing Matrices

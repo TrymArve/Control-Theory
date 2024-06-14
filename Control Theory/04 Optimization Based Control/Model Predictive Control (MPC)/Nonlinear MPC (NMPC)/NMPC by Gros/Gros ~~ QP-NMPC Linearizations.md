@@ -1,3 +1,12 @@
+---
+tags:
+  - Optimization/NMPC
+Note Author:
+  - Trym A. Gabrielsen
+Theory Author:
+  - Sébastien Gros
+Reviewed By:
+---
 $$
 \begin{gather}
 \begin{aligned}

@@ -1,3 +1,14 @@
+---
+tags:
+  - Optimization/NMPC
+  - Optimization/SQP
+  - Optimization/QP
+Note Author:
+  - Trym A. Gabrielsen
+Theory Author:
+  - Sébastien Gros
+Reviewed By:
+---
 $$\begin{gather*}
 \text{QP}_{\text{NMPC}}^{i}(\hat{x}_{i},\tilde{x}^{i,g_{k}},\tilde{u}^{i,g_{k}},x^{ref,i},u^{ref,i}) \triangleq \hspace{3cm} \\[0.5cm]
 \arg \min_{\Delta x^{i},\Delta u^{i}} \quad \sum\limits_{j=0}^{H-1}\frac{1}{2}\begin{bmatrix} \Delta x^{i}_{j} \\ \Delta u^{i}_{j}\end{bmatrix}^{\top} H^{i}_{j} \begin{bmatrix}\Delta x^{i}_{j} \\ \Delta u^{i}_{j}\end{bmatrix} + J^{i}_{j} \begin{bmatrix}\Delta x^{i}_{j} \\ \Delta u^{i}_{j}\end{bmatrix}\\[0.3cm]

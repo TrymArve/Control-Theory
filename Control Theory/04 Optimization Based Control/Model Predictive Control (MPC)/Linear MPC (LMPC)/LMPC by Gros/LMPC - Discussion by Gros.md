@@ -1,3 +1,12 @@
+---
+tags:
+  - Optimization/LMPC
+Note Author:
+  - Trym A. Gabrielsen
+Theory Author:
+  - Sébastien Gros
+Reviewed By:
+---
 Discussion on LMPC, as a continuation of [[Gros ~ LMPC]].
 
 # Discussion
