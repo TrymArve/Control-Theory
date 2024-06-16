@@ -27,7 +27,7 @@ Feel free to contribute to the vault, with your own knowledge.
 
 ---
 **Things to add:**
-- some sorf of neat system for references will be concoted in the future
+- some sorf of neat system for references will be concocted in the future
 - suggestions?
 
 ---
