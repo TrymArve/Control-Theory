@@ -22,7 +22,7 @@ $$\text{QP}^{i}_{\text{LPMC}}(\hat{x}_{i},x^{ref,i},u^{ref,i}) = \text{QP}^{i}_{
 **Remarks:**
 - The QPs are based on [[Gros ~ LMPC]] and [[Gros ~ SQP for NMPC]]
 - $\text{QP}^{i}_{\text{NPMC}}$ amounts to one iteration of [[Gros ~~ SQP-NMPC Algorithm#$ text{SQP}_{ text{NMPC}}( hat{x}_{i}, tilde{x} {i,g_{0}}, tilde{u} {i,g_{0}},x {ref,i},u {ref,i},k_{max}) triangleq$|SQP for NMPC]]
-- This comparison lets us [[LPMC vs NMPC - Bridging the Gap with RTI|"bridge the gap"]] between Linear and Nonlinear MPC with #Unfinished "insert RTI reference"
+- This comparison lets us [[Gros ~ LPMC vs NMPC - Bridging the Gap with RTI|"bridge the gap"]] between Linear and Nonlinear MPC with #Unfinished "insert RTI reference"
 
 **Interpretation:**
 - The adjustment ($\Delta u^{i}_{0}$) to the control reference ($u^{ref,i}_{0}$) by [[Gros ~ LMPC|Linear MPC]] is the same as:

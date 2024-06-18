@@ -5,6 +5,7 @@
     "tags": "tags",
     "Note Author": "multitext",
     "Theory Author": "multitext",
-    "Reviewed By": "multitext"
+    "Reviewed By": "multitext",
+    "Test": "multitext"
   }
 }

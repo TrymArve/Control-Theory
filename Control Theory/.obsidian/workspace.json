@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e4864465926f46e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/Real-Time Iteration/LPMC vs NMPC - Bridging the Gap with RTI.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "f2453e4a935a449a",
             "type": "leaf",
             "state": {
@@ -32,51 +20,50 @@
             }
           },
           {
-            "id": "ac7d946c3a226605",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "512e66b4a7aa76c5",
+            "id": "bdb5cf80daca58de",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 Optimization Based Control/Optimization/NLP/Algorithms/Sequential Quadratic Programming (SQP)/General SQP Method.md",
+                "file": "03 Nonlinear Control/Theorems/Miscellaneous/Uniform Continuity from uniformly bounded derivative.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "2449b5d43a74923d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e155344151e21a41",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 Optimization Based Control/Model Predictive Control (MPC)/Linear MPC (LMPC)/LMPC by Gros/Gros ~ LMPC - Implementation.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d06e54b1dc14aba7",
+            "id": "39d9221bf2ebde55",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Nonlinear Control/Theorems/Miscellaneous/Uniform Boundedness.md",
+                "file": "04 Optimization Based Control/Model Predictive Control (MPC)/Trajectory Notation.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "4a28d777764a7fdb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/NMPC by Gros/Gros ~ NMPC.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8b1be844e666b262",
+            "id": "397200a9bd3993c6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -88,31 +75,19 @@
             }
           },
           {
-            "id": "503d45966c426b5e",
+            "id": "35e06ef6db3b344f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/NMPC by Gros/Gros ~ SQP for NMPC.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "53d914903772aa84",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/NMPC by Gros/Lemma - (QP for NMPC) vs. (LMPC).md",
+                "file": "04 Optimization Based Control/Model Predictive Control (MPC)/Techniques/Shifting Procedure.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -178,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "In Progress....md",
+                "file": "03 Nonlinear Control/Theorems/Miscellaneous/Uniform Continuity from uniformly bounded derivative.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "In Progress....md",
+                "file": "03 Nonlinear Control/Theorems/Miscellaneous/Uniform Continuity from uniformly bounded derivative.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,12 +193,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "In Progress....md"
+                "file": "03 Nonlinear Control/Theorems/Miscellaneous/Uniform Continuity from uniformly bounded derivative.md"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -239,34 +213,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f2453e4a935a449a",
+  "active": "bdb5cf80daca58de",
   "lastOpenFiles": [
-    "00 Notation and Practice/Sets.md",
-    "00 Notation and Practice/Functions and Dynamical Systems.md",
-    "00 Notation and Practice/Optimization.md",
-    "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/NMPC by Gros/Gros ~ NMPC.md",
-    "04 Optimization Based Control/Optimization/NLP/Algorithms/Sequential Quadratic Programming (SQP)/General SQP Method.md",
-    "04 Optimization Based Control/Optimization/Definitions/Lagrangian.md",
-    "04 Optimization Based Control/Optimization/Definitions/Critical Cone.md",
-    "04 Optimization Based Control/Optimization/Definitions/Armijo's Condition.md",
-    "04 Optimization Based Control/Optimization/Definitions/Active Set.md",
-    "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/NMPC by Gros/Gros ~ SQP for NMPC.md",
-    "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/NMPC by Gros/Gros ~~ SQP-NMPC Algorithm.md",
+    "In Progress....md",
     "03 Nonlinear Control/Results/Characterizations/Characterizations - ISS.md",
-    "03 Nonlinear Control/Theorems/Khalil/Theorem 4.15 - Exponential Stability from Linearization.md",
-    "03 Nonlinear Control/Theorems/Khalil/Theorem 4.16 - Converse Lyapunov Theorem - Asymptotic Stability.md",
-    "03 Nonlinear Control/Theorems/Miscellaneous/Uniform Boundedness.md",
-    "03 Nonlinear Control/Definitions/Attractivity.md",
-    "03 Nonlinear Control/Definitions/BIBO Stability.md",
-    "03 Nonlinear Control/Definitions/ISS - Input-to-State Stability.md",
-    "03 Nonlinear Control/Definitions/iISS - Integral-input-to-state stability.md",
-    "03 Nonlinear Control/Definitions/Definiteness.md",
-    "03 Nonlinear Control/Definitions/Control Lyapunov Function.md",
-    "03 Nonlinear Control/Definitions/Class K function.md",
-    "04 Optimization Based Control/Model Predictive Control (MPC)/Linear MPC (LMPC)/LMPC by Gros/LMPC - Discussion by Gros.md",
+    "03 Nonlinear Control/Results/Characterizations/Characterizations - Stability.md",
+    "03 Nonlinear Control/Results/Sufficient Condition - Assumption 12.md",
+    "03 Nonlinear Control/Results/Result from Barbalat's Lemma.md",
+    "03 Nonlinear Control/Techniques/Cascade Parameterization.md",
+    "04 Optimization Based Control/Model Predictive Control (MPC)/Techniques/Shifting Procedure.md",
+    "04 Optimization Based Control/Optimization/Definitions/NLP formulation.md",
+    "04 Optimization Based Control/Optimization/Definitions/LP formulation.md",
+    "04 Optimization Based Control/Optimization/Definitions/Linearized Feasible Directions.md",
+    "04 Optimization Based Control/Optimization/Definitions/Lagrangian.md",
+    "04 Optimization Based Control/Optimization/Definitions/LICQ - Linear Independence Constraint Qualification.md",
+    "04 Optimization Based Control/Optimization/Definitions/KKT Conditions.md",
+    "04 Optimization Based Control/Optimization/Definitions/Feasible Set.md",
+    "04 Optimization Based Control/Optimization/Definitions/Critical Cone.md",
+    "04 Optimization Based Control/Optimization/Definitions/Active Set.md",
+    "04 Optimization Based Control/Optimization/Definitions/Active Constraint.md",
+    "04 Optimization Based Control/Consider/Consider - reference trajectory.md",
+    "00 Notation and Practice/Optimization.md",
     "04 Optimization Based Control/Model Predictive Control (MPC)/Linear MPC (LMPC)/LMPC by Gros/Gros ~ LMPC.md",
-    "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/Real-Time Iteration/LPMC vs NMPC - Bridging the Gap with RTI.md",
-    "03 Nonlinear Control/Definitions/Forward Completeness.md",
+    "04 Optimization Based Control/Consider/Consider - Discrete NTV.md",
+    "04 Optimization Based Control/Optimization/Theorems/Lemmas/Nocedal and Wright/Lemma 12.2 - Feasible Directions and Tangent Cone relation.md",
+    "04 Optimization Based Control/Optimization/QP/Algorithms/Active Set Method - QP.md",
+    "04 Optimization Based Control/Optimization/QP/Algorithms/Interior Point Method - QP.md",
+    "04 Optimization Based Control/Optimization/LP/Algorithms/Simplex Algorithm.md",
+    "04 Optimization Based Control/Optimization/LP/Algorithms/Active Set Method - LP.md",
+    "04 Optimization Based Control/Model Predictive Control (MPC)/Techniques",
+    "04 Optimization Based Control/Model Predictive Control (MPC)/Images/LMPC vs NMPC - 1 SQP step.png",
     "- Admin/Logos/obsidian-icon-NTNU-blue.png",
     "- Admin/Templates",
     "- Admin/Logos/Obsidian + NTNU logo.svg",
@@ -281,7 +257,6 @@
     "New folder",
     "00 Notation and Practice/New folder",
     "04 Optimization Based Control/Model Predictive Control (MPC)/Linear MPC (LMPC)/LMPC by Gros/Real-Time Iteration - Sebastien Gros.pdf",
-    "04 Optimization Based Control/Model Predictive Control (MPC)/Linear MPC (LMPC)/LPV-MPC",
     "04 Optimization Based Control/Model Predictive Control (MPC)/Images/Reference Trajectory - Model Offset.svg",
     "04 Optimization Based Control/Model Predictive Control (MPC)/Images/MPC Trajectory Notation.svg",
     "00 Control Theory (Basic)/Theorems/Interconnections/Cascaded Systems/Cascade Stability - GES + ISS = GAS.png",

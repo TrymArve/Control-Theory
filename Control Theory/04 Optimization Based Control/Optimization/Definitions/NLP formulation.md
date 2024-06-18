@@ -1,3 +1,10 @@
+---
+tags: 
+Note Author:
+  - Trym A. Gabrielsen
+Theory Author: 
+Reviewed By:
+---
 $$\text{(NLP):} \qquad  \min_{z\in\mathbb{R}^{n_z}} ~\phi(z)\quad s.t. \quad g(z) = 0\, , \quad h(z) \geq 0$$ ^NLP
 
 

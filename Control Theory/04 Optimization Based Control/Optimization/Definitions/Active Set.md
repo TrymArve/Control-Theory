@@ -1,3 +1,10 @@
+---
+tags: 
+Note Author:
+  - Trym A. Gabrielsen
+Theory Author: 
+Reviewed By:
+---
 Consider ![[NLP formulation#^NLP]]
 **Equality:**
 The **active set***, $\mathbb{A}_{eq}(z)$ for equality constraints at a point $z\in \mathbb{R}^{n_{z}}$ is the set of all indices for which $g_{i}$ is an [[Active Constraint]]. That is $$\mathbb{A}_{eq}(z) \triangleq \{i\in \mathbb{N}_{1,n_{eq}} | ~ g_{i}(z)=0\}$$

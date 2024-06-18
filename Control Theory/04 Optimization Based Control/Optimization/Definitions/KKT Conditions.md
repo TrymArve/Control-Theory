@@ -1,3 +1,10 @@
+---
+tags: 
+Note Author:
+  - Trym A. Gabrielsen
+Theory Author: 
+Reviewed By:
+---
 **Also known as:** *'Karush–Kuhn–Tucker' conditions
 
 Consider ![[NLP formulation#^NLP]]

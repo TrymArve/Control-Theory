@@ -1,3 +1,13 @@
+---
+tags:
+  - Lemma
+Note Author:
+  - Trym A. Gabrielsen
+Theory Author:
+  - Jorge Nocedal
+  - Stephen J. Wright
+Reviewed By:
+---
 If:
 - $z'\in \mathbb{F}$      *(see [[Feasible Set]])*
 

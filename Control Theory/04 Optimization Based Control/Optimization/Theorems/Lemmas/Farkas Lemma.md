@@ -1,3 +1,12 @@
+---
+tags:
+  - NonlinearSystems/Lemma
+Note Author:
+  - Trym A. Gabrielsen
+Theory Author: 
+Reviewed By:
+---
+
 If:
 - $K \triangleq \{By+C \omega | y\geq 0\} \subseteq \mathbb{R}^{n_{z}}$
 

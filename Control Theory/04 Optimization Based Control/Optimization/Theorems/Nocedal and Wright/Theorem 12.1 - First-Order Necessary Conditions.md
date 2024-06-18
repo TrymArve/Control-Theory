@@ -1,4 +1,14 @@
-%% #NonlinearSystems/Theorem%%
+---
+tags:
+  - Theorem
+Note Author:
+  - Trym A. Gabrielsen
+Theory Author:
+  - Jorge Nocedal
+  - Stephen J. Wright
+Reviewed By:
+---
+---
 Consider ![[NLP formulation#^NLP]]
 If:
 - $z^*$ is a local solution of (NLP)
@@ -8,7 +18,7 @@ If:
 
 Then:
 - there exists a $\lambda^{*}$ such that the [[KKT Conditions]] are satisfied at $(z^{*},\lambda^{*})$
-
+---
 
 
 **Remarks:**

@@ -1,4 +1,12 @@
-#NonlinearSystems/Result
+---
+tags:
+  - NonlinearSystems/Result
+Note Author:
+  - Trym A. Gabrielsen
+Theory Author:
+  - Hassan K. Kahlil
+Reviewed By:
+---
 If
 - $(t,x(t)) \mapsto V(t,x(t))$
 is such that

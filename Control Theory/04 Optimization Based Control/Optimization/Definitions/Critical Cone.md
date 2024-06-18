@@ -1,3 +1,10 @@
+---
+tags: 
+Note Author:
+  - Trym A. Gabrielsen
+Theory Author: 
+Reviewed By:
+---
 Consider ![[NLP formulation#^NLP]]
 Given a Lagrangian multiplier for inequality constraints; $\mu$, and the [[Feasible Set]];  $\vec{\mathbb{F}}(z)$, the **critical cone** is defined as:
 $$

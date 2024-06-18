@@ -1,3 +1,12 @@
+---
+tags:
+  - Optimization
+Note Author:
+  - Trym A. Gabrielsen
+Theory Author: 
+Reviewed By:
+---
+
 LQ Control is the class of control methods that solve the LQ Problem: ![[LQ Problem#^LQ-Problem]]
 
 **Such as:

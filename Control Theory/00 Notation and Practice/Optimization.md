@@ -27,6 +27,7 @@ Consider the system to be controlled/simulated: ![[Consider - Controlled NTI#^sy
 **where:**
 - $T$ is the total time of operation. (i.e. the total duration over which we plan to control/operate the process/system, for which we also have a reference trajectory)
 - $\tilde{t} = \{t_{0},t_{1},\dots,t_{N}\}$  is the set of sampling times
+	- use $\tilde{t}^{i}$ for the subset of sampling times within horizon $i$
 - $x$ is the system state
 - $u$ is the control input
 - $x^{\circ}(t)$ is the true trajectory of the system, as controlled by our controller, and starting at $x_{\circ}$

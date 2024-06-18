@@ -1,3 +1,11 @@
+---
+tags: 
+Note Author:
+  - Trym A. Gabrielsen
+Theory Author:
+  - Antonio Loría
+Reviewed By:
+---
 Consider: ![[Consider - NTV#^system]]
 - **Asymptotic Stability**
 	-  (U)S  +  (U)A in $\mathbb{D}$  =  (U)AS in $\mathbb{D}$

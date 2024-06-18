@@ -1,3 +1,12 @@
+---
+tags:
+  - Optimization
+Note Author:
+  - Trym A. Gabrielsen
+Theory Author: 
+Reviewed By:
+---
+
 Linear Quadratic (LQ) Problems are a class of [[Optimal Control Problem|optimal control problems]] where
 - the control objective is a quadratic function of the system state and inputs
 	- *(deviations from reference)*

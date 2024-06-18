@@ -46,6 +46,9 @@ These are typical uses for set symbols, but non-strict. That is, we strive to us
 - $\mathbb{F}$
 	- "Feasible Set" - [[Feasible Set]]
 	- use $\vec{\mathbb{F}}(z)$ to denote [[Linearized Feasible Directions]]
+- $\mathbb{H}$
+	- "Horizon" - set of indices of a discrete trajectory considered in a [[Dynamic Optimization|dynamic optimization problem]]
+
 
 # Other Set Notational Practices
 - $\mathbb{E}^{n}$ 

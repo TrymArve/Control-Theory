@@ -1,3 +1,10 @@
+---
+tags: 
+Note Author:
+  - Trym A. Gabrielsen
+Theory Author: 
+Reviewed By:
+---
 consider: ![[NLP formulation#^NLP]]
 The Lagrangian is defined *(in this vault)* as:
 

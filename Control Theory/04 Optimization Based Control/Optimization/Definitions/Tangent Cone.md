@@ -1,3 +1,10 @@
+---
+tags: 
+Note Author:
+  - Trym A. Gabrielsen
+Theory Author: 
+Reviewed By:
+---
 The tangent cone; $\mathbb{T}_{\Omega}(z')$, is a set of vectors defined for a convex set $\mathbb{\Omega}$, at a point $z'$.
 
 If:

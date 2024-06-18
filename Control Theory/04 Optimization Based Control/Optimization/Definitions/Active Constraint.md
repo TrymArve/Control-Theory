@@ -1,3 +1,10 @@
+---
+tags: 
+Note Author:
+  - Trym A. Gabrielsen
+Theory Author: 
+Reviewed By:
+---
 Consider ![[NLP formulation#^NLP]]
 For a given point $z\in \mathbb{R}^{n_{z}}$ of the decision space, we say that a constraint, $g_{i}$ or $h_{i}$, is ***active*** iff:
 - $g_{i}(z) = 0$  /  $h_{i}(z) = 0$

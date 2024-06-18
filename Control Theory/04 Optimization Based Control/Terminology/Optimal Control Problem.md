@@ -1,3 +1,12 @@
+---
+tags:
+  - Optimization
+Note Author:
+  - Trym A. Gabrielsen
+Theory Author: 
+Reviewed By:
+---
+
 Notation: [[Optimization#Dynamic Optimization / MPC|here]]
 
 An optimal control problem *(discrete)*, is a problem where:

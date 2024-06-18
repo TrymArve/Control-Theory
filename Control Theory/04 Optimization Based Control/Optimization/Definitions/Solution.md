@@ -1,3 +1,12 @@
+---
+tags:
+  - Optimization
+Note Author:
+  - Trym A. Gabrielsen
+Theory Author: 
+Reviewed By:
+---
+
 Consider ![[NLP formulation#^NLP]]
 If:
 - $z^{*} \in \mathbb{F}$

@@ -1,7 +1,14 @@
-## Equivalent Characterizations of [[ISS - Input-to-State Stability|ISS]]
+---
+tags: 
+Note Author:
+  - Trym A. Gabrielsen
+Theory Author:
+  - Antonio Loría
+Reviewed By:
+---
 Consider: ![[Consider - Controlled NTI#^system]]
 **By global stability properties:**
--  ISS  $\Leftrightarrow$  (GS  or   0-GAS) + [[Asymptotic Gain|AG property]]
+-  [[ISS - Input-to-State Stability|ISS]]  $\Leftrightarrow$  (GS  or   0-GAS) + [[Asymptotic Gain|AG property]]
 
 **By class $\mathcal{K}$ functions:**
 - A system, $\dot{x}_1 = f_1(x_1,x_2)$, with input $x_2$, is **ISS** iff there exists a
