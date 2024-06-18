@@ -1,4 +1,12 @@
-#NonlinearSystems/Theorem 
+---
+tags:
+  - NonlinearSystems/Theorem
+Note Author:
+  - Trym A. Gabrielsen
+Theory Author:
+  - Hassan K. Kahlil
+Reviewed By:
+---
 Consider: ![[Consider - NTV#^system]]
 If:
 - $f(t,x)$ is piecewise continuous in $t$

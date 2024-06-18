@@ -1,5 +1,13 @@
-#NonlinearSystems/Lemma 
-
+---
+tags:
+  - NonlinearSystems/Lemma
+Note Author:
+  - Trym A. Gabrielsen
+Theory Author:
+  - Hassan K. Kahlil
+  - Dumitru Barbălat
+Reviewed By:
+---
 Let
 - $\phi:\mathbb{R}\mapsto\mathbb{R}$
 be

@@ -1,4 +1,12 @@
-#NonlinearSystems/Definition 
+---
+tags:
+  - NonlinearSystems/Definition
+Note Author:
+  - Trym A. Gabrielsen
+Theory Author: 
+Reviewed By:
+---
+ 
 A system is called **Locally ISS*** iff:
 - $\exists~\rho>0$
 - $\exists~\gamma\in\mathcal{K}$

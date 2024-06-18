@@ -1,6 +1,14 @@
-#NonlinearSystems/Theorem
-
-*"case 2:  $g(t,\cdot,x_2) = \mathcal{O}(f_1(t,\cdot))$"*
+---
+tags:
+  - NonlinearSystems/Theorem
+Note Author:
+  - Trym A. Gabrielsen
+Theory Author:
+  - Antonio Loría
+Reviewed By:
+---
+From Loria's Growth Comparisons:
+- *"case 2:  $g(t,\cdot,x_2) = \mathcal{O}(f_1(t,\cdot))$"*
 
 Consider: ![[Consider - Feedback Interconnection#^feedback-interconnected-system]]
 If 

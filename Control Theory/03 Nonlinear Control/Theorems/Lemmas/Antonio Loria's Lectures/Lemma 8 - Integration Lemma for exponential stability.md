@@ -1,4 +1,12 @@
-#NonlinearSystems/Lemma 
+---
+tags:
+  - NonlinearSystems/Lemma
+Note Author:
+  - Trym A. Gabrielsen
+Theory Author:
+  - Antonio Loría
+Reviewed By:
+---
 Consider: ![[Consider - NTV#^system]]
 If:
 - $\exists~r,c,p>0:$

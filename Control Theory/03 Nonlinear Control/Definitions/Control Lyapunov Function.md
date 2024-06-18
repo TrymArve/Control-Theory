@@ -1,4 +1,11 @@
-#NonlinearSystems/Definition 
+---
+tags:
+  - NonlinearSystems/Definition
+Note Author:
+  - Trym A. Gabrielsen
+Theory Author: 
+Reviewed By:
+---
 Consider: ![[Consider - Control Affine System#^system]]
 Iff a function $(t,x,u)\mapsto V(t,x,u)$
 - is positive definite in $x$

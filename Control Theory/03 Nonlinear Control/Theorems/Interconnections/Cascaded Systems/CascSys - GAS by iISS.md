@@ -1,3 +1,12 @@
+---
+tags:
+  - NonlinearSystems/Theorem
+Note Author:
+  - Trym A. Gabrielsen
+Theory Author:
+  - Antonio Loría
+Reviewed By:
+---
 Consider: ![[Consider - Cascade Interconnection (Time-Invariant)#^cascade-interconnected-system]]
 
 If:

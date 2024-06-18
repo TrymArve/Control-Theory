@@ -1,4 +1,12 @@
-#NonlinearSystems/Lemma 
+---
+tags:
+  - NonlinearSystems/Lemma
+Note Author:
+  - Trym A. Gabrielsen
+Theory Author:
+  - Antonio Loría
+Reviewed By:
+---
 Consider: ![[Consider - Controlled NTI#^system]]
 The system $\Sigma_\circ$ is ***[[iISS - Integral-input-to-state stability|iISS]]*** iff:
 - $\exists\, V:\mathbb{R}^n\mapsto\mathbb{R}$ that is:

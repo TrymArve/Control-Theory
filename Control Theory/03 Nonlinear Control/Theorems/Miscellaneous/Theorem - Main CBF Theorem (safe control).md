@@ -1,4 +1,18 @@
-#NonlinearSystems/Theorem 
+---
+tags:
+  - NonlinearSystems/Theorem
+  - Safety
+Note Author:
+  - Trym A. Gabrielsen
+Theory Author:
+  - Aaron D. Ames
+  - Samuel Coogan
+  - Magnus Egerstedt
+  - Gennaro Notomista
+  - Koushil Sreenath
+  - Paulo Tabuada
+Reviewed By:
+---
 Consider: ![[Consider - Control Affine System#^system]]
 Let:
 - $\mathbb{D}\subseteq\mathbb{R}^{n_x}$

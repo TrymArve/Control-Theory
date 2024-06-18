@@ -1,3 +1,11 @@
+---
+tags:
+  - Notation
+Note Author:
+  - Trym A. Gabrielsen
+Theory Author: 
+Reviewed By:
+---
 # Notation
 In this vault, we strive to be consistent in our notation in order to
 - maintain readability;

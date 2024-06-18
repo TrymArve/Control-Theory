@@ -1,5 +1,11 @@
-#NonlinearSystems/Definition
-
+---
+tags:
+  - NonlinearSystems/Definition
+Note Author:
+  - Trym A. Gabrielsen
+Theory Author: 
+Reviewed By:
+---
 Consider: ![[Consider - Controlled NTI#^system]]
 where 
 - $f$ is locally Lipschitz

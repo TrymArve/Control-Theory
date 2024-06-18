@@ -1,5 +1,11 @@
-#NonlinearSystems/Consider
-
+---
+tags:
+  - NonlinearSystems/Consider
+Note Author:
+  - Trym A. Gabrielsen
+Theory Author: 
+Reviewed By:
+---
 Consider:
 $$
 \begin{align}

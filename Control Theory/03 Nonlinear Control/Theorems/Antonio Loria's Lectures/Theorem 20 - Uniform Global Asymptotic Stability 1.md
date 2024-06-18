@@ -1,6 +1,14 @@
-#NonlinearSystems/Theorem
-
-*"case 1: $f_1(t,\cdot)$ dominates over $g(t,\cdot,x_2)$"*
+---
+tags:
+  - NonlinearSystems/Theorem
+Note Author:
+  - Trym A. Gabrielsen
+Theory Author:
+  - Antonio Loría
+Reviewed By:
+---
+From Loria's Growth Comparisons:
+- *"case 1: $f_1(t,\cdot)$ dominates over $g(t,\cdot,x_2)$"*
 
 Consider: ![[Consider - Feedback Interconnection#^feedback-interconnected-system]]
 If 

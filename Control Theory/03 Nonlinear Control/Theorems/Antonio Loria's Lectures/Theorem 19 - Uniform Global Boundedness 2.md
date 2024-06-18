@@ -1,6 +1,14 @@
-#NonlinearSystems/Theorem
-
-*"Case 2: $f_1(t,\cdot)$ is of the same order as $g(t,\cdot,x_2)$"*
+---
+tags:
+  - NonlinearSystems/Theorem
+Note Author:
+  - Trym A. Gabrielsen
+Theory Author:
+  - Antonio Loría
+Reviewed By:
+---
+From Loria's Growth Comparisons:
+- *"Case 2: $f_1(t,\cdot)$ is of the same order as $g(t,\cdot,x_2)$"
 
 Consider: ![[Consider - Feedback Interconnection#^feedback-interconnected-system]]
 If 

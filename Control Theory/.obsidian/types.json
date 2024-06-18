@@ -6,6 +6,9 @@
     "Note Author": "multitext",
     "Theory Author": "multitext",
     "Reviewed By": "multitext",
-    "Test": "multitext"
+    "Test": "multitext",
+    "Integration Order": "number",
+    "Integration Type": "checkbox",
+    "Explicit": "checkbox"
   }
 }

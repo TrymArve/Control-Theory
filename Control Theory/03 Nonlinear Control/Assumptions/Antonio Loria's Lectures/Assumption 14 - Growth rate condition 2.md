@@ -1,4 +1,12 @@
-#NonlinearSystems/Assumption
+---
+tags:
+  - NonlinearSystems/Assumption
+Note Author:
+  - Trym A. Gabrielsen
+Theory Author:
+  - Antonio Loría
+Reviewed By:
+---
 Consider: ![[Consider - Feedback Interconnection#^feedback-interconnected-system]]
 Assume that 
 - $\exists~\gamma:\mathbb{R}_+\mapsto\mathbb{R}_+$ that is

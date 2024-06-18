@@ -1,3 +1,11 @@
+---
+tags:
+  - Notation
+Note Author:
+  - Trym A. Gabrielsen
+Theory Author: 
+Reviewed By:
+---
 # Basic Optimization Notation
 - $\phi(\cdot)$ - objective/cost function
 	- not $f$, to distinguish from dynamic constraints

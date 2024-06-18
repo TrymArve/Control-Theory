@@ -1,4 +1,12 @@
-#NonlinearSystems/Lemma 
+---
+tags:
+  - NonlinearSystems/Lemma
+Note Author:
+  - Trym A. Gabrielsen
+Theory Author:
+  - Antonio Loría
+Reviewed By:
+---
 Consider: ![[Consider - NTI#^system]]
 Iff:
 - the solutions of $\Sigma_\circ$ are [[Forward Completeness|forward complete]]

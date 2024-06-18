@@ -1,5 +1,15 @@
-#NonlinearSystems/Theorem 
-
+---
+tags:
+  - NonlinearSystems/Theorem
+Note Author:
+  - Trym A. Gabrielsen
+Theory Author:
+  - Haïm Brezis
+  - Jean-Michel Bony
+  - Mitio Nagumo
+Reviewed By:
+---
+---
 Let 
 - $F$ be a closed subset of a $\mathcal{C}^2$ manifold $M$
 - $X$ be a vector field on $M$, which is
@@ -7,6 +17,7 @@ Let
 Then the following conditions are equivalent:
 - Every integral curve of $X$ starting in $F$, remains in $F$
 - $(X(m),v) \leq 0$ for every exterior normal vector $v$ at a point $m$ in $F$
+---
 
 
 **In human understandable form, for nonlinear systems theory:**

@@ -1,4 +1,12 @@
-#NonlinearSystems/Theorem 
+---
+tags:
+  - NonlinearSystems/Lemma
+Note Author:
+  - Trym A. Gabrielsen
+Theory Author:
+  - Hassan K. Kahlil
+Reviewed By:
+---
 Consider: ![[Consider - Controlled NTV#^system]]
 If:
 - $\exists~V:\mathbb{R}_+\times\mathbb{R}^{n_x}\mapsto\mathbb{R}$ 

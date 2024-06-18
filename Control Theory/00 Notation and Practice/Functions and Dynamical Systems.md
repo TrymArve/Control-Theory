@@ -1,3 +1,11 @@
+---
+tags:
+  - Notation
+Note Author:
+  - Trym A. Gabrielsen
+Theory Author: 
+Reviewed By:
+---
 Here, we define use of symbols and operators in the context of functions/maps and dynamical system/ODEs.
 
 # Initial Value Problem (dynamical system/ODE)

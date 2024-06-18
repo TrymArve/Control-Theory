@@ -1,4 +1,11 @@
-#NonlinearSystems/Definition 
+---
+tags:
+  - NonlinearSystems/Definition
+Note Author:
+  - Trym A. Gabrielsen
+Theory Author: 
+Reviewed By:
+---
 
 A function $\alpha:[0,a\rangle\mapsto[0,\infty\rangle$ is said to be **class $\mathcal{K}$** iff:
 - it is strictly increasing

@@ -1,4 +1,12 @@
-#NonlinearSystems/Lemma 
+---
+tags:
+  - NonlinearSystems/Lemma
+Note Author:
+  - Trym A. Gabrielsen
+Theory Author:
+  - Antonio Loría
+Reviewed By:
+---
 *A relaxation of [[Lemma 9 - Integration Lemma for uniform asymptotic stability]]*
 
 Consider: ![[Consider - NTV#^system]]

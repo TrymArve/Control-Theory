@@ -1,3 +1,11 @@
+---
+tags:
+  - Notation
+Note Author:
+  - Trym A. Gabrielsen
+Theory Author: 
+Reviewed By:
+---
 For denoting sets, we always use the "Blackboard Bold" font, and a capital letter:
 - That is: "\\mathbb{}"
 - this is to remain consistent with the widely used set notations from number theory:

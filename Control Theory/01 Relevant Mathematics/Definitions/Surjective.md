@@ -1,4 +1,11 @@
-%% #NonlinearSystems/Definition %%
+---
+tags:
+  - Definition
+Note Author:
+  - Trym A. Gabrielsen
+Theory Author: 
+Reviewed By:
+---
 A map $f:\mathbb{D}\mapsto \mathbb{O}$ is said to be ***surjective*** iff:
 - $\exists a \in \mathbb{D}: b=f(a)\quad \forall b\in \mathbb{O}$
 

@@ -1,4 +1,12 @@
-#NonlinearSystems/Lemma 
+---
+tags:
+  - NonlinearSystems/Lemma
+Note Author:
+  - Trym A. Gabrielsen
+Theory Author:
+  - Hassan K. Kahlil
+Reviewed By:
+---
 Consider: ![[Consider - Controlled NTV#^system]]
 If:
 - $f$ is 

@@ -1,4 +1,11 @@
-#NonlinearSystems/Definition 
+---
+tags:
+  - NonlinearSystems/Definition
+Note Author:
+  - Trym A. Gabrielsen
+Theory Author: 
+Reviewed By:
+---
 The system 
 $$\dot{x} = f(x,v)$$
 is said to be ***integral-input-to-state stable (iISS)*** iff:

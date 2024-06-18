@@ -1,5 +1,12 @@
-#NonlinearSystems/Assumption
-
+---
+tags:
+  - NonlinearSystems/Assumption
+Note Author:
+  - Trym A. Gabrielsen
+Theory Author:
+  - Antonio Loría
+Reviewed By:
+---
 Consider: ![[Consider - Feedback Interconnection#^feedback-interconnected-system]]
 Assume that we know functions
 - $V:\mathbb{R}_+\times\mathbb{R}^{n_1}\mapsto\mathbb{R}_+$ s.t. $V\in\mathcal{C}^1$

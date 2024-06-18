@@ -1,4 +1,12 @@
-#NonlinearSystems/Lemma 
+---
+tags:
+  - NonlinearSystems/Lemma
+Note Author:
+  - Trym A. Gabrielsen
+Theory Author:
+  - Antonio Loría
+Reviewed By:
+---
 Consider: ![[Consider - Cascade Interconnection (Time-Invariant)#^ae7b80]]
 Let $\theta_1$, $\theta_2$ be 
 - continuous

@@ -1,3 +1,12 @@
+---
+tags:
+  - NonlinearSystems/Theorem
+Note Author:
+  - Trym A. Gabrielsen
+Theory Author:
+  - Antonio Loría
+Reviewed By:
+---
 Consider: ![[Consider - Cascade Interconnection (Time-Invariant)#^cascade-interconnected-system]]
 If:
 - $\Sigma_2$ is [[Lyapunov Stability|GAS]]         ($x_2 \rightarrow 0$ from anywhere)

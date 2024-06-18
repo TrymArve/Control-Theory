@@ -1,4 +1,11 @@
-#NonlinearSystems/Definition
+---
+tags:
+  - NonlinearSystems/Definition
+Note Author:
+  - Trym A. Gabrielsen
+Theory Author: 
+Reviewed By:
+---
 Consider $t \mapsto f(t)$
 Iff:
 - $\forall~\varepsilon>0$

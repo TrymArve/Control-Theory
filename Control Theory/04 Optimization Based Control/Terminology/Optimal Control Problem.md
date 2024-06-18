@@ -4,7 +4,7 @@ tags:
 Note Author:
   - Trym A. Gabrielsen
 Theory Author: 
-Reviewed By:
+Reviewed By: []
 ---
 
 Notation: [[Optimization#Dynamic Optimization / MPC|here]]

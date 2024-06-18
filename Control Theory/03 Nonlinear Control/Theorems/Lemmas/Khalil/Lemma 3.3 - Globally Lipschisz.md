@@ -1,4 +1,12 @@
-#NonlinearSystems/Lemma 
+---
+tags:
+  - NonlinearSystems/Lemma
+Note Author:
+  - Trym A. Gabrielsen
+Theory Author:
+  - Hassan K. Kahlil
+Reviewed By:
+---
 Consider: ![[Consider - NTV#^system]]
 If:
 - on the domain $[a,b]\times\mathbb{R}^{n_x}$:

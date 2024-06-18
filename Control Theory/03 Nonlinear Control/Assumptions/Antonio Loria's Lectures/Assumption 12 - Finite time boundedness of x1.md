@@ -1,5 +1,12 @@
-#NonlinearSystems/Assumption
-
+---
+tags:
+  - NonlinearSystems/Assumption
+Note Author:
+  - Trym A. Gabrielsen
+Theory Author:
+  - Antonio Loría
+Reviewed By:
+---
 Consider:
 ![[Consider - Feedback Interconnection#^feedback-interconnected-system]]
 Assume that there exists

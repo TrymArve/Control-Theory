@@ -1,4 +1,11 @@
-#NonlinearSystems/Definition
+---
+tags:
+  - NonlinearSystems/Definition
+Note Author:
+  - Trym A. Gabrielsen
+Theory Author: 
+Reviewed By:
+---
 **Attractivity** in $\mathbb{D}\subset\mathbb{R}^{n}$ is obtained iff
 - $\forall t_0$
 	- $\forall \sigma > 0$

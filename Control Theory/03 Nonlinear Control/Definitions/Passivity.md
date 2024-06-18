@@ -1,5 +1,12 @@
-#NonlinearSystems/Definition
-
+---
+tags:
+  - NonlinearSystems/Definition
+Note Author:
+  - Trym A. Gabrielsen
+Theory Author:
+  - Hassan K. Kahlil
+Reviewed By:
+---
 Reference:
 *"Nonlinear Systems"*- by Hassan K. Khalil, third edition - Pearson New International Edition p.236.
 

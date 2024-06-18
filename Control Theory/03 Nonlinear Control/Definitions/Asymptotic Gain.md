@@ -1,4 +1,11 @@
-#NonlinearSystems/Definition
+---
+tags:
+  - NonlinearSystems/Definition
+Note Author:
+  - Trym A. Gabrielsen
+Theory Author: 
+Reviewed By:
+---
 Consider: ![[Consider - Controlled NTV#^system]]
 The system $\dot{x} = f(t,x,u)$ satisfies the **Asymptotic Gain*** property iff
 - $\exists~\gamma\in\mathcal{K}:$

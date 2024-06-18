@@ -1,4 +1,12 @@
-#NonlinearSystems/Theorem 
+---
+tags:
+  - NonlinearSystems/Theorem
+Note Author:
+  - Trym A. Gabrielsen
+Theory Author:
+  - Antonio Loría
+Reviewed By:
+---
 Consider: ![[Consider - Cascade Interconnection (Time-Invariant)#^cascade-interconnected-system]]
 If:
 - the origin of $\Sigma_2$ is GAS

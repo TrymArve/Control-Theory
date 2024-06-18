@@ -1,4 +1,11 @@
-#NonlinearSystems/Rule
+---
+tags:
+  - NonlinearSystems/Rule
+Note Author:
+  - Trym A. Gabrielsen
+Theory Author: 
+Reviewed By:
+---
 Consider two vectors
 $$a(x),b(x) : \mathbb{R}^{n_x} \mapsto \mathbb{R}^m$$
 Then we have the following:

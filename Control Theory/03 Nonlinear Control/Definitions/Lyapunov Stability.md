@@ -1,4 +1,12 @@
-#NonlinearSystems/Definition 
+---
+tags:
+  - NonlinearSystems/Definition
+Note Author:
+  - Trym A. Gabrielsen
+Theory Author: 
+Reviewed By:
+---
+ 
 # Definitions (using comparison functions)
 
 ## Stability (S) 

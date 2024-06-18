@@ -1,4 +1,12 @@
-#NonlinearSystems/Lemma 
+---
+tags:
+  - NonlinearSystems/Lemma
+Note Author:
+  - Trym A. Gabrielsen
+Theory Author:
+  - Antonio Loría
+Reviewed By:
+---
 Let:
 - $\phi:\mathbb{R}_+\mapsto\mathbb{R}^{n}$
 	- be continuously differentiable ($\phi \in \mathcal{C}^1$)

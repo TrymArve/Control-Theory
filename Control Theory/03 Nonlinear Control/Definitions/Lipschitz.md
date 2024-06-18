@@ -1,4 +1,11 @@
-#NonlinearSystems/Definition 
+---
+tags:
+  - NonlinearSystems/Definition
+Note Author:
+  - Trym A. Gabrielsen
+Theory Author: 
+Reviewed By:
+---
 
 # Locally Lipschitz "at $(t_\circ,x_\circ)$"
 A function $f:\mathbb{R}\times\mathbb{R}^n\mapsto\mathbb{R}^m$ is **(Locally) Lipschitz at $(t_\circ,x_\circ)$**  iff:

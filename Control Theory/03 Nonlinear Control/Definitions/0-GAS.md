@@ -1,4 +1,11 @@
-#NonlinearSystems/Definition
+---
+tags:
+  - NonlinearSystems/Definition
+Note Author:
+  - Trym A. Gabrielsen
+Theory Author: 
+Reviewed By:
+---
 Consider: ![[Consider - Controlled NTI#^system]]
 where:
 - $\boldsymbol{u}$ is a Lebesgue measurable essentially bounded external input

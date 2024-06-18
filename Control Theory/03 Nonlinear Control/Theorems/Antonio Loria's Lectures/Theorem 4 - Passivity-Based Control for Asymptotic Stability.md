@@ -1,4 +1,12 @@
-#NonlinearSystems/Theorem 
+---
+tags:
+  - NonlinearSystems/Theorem
+Note Author:
+  - Trym A. Gabrielsen
+Theory Author:
+  - Antonio Loría
+Reviewed By:
+---
 Consider: ![[Consider - Controlled NTI#^system]]
 If $\Sigma_\circ$
 - is passive on the map $u \mapsto y$
