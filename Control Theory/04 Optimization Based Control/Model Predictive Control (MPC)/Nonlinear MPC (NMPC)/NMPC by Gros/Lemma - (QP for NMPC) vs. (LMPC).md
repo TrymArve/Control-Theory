@@ -1,8 +1,8 @@
 ---
 tags:
-  - NonlinearSystems/Lemma
   - Optimization/NMPC
   - Optimization/LMPC
+  - Lemma
 Note Author:
   - Trym A. Gabrielsen
 Theory Author:

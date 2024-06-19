@@ -4,34 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2112ab23f21dec0c",
+        "id": "27d1f466f10a192e",
         "type": "tabs",
         "children": [
           {
-            "id": "1d6a249e78924eaa",
+            "id": "e020d7ab4fbfa327",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05 Simulation/Algorithmic Differentiation/RK4 (with AD).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "3a6c2d1304fe9f17",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f6fdd51ed657d394",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05 Simulation/Algorithmic Differentiation/Explicit Euler (with AD).md",
+                "file": "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/NMPC by Gros/Gros ~ NMPC.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "05 Simulation/Algorithmic Differentiation/RK4 (with AD).md",
+                "file": "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/NMPC by Gros/Gros ~ NMPC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "05 Simulation/Algorithmic Differentiation/RK4 (with AD).md",
+                "file": "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/NMPC by Gros/Gros ~ NMPC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05 Simulation/Algorithmic Differentiation/RK4 (with AD).md"
+                "file": "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/NMPC by Gros/Gros ~ NMPC.md"
               }
             }
           }
@@ -164,36 +146,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1d6a249e78924eaa",
+  "active": "e020d7ab4fbfa327",
   "lastOpenFiles": [
-    "05 Simulation/Algorithmic Differentiation/Explicit Euler (with AD).md",
-    "05 Simulation/Algorithmic Differentiation/RK4 (with AD).md",
-    "- Admin/Templates/Template - Integration Algorithms.md",
-    "- Admin/Templates/Template - Empty.md",
-    "Untitled.md",
-    "05 Simulation/Terminology/Sensitivities.md",
-    "05 Simulation/Terminology",
-    "05 Simulation/Untitled.md",
-    "2024-06-18.md",
+    "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/NMPC by Gros/Gros ~ SQP for NMPC.md",
+    "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/NMPC by Gros/Gros ~ NMPC.md",
+    "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/NMPC by Gros/Lemma - (QP for NMPC) vs. (LMPC).md",
+    "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/Real-Time Iteration/Gros ~ Conditions for RTI.md",
+    "04 Optimization Based Control/Optimization/Definitions/KKT Conditions (First-Order Necessary Conditions).md",
+    "04 Optimization Based Control/Optimization/Theorems/Nocedal and Wright/Theorem 12.1 - First-Order Necessary Conditions.md",
+    "04 Optimization Based Control/Optimization/Theorems/Nocedal and Wright/Theorem 12.3 - Objective Gradient at Solution.md",
+    "04 Optimization Based Control/Optimization/Definitions/Second Order Sufficient Condition (SOSC).md",
+    "Who wrote this....md",
     "In Progress....md",
     "Unreviewed Notes....md",
-    "Who wrote this....md",
+    "01 Relevant Mathematics/Definitions/Boundary Value Problem (BVP).md",
+    "05 Simulation/Terminology/Shooting Method.md",
+    "05 Simulation/Terminology/Explicit Integrator.md",
+    "05 Simulation/Terminology/Implicit Integrator.md",
+    "05 Simulation/Terminology/Integrator.md",
+    "05 Simulation/Terminology/Sensitivity.md",
+    "01 Relevant Mathematics/Definitions/Partial Differential Equation (PDE).md",
+    "01 Relevant Mathematics/Definitions/Ordinary Differential Equation (ODE).md",
     "05 Simulation/Algorithmic Differentiation/Algorithmic Differentiation.md",
+    "05 Simulation/Algorithmic Differentiation/Explicit Euler (with AD).md",
+    "05 Simulation/Algorithmic Differentiation/Explicit RK4 (with AD).md",
+    "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/Real-Time Iteration/Lemma - RTI vs LMPC.md",
+    "04 Optimization Based Control/Optimization/Techniques/Gauss-Newton Hessian Approximation.md",
+    "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/Real-Time Iteration/Gros ~ RTI (simplified version).md",
+    "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/Real-Time Iteration/Gros ~ RTI.md",
+    "05 Simulation/Terminology",
     "05 Simulation/Algorithmic Differentiation",
-    "04 Optimization Based Control/Terminology/Optimal Control Problem.md",
-    "- Admin/Templates/Template - Trym.md",
-    "- Admin/Templates/Template - By Gros.md",
-    "Who wrote this.md",
-    "00 Notation and Practice/00 Preface.md",
-    "00 Notation and Practice/Sets.md",
-    "00 Notation and Practice/Functions and Dynamical Systems.md",
-    "00 Notation and Practice/Optimization.md",
-    "01 Relevant Mathematics/Definitions/Bijective.md",
-    "01 Relevant Mathematics/Definitions/Injective.md",
-    "01 Relevant Mathematics/Definitions/Surjective.md",
-    "01 Relevant Mathematics/Rules/Linear Algebra and Calculus/Derivative of norm.md",
-    "01 Relevant Mathematics/Rules/Linear Algebra and Calculus/Jacobian of Dot Product.md",
-    "03 Nonlinear Control/Consider/Consider - Cascade Interconnection (Time-Invariant).md",
     "04 Optimization Based Control/Model Predictive Control (MPC)/Techniques",
     "04 Optimization Based Control/Model Predictive Control (MPC)/Images/LMPC vs NMPC - 1 SQP step.png",
     "- Admin/Logos/obsidian-icon-NTNU-blue.png",

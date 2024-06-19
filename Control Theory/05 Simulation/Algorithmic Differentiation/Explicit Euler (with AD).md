@@ -36,7 +36,7 @@ Explicit: true
 - From some state $x_{k}$, this algorithm provides the next state $x_{k+1}$ after some time $\Delta t_{k}$ has passed, given a constant $u_{k}$ control input over the interval.
 - The algorithm also return the equivalent linear system that yields the same step.
 - That is: $$x_{k+1} = A_{k}x_{k} + B_{k}u_{k}$$
-- Thus it also yields the "sensitivities": $$\Delta x_{k+1}= A_{k}\Delta x_{k}+ B_{k}\Delta u_{k}$$
+- Thus it also yields the [[Sensitivity|"sensitivities"]]: $$\Delta x_{k+1}= A_{k}\Delta x_{k}+ B_{k}\Delta u_{k}$$
 	- That is, how much the next state value changes, based on some changes to the current state and the constant input
 - For small changes, we see that, in fact:
 	- $\frac{\partial x_{k+1}}{\partial x_{k}} = A_{k}$
