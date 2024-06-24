@@ -42,9 +42,9 @@ Explicit: true
 		- $x^{+} \leftarrow x^{+} + \frac{\delta t}{6}(f_{1}+ 2f_{2} + 2f_{3} + f_{4})$
 		- $A_{k} \leftarrow A_{k} + \frac{\delta t}{6}(A_{k}^{1} + 2A_{k}^{2} + 2A_{k}^{3} + A_{k}^{4})$
 		- $B_{k} \leftarrow B_{k} + \frac{\delta t}{6}(B_{k}^{1} + 2B_{k}^{2} + 2B_{k}^{3} + B_{k}^{4})$
-1) $\text{Set:}$
+3) $\text{Set:}$
 	- $x_{k+1} = x^{+}$
-2) $\text{Return:}$
+4) $\text{Return:}$
 	- $~x_{k+1} ~, ~A_{k} ~, ~B_{k}$
 ---
 

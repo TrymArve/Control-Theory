@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/NMPC by Gros/Gros ~ NMPC.md",
+                "file": "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/Real-Time Iteration/Gros ~ RTI.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2f28e5bcb536a208",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05 Simulation/Algorithmic Differentiation/Explicit RK4 (with AD).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "96ce55c92bd98c19",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05 Simulation/Runge Kutta Methods/Explicit RK 4.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -69,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 355.5
+    "width": 355.5,
+    "collapsed": true
   },
   "right": {
     "id": "996e4053ce2361ec",
@@ -85,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/NMPC by Gros/Gros ~ NMPC.md",
+                "file": "05 Simulation/Runge Kutta Methods/Explicit RK 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/NMPC by Gros/Gros ~ NMPC.md",
+                "file": "05 Simulation/Runge Kutta Methods/Explicit RK 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/NMPC by Gros/Gros ~ NMPC.md"
+                "file": "05 Simulation/Runge Kutta Methods/Explicit RK 4.md"
               }
             }
           }
@@ -146,10 +172,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e020d7ab4fbfa327",
+  "active": "96ce55c92bd98c19",
   "lastOpenFiles": [
-    "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/NMPC by Gros/Gros ~ SQP for NMPC.md",
+    "05 Simulation/Algorithmic Differentiation/Explicit RK4 (with AD).md",
+    "05 Simulation/Runge Kutta Methods/Explicit RK 4.md",
+    "2024-06-24.md",
+    "05 Simulation/Runge Kutta Methods/Runge-Kutta (RK) Methods.md",
     "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/NMPC by Gros/Gros ~ NMPC.md",
+    "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/Real-Time Iteration/Gros ~ RTI.md",
+    "04 Optimization Based Control/Optimization/Definitions/KKT-Matrix.md",
+    "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/NMPC by Gros/Gros ~ SQP for NMPC.md",
     "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/NMPC by Gros/Lemma - (QP for NMPC) vs. (LMPC).md",
     "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/Real-Time Iteration/Gros ~ Conditions for RTI.md",
     "04 Optimization Based Control/Optimization/Definitions/KKT Conditions (First-Order Necessary Conditions).md",
@@ -168,12 +200,6 @@
     "01 Relevant Mathematics/Definitions/Partial Differential Equation (PDE).md",
     "01 Relevant Mathematics/Definitions/Ordinary Differential Equation (ODE).md",
     "05 Simulation/Algorithmic Differentiation/Algorithmic Differentiation.md",
-    "05 Simulation/Algorithmic Differentiation/Explicit Euler (with AD).md",
-    "05 Simulation/Algorithmic Differentiation/Explicit RK4 (with AD).md",
-    "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/Real-Time Iteration/Lemma - RTI vs LMPC.md",
-    "04 Optimization Based Control/Optimization/Techniques/Gauss-Newton Hessian Approximation.md",
-    "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/Real-Time Iteration/Gros ~ RTI (simplified version).md",
-    "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/Real-Time Iteration/Gros ~ RTI.md",
     "05 Simulation/Terminology",
     "05 Simulation/Algorithmic Differentiation",
     "04 Optimization Based Control/Model Predictive Control (MPC)/Techniques",
