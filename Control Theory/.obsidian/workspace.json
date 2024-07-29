@@ -37,14 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05 Simulation/Runge Kutta Methods/Explicit RK 4.md",
-                "mode": "source",
+                "file": "05 Simulation/Example Models/Single Pendulum.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eb51ca8b96d6ff7f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05 Simulation/Example Models/Pendulum on Cart.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -94,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 355.5,
-    "collapsed": true
+    "width": 355.5
   },
   "right": {
     "id": "996e4053ce2361ec",
@@ -111,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "05 Simulation/Runge Kutta Methods/Explicit RK 4.md",
+                "file": "05 Simulation/Example Models/Pendulum on Cart.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "05 Simulation/Runge Kutta Methods/Explicit RK 4.md",
+                "file": "05 Simulation/Example Models/Pendulum on Cart.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05 Simulation/Runge Kutta Methods/Explicit RK 4.md"
+                "file": "05 Simulation/Example Models/Pendulum on Cart.md"
               }
             }
           }
@@ -172,10 +183,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "96ce55c92bd98c19",
+  "active": "eb51ca8b96d6ff7f",
   "lastOpenFiles": [
-    "05 Simulation/Algorithmic Differentiation/Explicit RK4 (with AD).md",
+    "05 Simulation/Example Models/Single Pendulum.md",
+    "05 Simulation/Example Models/Pendulum on Cart.md",
+    "05 Simulation/Example Models/Figures/ExMod - Pendulum on Cart.pdf",
+    "05 Simulation/Example Models/Figures",
     "05 Simulation/Runge Kutta Methods/Explicit RK 4.md",
+    "05 Simulation/Example Models",
+    "05 Simulation/Algorithmic Differentiation/Explicit RK4 (with AD).md",
     "2024-06-24.md",
     "05 Simulation/Runge Kutta Methods/Runge-Kutta (RK) Methods.md",
     "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/NMPC by Gros/Gros ~ NMPC.md",
@@ -197,9 +213,6 @@
     "05 Simulation/Terminology/Implicit Integrator.md",
     "05 Simulation/Terminology/Integrator.md",
     "05 Simulation/Terminology/Sensitivity.md",
-    "01 Relevant Mathematics/Definitions/Partial Differential Equation (PDE).md",
-    "01 Relevant Mathematics/Definitions/Ordinary Differential Equation (ODE).md",
-    "05 Simulation/Algorithmic Differentiation/Algorithmic Differentiation.md",
     "05 Simulation/Terminology",
     "05 Simulation/Algorithmic Differentiation",
     "04 Optimization Based Control/Model Predictive Control (MPC)/Techniques",
@@ -212,10 +225,6 @@
     "04 Optimization Based Control/Optimization Based Control.canvas",
     "03 Nonlinear Control/Canvases/ISS.canvas",
     "03 Nonlinear Control/Canvases/Canvas - Cascaded Systems.canvas",
-    "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/Real-Time Iteration",
-    "- Admin/obsidian-icon.png.crdownload",
-    "- Admin",
-    "New folder",
     "04 Optimization Based Control/Model Predictive Control (MPC)/Images/Reference Trajectory - Model Offset.svg",
     "04 Optimization Based Control/Model Predictive Control (MPC)/Images/MPC Trajectory Notation.svg",
     "00 Control Theory (Basic)/Theorems/Interconnections/Cascaded Systems/Cascade Stability - GES + ISS = GAS.png",
