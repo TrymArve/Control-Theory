@@ -1,3 +1,12 @@
+---
+tags:
+  - Optimization/NMPC/RTI
+Note Author:
+  - Trym A. Gabrielsen
+Theory Author:
+  - Sébastien Gros
+Reviewed By:
+---
 The [[Gros ~ RTI|RTI]] scheme will closely track the global optimum of the corresponding [[Gros ~ NMPC||NMPC]] scheme if:
 1) the RTI scheme is [[Warm Start|warm started]] at the global optimum
 2) the sampling frequency is sufficiently high

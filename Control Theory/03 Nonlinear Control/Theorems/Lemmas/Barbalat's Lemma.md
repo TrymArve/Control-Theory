@@ -10,12 +10,15 @@ Reviewed By:
 ---
 Let
 - $\phi:\mathbb{R}\mapsto\mathbb{R}$
+
 be
 - [[Uniform Continuity|uniformly continuous]] on $[0,\infty\rangle$.
+
 If
 - $\lim_{t\rightarrow\infty} \int_{0}^{t} \phi(\tau) ~d\tau$
 	- exists
 	- is finite
+
 then
 - $t\rightarrow\infty \implies \phi(t)\rightarrow0$
 
@@ -23,12 +26,15 @@ then
 # Alternatively
 Let
 - $\dot{f}:\mathbb{R}\mapsto\mathbb{R}$
+
 be
 - uniformly continuous on $[0,\infty\rangle$.
+
 If
 - $\lim_{t\rightarrow\infty} f(t)$
 	- exists
 	- is finite
+
 then
 - $t\rightarrow\infty \implies \dot{f}(t)\rightarrow0$
 
@@ -38,6 +44,7 @@ then
 - $\lim_{t\rightarrow\infty} f(t)$
 	- exists
 	- is finite
+
 essentially says that $f(t)$ converges to a value
 - note: $\dot{f}\rightarrow0 \centernot\implies f(t)\rightarrow a$
 	- ex: $f(t) = \sin(\ln(t))$

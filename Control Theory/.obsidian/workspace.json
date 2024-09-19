@@ -4,59 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "27d1f466f10a192e",
+        "id": "1a536acb609e32b8",
         "type": "tabs",
         "children": [
           {
-            "id": "e020d7ab4fbfa327",
+            "id": "307ac99cf93df7cc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/Real-Time Iteration/Gros ~ RTI.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2f28e5bcb536a208",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05 Simulation/Algorithmic Differentiation/Explicit RK4 (with AD).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "96ce55c92bd98c19",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05 Simulation/Example Models/Single Pendulum.md",
+                "file": "00 Notation and Practice/Optimization.md",
                 "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "eb51ca8b96d6ff7f",
+            "id": "f6d91bad7e53cf14",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05 Simulation/Example Models/Pendulum on Cart.md",
+                "file": "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/Suboptimal NMPC/Stability By Feasibility.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9ed86b4712a62443",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 Nonlinear Control/Theorems/Khalil/Theorem 4.4 - LaSalle's Theorem.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#NonlinearSystems/Lemma",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -122,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "05 Simulation/Example Models/Pendulum on Cart.md",
+                "file": "03 Nonlinear Control/Theorems/Khalil/Theorem 4.4 - LaSalle's Theorem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "05 Simulation/Example Models/Pendulum on Cart.md",
+                "file": "03 Nonlinear Control/Theorems/Khalil/Theorem 4.4 - LaSalle's Theorem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05 Simulation/Example Models/Pendulum on Cart.md"
+                "file": "03 Nonlinear Control/Theorems/Khalil/Theorem 4.4 - LaSalle's Theorem.md"
               }
             }
           }
@@ -175,6 +163,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "quickadd:QuickAdd": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -183,48 +172,50 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eb51ca8b96d6ff7f",
+  "active": "9ed86b4712a62443",
   "lastOpenFiles": [
-    "05 Simulation/Example Models/Single Pendulum.md",
-    "05 Simulation/Example Models/Pendulum on Cart.md",
+    "03 Nonlinear Control/Theorems/Lemmas/Khalil/Lemma 4.1 - Positive Limit Set.md",
+    "03 Nonlinear Control/Theorems/Khalil/Theorem 4.4 - LaSalle's Theorem.md",
+    "03 Nonlinear Control/Definitions/Positive Limit Set.md",
+    "01 Relevant Mathematics/Definitions/Abstract Mathematics/Set Properties/Compact (set).md",
+    "03 Nonlinear Control/Definitions/Invariant Set.md",
+    "01 Relevant Mathematics/Definitions/Abstract Mathematics/Set Properties/Closed (set).md",
+    "01 Relevant Mathematics/Definitions/Abstract Mathematics/Cauchy Sequence.md",
+    "01 Relevant Mathematics/Definitions/Abstract Mathematics/Set Properties/Bounded.md",
+    "01 Relevant Mathematics/Definitions/Abstract Mathematics/Metric Space.md",
+    "01 Relevant Mathematics/Definitions/Abstract Mathematics/Set.md",
+    "01 Relevant Mathematics/Definitions/Abstract Mathematics/Set Properties",
+    "04 Optimization Based Control/Dynamic Optimization/Direct Collocation.md",
+    "04 Optimization Based Control/Dynamic Optimization/Direct Transcription.md",
+    "04 Optimization Based Control/Dynamic Optimization/Multiple Shooting.md",
+    "03 Nonlinear Control/Definitions/Boundedness.md",
+    "03 Nonlinear Control/Definitions/ISS - Input-to-State Stability.md",
+    "03 Nonlinear Control/Definitions/0-GAS.md",
+    "03 Nonlinear Control/Assumptions/Antonio Loria's Lectures/Assumption 12 - Finite time boundedness of x1.md",
+    "03 Nonlinear Control/Canvases/Canvas - Cascaded Systems.canvas",
+    "03 Nonlinear Control/Canvases/ISS.canvas",
+    "03 Nonlinear Control/Techniques/Cascade Parameterization.md",
+    "03 Nonlinear Control/Theorems/Khalil/Theorem 4.15 - Exponential Stability from Linearization.md",
+    "01 Relevant Mathematics/Definitions/Functional Analysis/Continuous.md",
+    "03 Nonlinear Control/Definitions/Class K function.md",
+    "03 Nonlinear Control/Consider/Consider - NTI.md",
+    "03 Nonlinear Control/Theorems/Lemmas/Barbalat's Lemma.md",
+    "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/Suboptimal NMPC/Stability By Feasibility.md",
+    "2024-09-18.md",
+    "00 Notation and Practice/Optimization.md",
+    "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/Suboptimal NMPC",
+    "01 Relevant Mathematics/Definitions/Functional Analysis",
+    "01 Relevant Mathematics/Definitions/Abstract Mathematics/Algebraic Structures",
+    "- Admin/Logos/Obsidian + NTNU logo.svg",
+    "- Admin/Logos/obsidian-icon-NTNU-blue.png",
+    "01 Relevant Mathematics/Definitions/Abstract Mathematics",
+    "04 Optimization Based Control/Predictive Safety Filters",
+    "04 Optimization Based Control/Optimization Based Control.canvas",
+    "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/Real-Time Iteration/By Diehl",
+    "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/Real-Time Iteration/By Gros",
     "05 Simulation/Example Models/Figures/ExMod - Pendulum on Cart.pdf",
     "05 Simulation/Example Models/Figures",
-    "05 Simulation/Runge Kutta Methods/Explicit RK 4.md",
-    "05 Simulation/Example Models",
-    "05 Simulation/Algorithmic Differentiation/Explicit RK4 (with AD).md",
-    "2024-06-24.md",
-    "05 Simulation/Runge Kutta Methods/Runge-Kutta (RK) Methods.md",
-    "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/NMPC by Gros/Gros ~ NMPC.md",
-    "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/Real-Time Iteration/Gros ~ RTI.md",
-    "04 Optimization Based Control/Optimization/Definitions/KKT-Matrix.md",
-    "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/NMPC by Gros/Gros ~ SQP for NMPC.md",
-    "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/NMPC by Gros/Lemma - (QP for NMPC) vs. (LMPC).md",
-    "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/Real-Time Iteration/Gros ~ Conditions for RTI.md",
-    "04 Optimization Based Control/Optimization/Definitions/KKT Conditions (First-Order Necessary Conditions).md",
-    "04 Optimization Based Control/Optimization/Theorems/Nocedal and Wright/Theorem 12.1 - First-Order Necessary Conditions.md",
-    "04 Optimization Based Control/Optimization/Theorems/Nocedal and Wright/Theorem 12.3 - Objective Gradient at Solution.md",
-    "04 Optimization Based Control/Optimization/Definitions/Second Order Sufficient Condition (SOSC).md",
-    "Who wrote this....md",
-    "In Progress....md",
-    "Unreviewed Notes....md",
-    "01 Relevant Mathematics/Definitions/Boundary Value Problem (BVP).md",
-    "05 Simulation/Terminology/Shooting Method.md",
-    "05 Simulation/Terminology/Explicit Integrator.md",
-    "05 Simulation/Terminology/Implicit Integrator.md",
-    "05 Simulation/Terminology/Integrator.md",
-    "05 Simulation/Terminology/Sensitivity.md",
-    "05 Simulation/Terminology",
-    "05 Simulation/Algorithmic Differentiation",
-    "04 Optimization Based Control/Model Predictive Control (MPC)/Techniques",
     "04 Optimization Based Control/Model Predictive Control (MPC)/Images/LMPC vs NMPC - 1 SQP step.png",
-    "- Admin/Logos/obsidian-icon-NTNU-blue.png",
-    "- Admin/Templates",
-    "- Admin/Logos/Obsidian + NTNU logo.svg",
-    "- Admin/Logos",
-    "04 Optimization Based Control/Optimization/Techniques",
-    "04 Optimization Based Control/Optimization Based Control.canvas",
-    "03 Nonlinear Control/Canvases/ISS.canvas",
-    "03 Nonlinear Control/Canvases/Canvas - Cascaded Systems.canvas",
     "04 Optimization Based Control/Model Predictive Control (MPC)/Images/Reference Trajectory - Model Offset.svg",
     "04 Optimization Based Control/Model Predictive Control (MPC)/Images/MPC Trajectory Notation.svg",
     "00 Control Theory (Basic)/Theorems/Interconnections/Cascaded Systems/Cascade Stability - GES + ISS = GAS.png",

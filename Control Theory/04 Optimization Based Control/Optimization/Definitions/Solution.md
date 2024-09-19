@@ -14,6 +14,7 @@ If:
 	where
 	- $\tilde{\mathbb{N}}(z)$ is a neighborhood of $z$
 	- $\mathbb{F}$ is the [[Feasible Set]] of (NLP)
+
 Then:
 - $z^*$ is a ***solution*** of (NLP)
 
@@ -26,6 +27,7 @@ Consider ![[NLP formulation#^NLP]]
 If:
 - $z^{*} \in \mathbb{F}$
 - $\phi(z^{*}) < \phi(z') \quad \forall z' \in \tilde{\mathbb{N}}(z^{*}) \cap \mathbb{F}$
+
 Then:
 - $z^*$ is a ***strict solution*** of (NLP)
 
@@ -39,6 +41,7 @@ Consider ![[NLP formulation#^NLP]]
 If:
 - $z^{*} \in \mathbb{F}$
 - $\phi(z^{*}) \leq \phi(z') \quad \forall z' \in \mathbb{F}$
+
 Then:
 - $z^*$ is a ***global solution*** of (NLP)
 
@@ -54,6 +57,7 @@ Consider ![[NLP formulation#^NLP]]
 If:
 - $z^{*} \in \mathbb{F}$
 - $\phi(z^{*}) < \phi(z') \quad \forall z' \in \mathbb{F}\setminus z^{*}$
+
 Then:
 - $z^*$ is a ***unique solution*** of (NLP)
 

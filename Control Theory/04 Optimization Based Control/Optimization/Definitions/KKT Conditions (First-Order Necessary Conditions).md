@@ -5,7 +5,7 @@ Note Author:
 Theory Author: 
 Reviewed By:
 ---
-**Also known as:** *'Karush–Kuhn–Tucker' conditions
+**Also known as:** *'Karush–Kuhn–Tucker'* conditions
 
 Consider ![[NLP formulation#^NLP]]
 and ![[Lagrangian#^f38d6e]]
@@ -15,6 +15,6 @@ $$\begin{align*}
 \text{(KKT-2):} \qquad && g(z^*)&=0\\
 \text{(KKT-3):} \qquad && h(z^*)&\geq0\\
 \text{(KKT-4):} \qquad && \hat{\lambda}^*&\geq0\\
-\text{(KKT-5):} \qquad && \bar{\lambda}^*_{i}g_{i}(z^*) &=0 \quad \forall i \in \mathbb{Z}_{1,n_{eq}}\\
-\text{(KKT-6):} \qquad && \hat{\lambda}^*_{i}h_{i}(z^*) &=0 \quad \forall i \in \mathbb{Z}_{1,n_{in}}
+%% \text{(KKT-5):} \qquad && \bar{\lambda}^*_{i}g_{i}(z^*) &=0 \quad \forall i \in \mathbb{Z}_{1,n_{eq}}\\ %%
+\text{(KKT-5):} \qquad && \hat{\lambda}^*_{i}h_{i}(z^*) &=0 \quad \forall i \in \mathbb{Z}_{1,n_{in}}
 \end{align*}$$

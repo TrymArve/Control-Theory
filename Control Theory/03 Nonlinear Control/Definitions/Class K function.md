@@ -7,7 +7,7 @@ Theory Author:
 Reviewed By:
 ---
 
-A function $\alpha:[0,a\rangle\mapsto[0,\infty\rangle$ is said to be **class $\mathcal{K}$** iff:
+A [[Continuous|continuous]] [[Function|function]] $\alpha:[0,a\rangle\mapsto[0,\infty\rangle$ is said to be **class $\mathcal{K}$** iff:
 - it is strictly increasing
 - $\alpha(0) = 0$
 
@@ -24,6 +24,7 @@ A function $\alpha:[0,a\rangle\mapsto[0,\infty\rangle$ is said to be **class $\m
 	- $f'(x) = x \implies f'(0)=0$
 - In fact:
 	- $f(x) = x^n\in \mathcal{K},\quad \forall~n\geq1$
+	- 
 
 
 
