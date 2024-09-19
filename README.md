@@ -16,7 +16,7 @@ The note management system "Obsidian" is used for note management, and the repos
 
 The aim is to gather all the relevant (basic) theory used at the departement of Engineering Cybernetics (ITK) at NTNU, in a neat Obisidan Vault that one may copy onto ones computer and use for quick lookup of the theory one needs.
 Theorems etc. links back to the relevant definitions of various terms, such that by simply hovering over the link, one immediately sees the definition of that term in a pop-up box. 
-#### **NO more fumbling back and forth in books and having five acticles open at the same time just to recap a theorem that relies in other theorems, lemmas, definitions etc. !!** 
+#### **NO more fumbling back and forth in books and having five acticles open at the same time just to recap a theorem that relies on other theorems, lemmas, definitions etc. !!** 
 It's all collected neatly and orderly in this vault🙌
 
 
