@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/Suboptimal NMPC/Stability By Feasibility.md",
+                "file": "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/Suboptimal NMPC/Lyapunov Theorem for discrete controlled systems.md",
                 "mode": "preview",
                 "source": false
               }
@@ -37,14 +37,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Nonlinear Control/Theorems/Khalil/Theorem 4.4 - LaSalle's Theorem.md",
+                "file": "03 Nonlinear Control/Theorems/Khalil/Theorem 4.17 - Lyapunov Function on Region of Attraction for AS equilibria.md",
                 "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ae6082c84a3b558f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 Nonlinear Control/Theorems/Miscellaneous/Asymptotic Stability from Attractivity.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c9e3cb355c3801e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 Nonlinear Control/Definitions/Lyapunov Stability.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "477eeb716cc9363d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 Nonlinear Control/Definitions/Attractivity.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 Nonlinear Control/Theorems/Khalil/Theorem 4.4 - LaSalle's Theorem.md",
+                "file": "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/Suboptimal NMPC/Lyapunov Theorem for discrete controlled systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 Nonlinear Control/Theorems/Khalil/Theorem 4.4 - LaSalle's Theorem.md",
+                "file": "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/Suboptimal NMPC/Lyapunov Theorem for discrete controlled systems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Nonlinear Control/Theorems/Khalil/Theorem 4.4 - LaSalle's Theorem.md"
+                "file": "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/Suboptimal NMPC/Lyapunov Theorem for discrete controlled systems.md"
               }
             }
           }
@@ -172,10 +208,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9ed86b4712a62443",
+  "active": "f6d91bad7e53cf14",
   "lastOpenFiles": [
-    "03 Nonlinear Control/Theorems/Lemmas/Khalil/Lemma 4.1 - Positive Limit Set.md",
+    "03 Nonlinear Control/Theorems/Miscellaneous/Asymptotic Stability from Attractivity.md",
+    "03 Nonlinear Control/Definitions/Attractivity.md",
+    "03 Nonlinear Control/Definitions/Lyapunov Stability.md",
+    "03 Nonlinear Control/Theorems/Khalil/Theorem 4.17 - Lyapunov Function on Region of Attraction for AS equilibria.md",
+    "03 Nonlinear Control/Theorems/Interconnections/Cascaded Systems/CascSys - GAS by 0-GAS.md",
+    "03 Nonlinear Control/Remarks/Bounded vs. Lipschitz.md",
+    "03 Nonlinear Control/Theorems/Lemmas/Antonio Loria's Lectures/Lemma 11 - Integration Lemma for uniform asymptotic stability 2.md",
+    "03 Nonlinear Control/Theorems/Antonio Loria's Lectures/Theorem 20 - Uniform Global Asymptotic Stability 1.md",
+    "03 Nonlinear Control/Theorems/Antonio Loria's Lectures/Theorem 21 - Uniform Global Asymptotic Stability 2.md",
+    "03 Nonlinear Control/Theorems/Antonio Loria's Lectures/Theorem 18 - Uniform Global Boundedness 1.md",
+    "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/Suboptimal NMPC/Lyapunov Theorem for discrete controlled systems.md",
     "03 Nonlinear Control/Theorems/Khalil/Theorem 4.4 - LaSalle's Theorem.md",
+    "03 Nonlinear Control/Theorems/Lemmas/Khalil/Lemma 4.1 - Positive Limit Set.md",
     "03 Nonlinear Control/Definitions/Positive Limit Set.md",
     "01 Relevant Mathematics/Definitions/Abstract Mathematics/Set Properties/Compact (set).md",
     "03 Nonlinear Control/Definitions/Invariant Set.md",
@@ -190,19 +237,8 @@
     "04 Optimization Based Control/Dynamic Optimization/Multiple Shooting.md",
     "03 Nonlinear Control/Definitions/Boundedness.md",
     "03 Nonlinear Control/Definitions/ISS - Input-to-State Stability.md",
-    "03 Nonlinear Control/Definitions/0-GAS.md",
-    "03 Nonlinear Control/Assumptions/Antonio Loria's Lectures/Assumption 12 - Finite time boundedness of x1.md",
     "03 Nonlinear Control/Canvases/Canvas - Cascaded Systems.canvas",
     "03 Nonlinear Control/Canvases/ISS.canvas",
-    "03 Nonlinear Control/Techniques/Cascade Parameterization.md",
-    "03 Nonlinear Control/Theorems/Khalil/Theorem 4.15 - Exponential Stability from Linearization.md",
-    "01 Relevant Mathematics/Definitions/Functional Analysis/Continuous.md",
-    "03 Nonlinear Control/Definitions/Class K function.md",
-    "03 Nonlinear Control/Consider/Consider - NTI.md",
-    "03 Nonlinear Control/Theorems/Lemmas/Barbalat's Lemma.md",
-    "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/Suboptimal NMPC/Stability By Feasibility.md",
-    "2024-09-18.md",
-    "00 Notation and Practice/Optimization.md",
     "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/Suboptimal NMPC",
     "01 Relevant Mathematics/Definitions/Functional Analysis",
     "01 Relevant Mathematics/Definitions/Abstract Mathematics/Algebraic Structures",

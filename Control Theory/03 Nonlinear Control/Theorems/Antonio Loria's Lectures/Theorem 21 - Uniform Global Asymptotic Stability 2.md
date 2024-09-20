@@ -18,6 +18,7 @@ If
 	- $|[L_gV]| \leq \alpha_5(|x_1|)\alpha_5'(|x_2|)$
 	- $\forall ~r > 0$
 		- $\exists~\lambda_r,\eta_r >0$  s.t.
-	$$ (~t\geq0 ~\wedge~ |x_1|\geq \eta_r~) \implies \alpha_5(|x_1|)\leq\lambda_rW(x_1)$$
+
+$$ (~t\geq0 ~\wedge~ |x_1|\geq \eta_r~) \implies \alpha_5(|x_1|)\leq\lambda_rW(x_1)$$
 Then
 - the origin, $(x_1,x_2)=(0,0)$, is **uniformly globally asymptotically stable** (UGAS).

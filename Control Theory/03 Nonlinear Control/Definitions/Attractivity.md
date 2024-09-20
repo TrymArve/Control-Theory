@@ -3,7 +3,8 @@ tags:
   - NonlinearSystems/Definition
 Note Author:
   - Trym A. Gabrielsen
-Theory Author: 
+Theory Author:
+  - Antonio Loría
 Reviewed By:
 ---
 **Attractivity** in $\mathbb{D}\subset\mathbb{R}^{n}$ is obtained iff

@@ -18,7 +18,8 @@ and
 - $\forall r,\nu >0$ 
 	- $\exists~\beta_{r\nu} >0:~\forall~(t_\circ\geq0,||x_\circ||\leq r)$
 	$$(1):\quad \int_{t_\circ}^{\infty} \bigg( \gamma(x^\circ(t)) -\nu \bigg) ~dt \leq \beta_{r\nu}$$
-then
+
+Then
 - the origin is [[Lyapunov Stability#Asymptotic Stability (AS)|uniformly globally asymptotically stable]] (UGAS)
 
 

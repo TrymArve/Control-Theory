@@ -16,7 +16,8 @@ If
 - for each
 	- $x_2\in\mathbb{R}^{n_2}$
 	- $t\geq0$
-	$$ \frac{\partial V(t,x_1)}{\partial x_1}g(t,x_1,x_2) = o(W(x_1)) ,$$
+
+$$ \frac{\partial V(t,x_1)}{\partial x_1}g(t,x_1,x_2) = o(W(x_1)) ,$$
 then
 - the solutions of $\Sigma_1$ and $\Sigma_2$ are [[Boundedness|uniformly globally bounded]].
 
