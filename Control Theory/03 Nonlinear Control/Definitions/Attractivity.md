@@ -12,6 +12,7 @@ Reviewed By:
 	- $\forall \sigma > 0$
 		- $\exists~T>0$
 		- such that
+
 $$ x(t_0) \in \mathbb{D} \implies (~||x(t)|| \leq \sigma \quad \forall t\geq t_0+T~)$$
 
 - **Globality:** Global Attractivity (GA) is obtained iff $\mathbb{D}=\mathbb{R}$

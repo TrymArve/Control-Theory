@@ -9,6 +9,7 @@
     "Test": "multitext",
     "Integration Order": "number",
     "Integration Type": "checkbox",
-    "Explicit": "checkbox"
+    "Explicit": "checkbox",
+    "Relevant Paper": "multitext"
   }
 }

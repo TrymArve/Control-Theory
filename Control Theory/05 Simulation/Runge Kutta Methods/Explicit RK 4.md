@@ -20,13 +20,13 @@ Explicit: true
 		1) $x^{+}_{1} = x^{+}$
 		4) $f_{1} = f(t_{k,n},x^{+}_{1},u_{k})$
 	2) $\text{Stage 2:}$
-		1) $x^{+}_{2} = x^{+}_{1}+\frac{\delta t}{2} f_{1}$
+		1) $x^{+}_{2} = x^{+}+\frac{\delta t}{2} f_{1}$
 		4) $f_{2} = f(t_{k,n},x^{+}_{2},u_{k})$
 	3) $\text{Stage 3:}$
-		1) $x^{+}_{3} = x^{+}_{2}+\frac{\delta t}{2} f_{2}$
+		1) $x^{+}_{3} = x^{+}+\frac{\delta t}{2} f_{2}$
 		2) $f_{3} = f(t_{k,n},x^{+}_{3},u_{k})$
 	4) $\text{Stage 4:}$
-		1) $x^{+}_{4} = x^{+}_{3}+\delta t f_{3}$
+		1) $x^{+}_{4} = x^{+}+\delta t f_{3}$
 		2) $f_{4} = f(t_{k,n},x^{+}_{4},u_{k})$
 	5) $\text{Update:}$
 		- $x^{+} \leftarrow x^{+} + \frac{\delta t}{6}(f_{1}+ 2f_{2} + 2f_{3} + f_{4})$

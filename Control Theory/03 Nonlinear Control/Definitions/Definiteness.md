@@ -15,11 +15,11 @@ F:&~\mathbb{M}\subseteq\mathbb{R}^{n}\mapsto\mathbb{R}^{n}
 \end{align}
 $$
 # Positive definiteness
-Function $f$ is **positive definite** iff
+Function $f$ is **positive definite** in $\mathbb{D}$ iff
 $$ 
 \begin{align}
 f(x) >& ~0 \quad \forall x\in\mathbb{D}\setminus\{0\} \\
-f(x) =& ~0 \quad \forall x\in\mathbb{D}\cap\{0\} 
+f(x) =& ~0 \quad \forall x=0
 \end{align}
 $$
 ## Negative definiteness
@@ -32,7 +32,7 @@ Function $f$ is **positive semi-definite** iff
 $$ 
 \begin{align}
 f(x) \geq& ~0 \quad \forall x\in\mathbb{D}\setminus\{0\} \\
-f(x) =& ~0 \quad \forall x\in\mathbb{D}\cap\{0\} 
+f(x) =& ~0 \quad \forall x=0
 \end{align}
 $$
 ## Negative semi-definiteness
@@ -56,5 +56,5 @@ Function $F$ is **strictly (negative) half-definite** iff:
 ## semi-half-definiteness
 Function $F$ is **(negative) semi-half-definite** iff
 $$ \tilde{f}(x) = x^\top F(x)$$
-is positive (/negative) semi-definite.
+is positive (negative) semi-definite.
 

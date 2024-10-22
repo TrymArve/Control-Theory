@@ -20,3 +20,7 @@ $$\begin{gather*}
 \end{aligned}
 \end{gather*}$$
 ^NLP
+
+**Remarks:**
+- The cost is assumed to be quadratic, although this is not necessary in general. 
+	- If the cost is non-quadratic, the $W$ is taken to be the hessian of the cost.

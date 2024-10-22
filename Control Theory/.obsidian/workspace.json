@@ -8,79 +8,161 @@
         "type": "tabs",
         "children": [
           {
-            "id": "307ac99cf93df7cc",
+            "id": "3c445e401a3567b2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Notation and Practice/Optimization.md",
+                "file": "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/Ideal NMPC/Theorem - Nominal Stability of ideal NMPC.md",
                 "mode": "preview",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Theorem - Nominal Stability of ideal NMPC"
             }
           },
           {
-            "id": "f6d91bad7e53cf14",
+            "id": "5af6d47b1a9bae3b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/Suboptimal NMPC/Lyapunov Theorem for discrete controlled systems.md",
+                "file": "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/Ideal NMPC/Basic NMPC-NLP.md",
                 "mode": "preview",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Basic NMPC-NLP"
             }
           },
           {
-            "id": "9ed86b4712a62443",
+            "id": "a953297e60ca7809",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Nonlinear Control/Theorems/Khalil/Theorem 4.17 - Lyapunov Function on Region of Attraction for AS equilibria.md",
+                "file": "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/Assumptions/Assumption - Nominal Stability of iNMPC.md",
                 "mode": "preview",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Assumption - Nominal Stability of iNMPC"
             }
           },
           {
-            "id": "ae6082c84a3b558f",
+            "id": "2d5514fe0f9c1ddd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Nonlinear Control/Theorems/Miscellaneous/Asymptotic Stability from Attractivity.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c9e3cb355c3801e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 Nonlinear Control/Definitions/Lyapunov Stability.md",
+                "file": "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/Assumptions/Assumption - Instantaneous feedback of iNMPC.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Assumption - Instantaneous feedback of iNMPC"
             }
           },
           {
-            "id": "477eeb716cc9363d",
+            "id": "e0462761b2564dc4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Nonlinear Control/Definitions/Attractivity.md",
+                "file": "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/Real-Time Iteration/By Gros/Gros ~ RTI.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Gros ~ RTI"
+            }
+          },
+          {
+            "id": "c188fa8a8f858aad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 Optimization Based Control/Optimization/Definitions/KKT Conditions (First-Order Necessary Conditions).md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "KKT Conditions (First-Order Necessary Conditions)"
+            }
+          },
+          {
+            "id": "096aeda5ae0468a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 Optimization Based Control/Model Predictive Control (MPC)/Techniques/Shifting Procedure.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Shifting Procedure"
+            }
+          },
+          {
+            "id": "4ea4c68efc231a4c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/NMPC by Gros/Gros ~~ NMPC Formulation.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Gros ~~ NMPC Formulation"
+            }
+          },
+          {
+            "id": "8fac83f0369b57b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/NMPC by Gros/Gros ~ SQP for NMPC.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Gros ~ SQP for NMPC"
+            }
+          },
+          {
+            "id": "f169401aba47c89c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/NMPC by Gros/Gros ~~ QP-NMPC Formulation.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Gros ~~ QP-NMPC Formulation"
+            }
+          },
+          {
+            "id": "518439c27e4220fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/NMPC by Gros/Gros ~~ QP-NMPC Linearizations.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Gros ~~ QP-NMPC Linearizations"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -100,7 +182,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -115,7 +199,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -123,7 +209,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -146,7 +234,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/Suboptimal NMPC/Lyapunov Theorem for discrete controlled systems.md",
+                "file": "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/NMPC by Gros/Gros ~~ QP-NMPC Correction Terms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +242,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Gros ~~ QP-NMPC Correction Terms"
             }
           },
           {
@@ -163,10 +253,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/Suboptimal NMPC/Lyapunov Theorem for discrete controlled systems.md",
+                "file": "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/NMPC by Gros/Gros ~~ QP-NMPC Correction Terms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Gros ~~ QP-NMPC Correction Terms"
             }
           },
           {
@@ -177,7 +269,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -186,8 +280,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/Suboptimal NMPC/Lyapunov Theorem for discrete controlled systems.md"
-              }
+                "file": "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/NMPC by Gros/Gros ~~ QP-NMPC Correction Terms.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Gros ~~ QP-NMPC Correction Terms"
             }
           }
         ]
@@ -208,52 +304,52 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f6d91bad7e53cf14",
+  "active": "c188fa8a8f858aad",
   "lastOpenFiles": [
-    "03 Nonlinear Control/Theorems/Miscellaneous/Asymptotic Stability from Attractivity.md",
-    "03 Nonlinear Control/Definitions/Attractivity.md",
-    "03 Nonlinear Control/Definitions/Lyapunov Stability.md",
-    "03 Nonlinear Control/Theorems/Khalil/Theorem 4.17 - Lyapunov Function on Region of Attraction for AS equilibria.md",
-    "03 Nonlinear Control/Theorems/Interconnections/Cascaded Systems/CascSys - GAS by 0-GAS.md",
-    "03 Nonlinear Control/Remarks/Bounded vs. Lipschitz.md",
-    "03 Nonlinear Control/Theorems/Lemmas/Antonio Loria's Lectures/Lemma 11 - Integration Lemma for uniform asymptotic stability 2.md",
-    "03 Nonlinear Control/Theorems/Antonio Loria's Lectures/Theorem 20 - Uniform Global Asymptotic Stability 1.md",
-    "03 Nonlinear Control/Theorems/Antonio Loria's Lectures/Theorem 21 - Uniform Global Asymptotic Stability 2.md",
-    "03 Nonlinear Control/Theorems/Antonio Loria's Lectures/Theorem 18 - Uniform Global Boundedness 1.md",
-    "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/Suboptimal NMPC/Lyapunov Theorem for discrete controlled systems.md",
-    "03 Nonlinear Control/Theorems/Khalil/Theorem 4.4 - LaSalle's Theorem.md",
-    "03 Nonlinear Control/Theorems/Lemmas/Khalil/Lemma 4.1 - Positive Limit Set.md",
-    "03 Nonlinear Control/Definitions/Positive Limit Set.md",
-    "01 Relevant Mathematics/Definitions/Abstract Mathematics/Set Properties/Compact (set).md",
-    "03 Nonlinear Control/Definitions/Invariant Set.md",
-    "01 Relevant Mathematics/Definitions/Abstract Mathematics/Set Properties/Closed (set).md",
-    "01 Relevant Mathematics/Definitions/Abstract Mathematics/Cauchy Sequence.md",
-    "01 Relevant Mathematics/Definitions/Abstract Mathematics/Set Properties/Bounded.md",
-    "01 Relevant Mathematics/Definitions/Abstract Mathematics/Metric Space.md",
-    "01 Relevant Mathematics/Definitions/Abstract Mathematics/Set.md",
+    "04 Optimization Based Control/Optimization/Definitions/Regularity.md",
+    "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/Real-Time Iteration/By Gros/Gros ~ RTI.md",
+    "05 Simulation/Algorithmic Differentiation/Algorithmic Differentiation.md",
+    "Untitled.md",
+    "05 Simulation/Runge Kutta Methods/Explicit RK 4.md",
+    "05 Simulation/Runge Kutta Methods/Runge-Kutta (RK) Methods.md",
+    "05 Simulation/Algorithmic Differentiation/Explicit RK4 (with AD).md",
+    "05 Simulation/Algorithmic Differentiation/Explicit Euler (with AD).md",
+    "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/NMPC by Gros/Gros ~~ QP-NMPC Correction Terms.md",
+    "04 Optimization Based Control/Model Predictive Control (MPC)/Techniques/Shifting Procedure.md",
+    "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/NMPC by Gros/Gros ~~ NMPC Formulation.md",
+    "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/NMPC by Gros/Gros ~ SQP for NMPC.md",
+    "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/Real-Time Iteration/By Gros/Gros ~ RTI (simplified version).md",
+    "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/NMPC by Gros/Gros ~~ SQP-NMPC Algorithm.md",
+    "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/NMPC by Gros/Gros ~ NMPC.md",
+    "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/Real-Time Iteration/By Diehl/Real Time Iterations for NMPC.md",
+    "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/Real-Time Iteration/By Diehl/Real Time Iteration (RTI).md",
+    "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/NMPC by Gros/Gros ~~ QP-NMPC Linearizations.md",
+    "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/NMPC by Gros/Gros ~~ QP-NMPC Formulation.md",
+    "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/Real-Time Iteration/By Gros/Gros ~ LPMC vs NMPC - Bridging the Gap with RTI.md",
+    "- Admin/Templates/Template - Empty.md",
+    "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/Ideal NMPC/Theorem - Nominal Stability of ideal NMPC.md",
+    "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/Ideal NMPC/ideal NMPC.md",
+    "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/Ideal NMPC/Basic NMPC-NLP.md",
+    "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/Ideal NMPC/Basic Cost Function.md",
+    "00 Notation and Practice/Functions and Dynamical Systems.md",
+    "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/Assumptions",
+    "04 Optimization Based Control/Model Predictive Control (MPC)/Images/Reference Trajectory - Model Offset.pdf",
+    "04 Optimization Based Control/Model Predictive Control (MPC)/Images/Reference Trajectory - Model Offset.svg",
+    "04 Optimization Based Control/Model Predictive Control (MPC)/Images/MPC Trajectory Notation.svg",
+    "04 Optimization Based Control/Model Predictive Control (MPC)/Images/MPC Trajectory Notation.pdf",
+    "04 Optimization Based Control/Model Predictive Control (MPC)/Images/LMPC vs NMPC - 1 SQP step.png",
+    "04 Optimization Based Control/Optimization Based Control.canvas",
+    "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/Ideal NMPC",
+    "01 Relevant Mathematics/Definitions/Linear Algebra",
+    "01 Relevant Mathematics/Definitions/Functional Analysis/Linear Map (linear transformation",
+    "04 Optimization Based Control/Optimization/NLP/Methods",
     "01 Relevant Mathematics/Definitions/Abstract Mathematics/Set Properties",
-    "04 Optimization Based Control/Dynamic Optimization/Direct Collocation.md",
-    "04 Optimization Based Control/Dynamic Optimization/Direct Transcription.md",
-    "04 Optimization Based Control/Dynamic Optimization/Multiple Shooting.md",
-    "03 Nonlinear Control/Definitions/Boundedness.md",
-    "03 Nonlinear Control/Definitions/ISS - Input-to-State Stability.md",
     "03 Nonlinear Control/Canvases/Canvas - Cascaded Systems.canvas",
     "03 Nonlinear Control/Canvases/ISS.canvas",
     "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/Suboptimal NMPC",
     "01 Relevant Mathematics/Definitions/Functional Analysis",
-    "01 Relevant Mathematics/Definitions/Abstract Mathematics/Algebraic Structures",
     "- Admin/Logos/Obsidian + NTNU logo.svg",
     "- Admin/Logos/obsidian-icon-NTNU-blue.png",
-    "01 Relevant Mathematics/Definitions/Abstract Mathematics",
-    "04 Optimization Based Control/Predictive Safety Filters",
-    "04 Optimization Based Control/Optimization Based Control.canvas",
-    "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/Real-Time Iteration/By Diehl",
-    "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/Real-Time Iteration/By Gros",
-    "05 Simulation/Example Models/Figures/ExMod - Pendulum on Cart.pdf",
-    "05 Simulation/Example Models/Figures",
-    "04 Optimization Based Control/Model Predictive Control (MPC)/Images/LMPC vs NMPC - 1 SQP step.png",
-    "04 Optimization Based Control/Model Predictive Control (MPC)/Images/Reference Trajectory - Model Offset.svg",
-    "04 Optimization Based Control/Model Predictive Control (MPC)/Images/MPC Trajectory Notation.svg",
     "00 Control Theory (Basic)/Theorems/Interconnections/Cascaded Systems/Cascade Stability - GES + ISS = GAS.png",
     "00 Control Theory (Basic)/Theorems/Drawings/Cascaded Systems.png"
   ]

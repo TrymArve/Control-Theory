@@ -5,7 +5,9 @@ Note Author:
   - Trym A. Gabrielsen
 Theory Author:
   - Sébastien Gros
-Reviewed By:
+Reviewed By: 
+Relevant Papers:
+  - '"From linear to nonlinear MPC: bridging the gap via the real-time iteration"'
 ---
 Notation: [[Optimization#Dynamic Optimization / MPC|here]]
 Consider OCP: ![[Optimal Control Problem#^OCP]]

@@ -16,13 +16,14 @@ Reviewed By:
 1) $\text{Shift Previous Solution:}$  *(see [[Shifting Procedure]])*
 	- $\tilde{x}^{i,g_{0}} = \{\tilde{x}^{i-1*}_{1,\dots,H_{i}}~,~~\tilde{x}^{i}_{>H_{i-1}}\}$
 	- $\tilde{u}^{i,g_{0}} = \{\tilde{u}^{i-1*}_{1,\dots,H_{i}-1}~,~~\tilde{u}^{i}_{>H_{i-1}-1}\}$
-2) $\text{Evaluate at}~(x^{i,g_{0}},u^{i,g_{0}}):$ *([[Gros ~~ QP-NMPC Linearizations|linearize]])*
+2) $\text{Evaluate at}~(x^{i,g_{0}},u^{i,g_{0}}):$ *([[Gros ~~ QP-NMPC Linearizations|linearize]], [[Gros ~~ QP-NMPC Correction Terms|correction]])*
 	- $r^{i}_{j},\quad h^{i}_{j}$
 	- $A^{i}_{j},\quad B^{i}_{j}$
 	- $C^{i}_{j},\quad D^{i}_{j}$
-3) $\text{Construct:}$
+	- $J^{i}_{j},\quad H^{i}_{j}$
+1) $\text{Construct:}$
 	- $\text{QP}^{i}_{\text{NMPC}}\quad$ *(see [[Gros ~~ QP-NMPC Formulation|QP-NMPC]])*
-	- *(prepare all possible computation, that don't require $\hat{x}_{i}$)
+	- *(prepare all possible computation, that don't require $\hat{x}_{i}$)*
 		- *condensing*
 		- *matrix factorizations*
 		- *etc.*

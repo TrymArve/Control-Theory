@@ -9,7 +9,6 @@ Theory Author:
   - Sébastien Gros
 Reviewed By:
 ---
-#Unfinished 
 Based on [[Gros ~ LMPC]], [[Gros ~ NMPC]], and [[Gros ~ SQP for NMPC]].
 
 

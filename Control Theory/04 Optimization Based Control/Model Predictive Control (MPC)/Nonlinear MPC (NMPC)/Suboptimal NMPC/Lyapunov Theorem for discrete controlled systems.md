@@ -8,18 +8,25 @@ Theory Author:
   - P. O. M. Scokaert
   - D. Q. Mayne
   - J. B. Rawlings
-Reviewed By:
+Reviewed By: 
+Relevant Paper: '"Suboptimal Model Predictive Control (Feasibility Implies Stability)"'
 ---
 Consider a controlled discrete system
-$$x_{k+1} = f(x_{k},u^{k}_{0})$$
+$$\Sigma_{d}: \quad x_{k+1} = f(x_{k},u)$$
 where
 - $f:\mathbb{R}^{n_{x}}\times\mathbb{R}^{n_{u}} \mapsto \mathbb{R}^{n_{x}}$  is continuous at the origin
 - $f(0,0) = 0$
+- $u$ is a control signal
 
+We consider a discrete state trajectory:
+$$\mathcal{X}(x_{0}) =\{x_{0}, x_{1}, x_{2}, \cdots \}$$
+satisfying $\Sigma_{d}$, where the $k^{th}$ step is denoted $x_{k}$ for $k \in \mathbb{N}_{0}$.
 Consider a controller map
 $$\mathbb{U}: \mathbb{R}^{n_{x}} \mapsto \mathbb{R}^{n_{u}N}$$
-where $\mathbb{U}(x)\subseteq \mathbb{R}^{n_{u}N}$ is the set of feasible control trajectories $N$ steps into the future, whenever the system is in state $x$.
-Denote by superscript $k$ the set of control trajectories corresponding to the state $x_{k}$
+where $\mathbb{U}(x)\subseteq \mathbb{R}^{n_{u}N}$ is the set of feasible control trajectories;
+$$\{u_{0}, u_{1}, \cdots, u_{N-1}\}$$
+$N$ steps into the future, such that the $N+1$ first elements of $\mathcal{X}(x)$ are feasible with respect to some constraints.
+Denote by superscript $k$ a feasible control trajectory from the state $x_{k}$ , that is:
 $$u^{k} = \{u^{k}_{0}, u^{k}_{1}, \cdots, u^{k}_{N-1}\} \in \mathbb{U}(x_{k})$$
 
 
@@ -39,12 +46,12 @@ If:
 	- $\mathbb{D} \subseteq \mathbb{R}^{n_{x}}$
 	- $\gamma \in \mathcal{K}$
 	- $\text{s.t.}$
-		- $\mathbb{D}$ contains an open neighborhood of the origin
-		- $\forall~u^{k}\in\mathbb{U}(x^{k})$
-			- $x_{0}\in \mathbb{D} \implies (x_{k}\in \mathbb{D} \quad \forall k>0)$  [[Boundedness|(boundedness)]]
-			- $x_{0}\in \mathbb{D} \implies V(x_{k+1},u^{k+1}) \leq  V(x_{k},u^{k}) -\gamma(||(x_{k},u^{k}_{0})||)$
+		- $\exists \xi >0:\mathbb{B}^{n_{x}}_{\xi} \subset \mathbb{D}$ *(contains an open neighborhood of the origin)*
+		- $x_{k}\in \mathbb{D} \implies \forall~u^{k}\in\mathbb{U}(x_{k})$
+			- $x_{k+1}\in \mathbb{D}$  [[Invariant Set|(invariance)]]
+			- $V(x_{k+1},u^{k+1}) \leq  V(x_{k},u^{k}) -\gamma(||(x_{k},u^{k}_{0})||)$
 - $\exists$
-	- a constant $r>0$ 
+	- $r>0$ 
 	- $\sigma\in \mathcal{K}$
 	- $\text{s.t.}$
 		- $\forall~u^{k}\in\mathbb{U}(x^{k})$
@@ -76,6 +83,7 @@ We have
 		- $\delta \leq \min(r,r_{1},r_{2})$
 		- $\sigma(\delta) \leq r_{1}$
 		- $\beta(\delta+\sigma(\delta)) < \alpha(\epsilon)$
+
 Such a $\delta > 0$  exists because
 - $\alpha(\epsilon) > 0$
 - $\sigma(\delta) \rightarrow 0 ~\text{as}~ \delta \rightarrow 0$

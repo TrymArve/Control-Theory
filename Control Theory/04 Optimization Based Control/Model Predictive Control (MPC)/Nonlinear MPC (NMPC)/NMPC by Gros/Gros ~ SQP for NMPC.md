@@ -29,7 +29,7 @@ The algorithm is defined as: ![[Gros ~~ SQP-NMPC Algorithm#$ text{SQP} {i}_{ tex
 	to obtain the next guess $(k+1=1)$
 ## Newton Step
 3) To find the appropriate adjustments to the $k^{\text{th}}$ guess, we approximate $\text{NLP}^{i}_{\text{NMPC}}(\cdot)$ by a QP, and solve for the adjustments that minimizes it:  ![[Gros ~~ QP-NMPC Formulation#^QP]]with correction terms ![[Gros ~~ QP-NMPC Correction Terms#^Correction-Terms]] and linearizations ![[Gros ~~ QP-NMPC Linearizations#^Linearizations]] and $H^{i}_{j} \approx \nabla^{2}\mathcal{L}^{i}_{j}$ is some approximation of the Hessian of the Lagrangian of the original NLP problem
-	-  ("Gauss-Newton Hessian approximation" $\rightarrow H^{i}_{j} = W^{i}_{j}$ in this case)
+	-  ("Gauss-Newton Hessian approximation" $\rightarrow H^{i}_{j} = W^{i}_{j}$ is often a decent approximation)
 4) We then define: $$(\Delta x^{i},\Delta u^{i})_{k} \triangleq \text{QP}_{\text{NMPC}}^{i}(\hat{x}_{i},\tilde{x}^{g_{k}},\tilde{u}^{g_{k}},x^{ref,i},u^{ref,i})$$
 - **Interpretation:**
 	- These adjustments adjusts the guess in such a way that the new guess minimizes a [[Gros ~~ QP-LMPC Formulation|QP]] approximation of the original [[Gros ~~ NMPC Formulation|NLP]]

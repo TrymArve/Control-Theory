@@ -7,7 +7,7 @@ Theory Author:
   - Sébastien Gros
 Reviewed By:
 ---
-This is only a simplified version of the [[RTI]] algorithm, with the purpose of explaining the concept before the full RTI algorithm is explained.
+This is only a simplified version of the [[Gros ~ RTI|RTI]] algorithm by Gros (originally by [[Real Time Iteration (RTI)|Diehl]]), with the purpose of explaining the concept before the full RTI algorithm is explained.
 
 This algorithm is an adjustment of [[Gros ~~ SQP-NMPC Algorithm]].
 
@@ -18,15 +18,16 @@ This algorithm is an adjustment of [[Gros ~~ SQP-NMPC Algorithm]].
 	- $\tilde{x}^{i,g_{0}} = \{\tilde{x}^{i-1*}_{1,\dots,H_{i}}~,~~\tilde{x}^{i}_{>H_{i-1}}\}$
 	- $\tilde{u}^{i,g_{0}} = \{\tilde{u}^{i-1*}_{1,\dots,H_{i}-1}~,~~\tilde{u}^{i}_{>H_{i-1}-1}\}$
 1) $\text{Do Once:}$ 
-	1) $\text{Evaluate at}~(x^{i,g_{0}},u^{i,g_{0}}):$ *([[Gros ~~ QP-NMPC Linearizations|linearize]])*
+	1) $\text{Evaluate at}~(x^{i,g_{0}},u^{i,g_{0}}):$ *([[Gros ~~ QP-NMPC Linearizations|linearize]], [[Gros ~~ QP-NMPC Correction Terms|correction]])*
 		- $r^{i}_{j},\quad h^{i}_{j}$
 		- $A^{i}_{j},\quad B^{i}_{j}$
 		- $C^{i}_{j},\quad D^{i}_{j}$
-	2) $\text{Construct and Solve:}$
+		- $J^{i}_{j}, \quad H^{i}_{j}$
+	1) $\text{Construct and Solve:}$
 		- $(\Delta x^{i}, \Delta u^{i})_{0} = \text{QP}^{i}_{\text{NMPC}}(\hat{x}_{i},\tilde{x}^{i,g_{0}},\tilde{u}^{i,g_{0}},x^{ref,i},u^{ref,i})$
-	3) $\text{Use Full Steps:}$
+	2) $\text{Use Full Steps:}$
 		- $\alpha=1$
-	4) $\text{Update Guess:}$
+	3) $\text{Update Guess:}$
 		- $(\tilde{x}^{i,g_{1}},\tilde{u}^{i,g_{1}}) = (\tilde{x}^{i,g_{0}},\tilde{u}^{i,g_{0}}) + \alpha(\Delta x^{i}, \Delta u^{i})$
 2) $\text{Return:} ~~ (\tilde{x}^{i,g_{1}},\tilde{u}^{i,g_{1}})$
 

@@ -9,6 +9,7 @@ Reviewed By:
 # Basic Optimization Notation
 - $\phi(\cdot)$ - objective/cost function
 	- not $f$, to distinguish from dynamic constraints
+	- sometimes $J$, when consisting of Lagrange- and Terminal terms in dynamic optimization
 - $z$ - decision/optimization variable
 	- not $x$, to distinguish from state variables in dynamic opt.problems
 	- $z^*$  -  used to denote a [[Solution]]
