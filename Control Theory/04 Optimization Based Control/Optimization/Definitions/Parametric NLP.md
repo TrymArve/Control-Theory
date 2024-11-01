@@ -17,4 +17,4 @@ where
 - $h:\mathbb{R}^{n_{z}}\mapsto\mathbb{R}^{n_{in}}$ is the inequality constraint function
 
 **Remarks:**
-- This is in principle just an [[NLP formulation|NLP]], but when a set of parameters are of particular interest, such as how the solution changes when the parameters change, we tend to but some emphasis on the parameters, resulting in a parametric NLP (PNLP).
+- This is in principle just an [[NLP formulation|NLP]], but when a set of parameters are of particular interest, such as how the solution changes when the parameters change, we tend to put some emphasis on the parameters, resulting in a parametric NLP (PNLP).

@@ -15,6 +15,8 @@ The **active set***, $\mathbb{A}_{eq}(z)$ for equality constraints at a point $z
 
 **Inequality:**
 The **active set***, $\mathbb{A}_{in}(z)$ for inequality constraints at a point $z\in \mathbb{R}^{n_{z}}$ is the set of all indices for which $h_{i}$ is an [[Active Constraint]]. That is $$\mathbb{A}_{in}(z) \triangleq \{i\in \mathbb{N}_{1,n_{in}} | ~ h_{i}(z)=0\}$$
+**Remarks;**
+- It is also common to only use; $\mathbb{A}$, to refer to $\mathbb{A}_{in}$
 
 **Alternatively:**
 When only specifying *"active set"*, one usually refers to both equality and inequality constraints at the same time. When defining the constraints as: $$\begin{align*}

@@ -7,7 +7,7 @@ Theory Author:
 Reviewed By:
 ---
 
-$$ \min_{z\in\mathbb{R}^{n_z}} ~z^{\top}Gz+c^{\top}z\quad s.t. \quad A_{eq}z = b_{eq}\, , \quad A_{in}z \geq b_{in}$$
+$$\text{(QP):}\quad \min_{z\in\mathbb{R}^{n_z}} ~z^{\top}Gz+c^{\top}z\quad s.t. \quad A_{eq}z = b_{eq}\, , \quad A_{in}z \geq b_{in}$$ ^QP
 
 
 where

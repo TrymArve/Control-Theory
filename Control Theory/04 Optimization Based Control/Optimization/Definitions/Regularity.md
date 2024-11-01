@@ -8,7 +8,7 @@ Reviewed By:
 Relevant Papers:
 ---
 **Definition:**
-An optimization problem [[NLP formulation|(NLP)]] is said to be *regular* iff it satisfies at least one of the following conditions:
+An optimization problem ([[NLP formulation|NLP]]) is said to be *regular* iff it satisfies at least one of the following conditions:
 - [[LICQ - Linear Independence Constraint Qualification]]
 - ... #Unfinished 
 

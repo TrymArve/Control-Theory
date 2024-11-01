@@ -21,7 +21,7 @@ Based on [[Gros ~ SQP for NMPC]]
 		- $A^{i}_{j},\quad B^{i}_{j}$
 		- $C^{i}_{j},\quad D^{i}_{j}$
 		- $J^{i}_{j},\quad H^{i}_{j}$
-	1) $\text{Construct and Solve:}$
+	1) $\text{Construct and Solve:}$ *(see [[Gros ~~ QP-NMPC Formulation|QP-NMPC]])*
 		- $(\Delta x^{i}, \Delta u^{i})_{k} = \text{QP}^{i}_{\text{NMPC}}(\hat{x}_{i},\tilde{x}^{i,g_{k}},\tilde{u}^{i,g_{k}},x^{ref,i},u^{ref,i})$
 	2) $\text{Compute step-size:}$
 		- $\alpha\in\langle0,1]$

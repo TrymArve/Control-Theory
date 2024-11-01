@@ -8,7 +8,7 @@ Reviewed By:
 **Also known as:** *'Karush–Kuhn–Tucker'* conditions
 
 Consider ![[NLP formulation#^NLP]]
-and ![[Lagrangian#^f38d6e]]
+and ![[Lagrangian#^Lagrangian]]
 **Definition:**
 For a given solution $z^{*}$, and Lagrangian multipliers $\lambda^{*}$, the *KKT conditions* are:
 $$\begin{align*}
@@ -20,6 +20,12 @@ $$\begin{align*}
 \text{(KKT-5):} \qquad && \hat{\lambda}^*_{i}h_{i}(z^*) &=0 \quad \forall i \in \mathbb{Z}_{1,n_{in}}
 \end{align*}$$
 
+^KKT-conditions
+
 **Remarks:**
+- Notation for the Lagrange multipliers: $\lambda = [\bar\lambda; \hat\lambda]$
 - The KKT conditions are guaranteed to hold in a local optimum if the problem is [[Regularity|regular]]
-- 
+	- OBS: the converse does not hold:
+		- A point that satisfies the KKT conditions is NOT necessarily a local optimum.
+	- Nevertheless, many NLP-solvers primarily attempt to find a point that satisfies the KKT conditions, and it is up to the user to make sure that it is actually an optimum. (f.ex. via [[Second Order Sufficient Condition (SOSC)|SOSC]])
+
