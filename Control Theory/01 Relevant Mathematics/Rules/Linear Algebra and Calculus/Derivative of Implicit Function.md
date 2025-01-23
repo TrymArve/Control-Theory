@@ -13,7 +13,7 @@ where
 - $\nabla_{z}R(z,p)$ is full rank
 
 Then:
-- $\exists \xi(p) \mapsto z \quad$ that is
+- $\exists \xi:p \mapsto z \quad$ that is
 	- well defined 
 	- $\mathcal{C}^{1}$
 - such that

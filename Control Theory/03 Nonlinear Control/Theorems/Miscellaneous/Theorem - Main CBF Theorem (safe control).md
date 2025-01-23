@@ -27,7 +27,7 @@ If:
 - $\frac{\partial h}{\partial x}\Big|_{x\in\partial\mathbb{S}} \not= 0$
 Then
 - any controller $u(x)$  s.t.
-	- $u(x)$ is [[Lipschitz#(Globally) Lipschitz|Lipschitz continuous]]
+	- $u(x)$ is [[Lipschitz (continuous)#(Globally) Lipschitz|Lipschitz continuous]]
 	- $u(x) \in \mathbb{K}_{CBF}(x)$
 	renders the safe-set; $\mathbb{S}$, safe *(positively invariant)*.
 - the set $\mathbb{S}$ is asymptotically stable in $\mathbb{D}$.

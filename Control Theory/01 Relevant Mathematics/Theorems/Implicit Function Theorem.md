@@ -17,6 +17,7 @@ Then:
 - $\forall (z_{0},p_{0}) ~~:~~ \nabla_{z} R(z_{0},p_{0})$ is full rank
 	- $\exists \xi:\mathbb{R}^{n_{p}} \mapsto \mathbb{R}^{n_{z}} \quad \wedge \quad \exists r > 0 \quad \text{s.t.}$
 		- $\xi$ is $\mathcal{C}^{1}$
+		- ($\xi(p_{0}) = z_{0}$ ?)
 		- $R(\xi(p),p) = 0 \quad \forall p\in \{p\in \mathbb{R}^{n_{p}}~|~||p-p_{0}||<r\}$
 
 **Remarks:**

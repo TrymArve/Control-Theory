@@ -4,53 +4,81 @@
     "type": "split",
     "children": [
       {
-        "id": "1a536acb609e32b8",
+        "id": "4b65090326a1babe",
         "type": "tabs",
         "children": [
           {
-            "id": "2544a1de540bddd7",
+            "id": "cee69e0d8b597fa6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 Optimization Based Control/Optimization/Definitions/Parametric NLP.md",
+                "file": "04 Optimization Based Control/Optimization/Definitions/Linearized Feasible Directions.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Parametric NLP"
+              "title": "Linearized Feasible Directions"
             }
           },
           {
-            "id": "c4c39d937a4d28f5",
+            "id": "737f800a8c6beaad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05 Simulation/Example Models/Pendulum on Cart.md",
+                "file": "04 Optimization Based Control/Optimization/Definitions/Critical Cone.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pendulum on Cart"
+              "title": "Critical Cone"
             }
           },
           {
-            "id": "0fe3433f2724f37e",
+            "id": "a0cc08f17c5a0e00",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 Optimization Based Control/Optimization/Techniques/Parameter Sensitivity/Linear Predictor.md",
+                "file": "01 Relevant Mathematics/Rules/Linear Algebra and Calculus/Derivative of Implicit Function.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Linear Predictor"
+              "title": "Derivative of Implicit Function"
+            }
+          },
+          {
+            "id": "3fc746667f8aa96f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/NMPC Basics/Lagrangian/Jacobian of Lagrangian (NMPC).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Jacobian of Lagrangian (NMPC)"
+            }
+          },
+          {
+            "id": "6d8532517546c5e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 Nonlinear Control/Definitions/LISS - Local Input-to-State Stability.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "LISS - Local Input-to-State Stability"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -106,8 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 355.5,
-    "collapsed": true
+    "width": 355.5
   },
   "right": {
     "id": "996e4053ce2361ec",
@@ -123,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "05 Simulation/Example Models/Pendulum on Cart.md",
+                "file": "01 Relevant Mathematics/Theorems/Implicit Function Theorem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +160,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Pendulum on Cart"
+              "title": "Backlinks for Implicit Function Theorem"
             }
           },
           {
@@ -193,48 +220,48 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c4c39d937a4d28f5",
+  "active": "6d8532517546c5e2",
   "lastOpenFiles": [
-    "01 Relevant Mathematics/Rules/Linear Algebra and Calculus/Derivative of Implicit Function.md",
-    "04 Optimization Based Control/Optimization/Techniques/Parameter Sensitivity/Linear Predictor.md",
-    "04 Optimization Based Control/Optimization/QP/QP - KKT matrix.md",
-    "04 Optimization Based Control/Optimization/Definitions/KKT system.md",
-    "04 Optimization Based Control/Optimization/Techniques/Parameter Sensitivity/Parameter Sensitivities.md",
-    "04 Optimization Based Control/Optimization/Definitions/Parametric NLP.md",
-    "04 Optimization Based Control/Optimization/QP/Algorithms/Solving EQP.md",
-    "04 Optimization Based Control/Optimization/Definitions/Decision Space.md",
-    "04 Optimization Based Control/Optimization/Definitions/KKT-Matrix.md",
-    "04 Optimization Based Control/Optimization/Definitions/Lagrangian.md",
-    "04 Optimization Based Control/Optimization/Definitions/KKT Conditions (First-Order Necessary Conditions).md",
-    "04 Optimization Based Control/Optimization/Definitions/NLP formulation.md",
-    "04 Optimization Based Control/Optimization/Techniques/Gauss-Newton Hessian Approximation.md",
+    "03 Nonlinear Control/Definitions/Norm.md",
+    "03 Nonlinear Control/Definitions/LISS - Local Input-to-State Stability.md",
+    "03 Nonlinear Control/Definitions/Malkin's Total Stability.md",
+    "03 Nonlinear Control/Definitions/ISS - Input-to-State Stability.md",
+    "03 Nonlinear Control/Definitions/Lipschitz (continuous).md",
+    "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/NMPC Basics/Lagrangian/Lagrangian (NMPC).md",
+    "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/NMPC Basics/Lagrangian/Jacobian of Lagrangian (NMPC).md",
+    "04 Optimization Based Control/Model Predictive Control (MPC)/Linear MPC (LMPC)/LMPC by Gros/Gros ~ LMPC.md",
     "01 Relevant Mathematics/Theorems/Implicit Function Theorem.md",
-    "05 Simulation/Example Models/Pendulum on Cart.md",
-    "05 Simulation/Example Models/Single Pendulum.md",
-    "01 Relevant Mathematics/Tools/Newton Method.md",
-    "01 Relevant Mathematics/Definitions/Functional Analysis/Derivative (Total).md",
-    "01 Relevant Mathematics/Definitions/Functional Analysis/Derivative (Partial).md",
-    "01 Relevant Mathematics/Rules/Linear Algebra and Calculus/Total derivative from partial derivatives.md",
-    "04 Optimization Based Control/Model Predictive Control (MPC)/Trajectory Notation.md",
-    "04 Optimization Based Control/Optimization/Techniques/Line Search/Backtracking.md",
+    "04 Optimization Based Control/Optimization/Definitions/Critical Cone.md",
+    "04 Optimization Based Control/Optimization/Techniques/Parameter Sensitivity/Parameter Sensitivities.md",
+    "04 Optimization Based Control/Optimization/Definitions/KKT-Matrix.md",
+    "04 Optimization Based Control/Optimization/QP/QP - KKT matrix.md",
+    "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/NMPC Basics/Basic Cost Function.md",
+    "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/NMPC Basics/ideal NMPC.md",
+    "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/NMPC Basics/Basic NMPC-NLP.md",
+    "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/NMPC Basics/Lagrangian/Hessian of Lagrangian (NMPC).md",
+    "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/Parameter Sensitivity Based NMPC/Expanding the Initial Value Sensitivity System.md",
+    "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/Parameter Sensitivity Based NMPC/Sensitivity on Initial Condition.md",
+    "04 Optimization Based Control/Optimization/Definitions/KKT system.md",
+    "04 Optimization Based Control/Model Predictive Control (MPC)/Techniques/Shifting Procedure.md",
+    "04 Optimization Based Control/Model Predictive Control (MPC)/Techniques/Initial Value Embedding.md",
+    "04 Optimization Based Control/Model Predictive Control (MPC)/Techniques/Condensing.md",
+    "01 Relevant Mathematics/Rules/Linear Algebra and Calculus/Derivative of Implicit Function.md",
+    "04 Optimization Based Control/Optimization/Definitions/Linearized Feasible Directions.md",
+    "04 Optimization Based Control/Optimization/Definitions/KKT Conditions (First-Order Necessary Conditions).md",
+    "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/Parameter Sensitivity Based NMPC",
+    "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/NMPC Basics/Constraints",
+    "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/NMPC Basics/Notations",
+    "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/NMPC Basics/Lagrangian",
     "04 Optimization Based Control/Optimization/Techniques/Parameter Sensitivity",
-    "04 Optimization Based Control/Optimization/Techniques/Line Search/Line Search.md",
     "04 Optimization Based Control/Optimization/Techniques/Untitled/desktop.ini",
     "04 Optimization Based Control/Optimization/Techniques/Line Search",
-    "Untitled.md",
-    "Untitled 1.md",
-    "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/NMPC by Gros/Gros ~~ QP-NMPC Formulation.md",
     "01 Relevant Mathematics/Theorems",
     "01 Relevant Mathematics/Rules/Linear Algebra and Calculus/Derivative of norm.pdf",
     "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/Assumptions",
-    "04 Optimization Based Control/Model Predictive Control (MPC)/Images/Reference Trajectory - Model Offset.pdf",
     "04 Optimization Based Control/Model Predictive Control (MPC)/Images/Reference Trajectory - Model Offset.svg",
     "04 Optimization Based Control/Model Predictive Control (MPC)/Images/MPC Trajectory Notation.svg",
-    "04 Optimization Based Control/Model Predictive Control (MPC)/Images/MPC Trajectory Notation.pdf",
     "04 Optimization Based Control/Model Predictive Control (MPC)/Images/LMPC vs NMPC - 1 SQP step.png",
     "04 Optimization Based Control/Optimization Based Control.canvas",
-    "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/Ideal NMPC",
-    "01 Relevant Mathematics/Definitions/Linear Algebra",
     "03 Nonlinear Control/Canvases/Canvas - Cascaded Systems.canvas",
     "03 Nonlinear Control/Canvases/ISS.canvas",
     "- Admin/Logos/Obsidian + NTNU logo.svg",

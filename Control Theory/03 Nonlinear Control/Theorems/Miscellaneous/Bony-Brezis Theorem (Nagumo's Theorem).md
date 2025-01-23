@@ -13,7 +13,7 @@ Reviewed By:
 Let 
 - $F$ be a closed subset of a $\mathcal{C}^2$ manifold $M$
 - $X$ be a vector field on $M$, which is
-	- [[Lipschitz#(Globally) Lipschitz|Lipschitz continuous]]
+	- [[Lipschitz (continuous)#(Globally) Lipschitz|Lipschitz continuous]]
 Then the following conditions are equivalent:
 - Every integral curve of $X$ starting in $F$, remains in $F$
 - $(X(m),v) \leq 0$ for every exterior normal vector $v$ at a point $m$ in $F$
@@ -23,7 +23,7 @@ Then the following conditions are equivalent:
 **In human understandable form, for nonlinear systems theory:**
 Let
 - $\mathbb{F}\subseteq\mathbb{D}\subseteq\mathbb{R}^{n_x}$ be a closed set   *($\mathbb{R}^{n_x}$ is a twice differentiable manifold)*
-- $f:\mathbb{D}\mapsto\mathbb{R}_{n_x}$ be [[Lipschitz#(Globally) Lipschitz|Lipschitz]]
+- $f:\mathbb{D}\mapsto\mathbb{R}_{n_x}$ be [[Lipschitz (continuous)#(Globally) Lipschitz|Lipschitz]]
 Then,
 - iff
 	- $(~x^\circ(t) \in \mathbb{F} \quad \forall~t\geq t_\circ~)\quad \forall (t_\circ,x_\circ)\in\mathbb{R}_+\times\mathbb{F}$

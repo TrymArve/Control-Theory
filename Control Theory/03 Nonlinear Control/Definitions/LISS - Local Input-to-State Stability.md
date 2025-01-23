@@ -6,15 +6,19 @@ Note Author:
 Theory Author: 
 Reviewed By:
 ---
- 
-A system is called **Locally ISS*** iff:
-- $\exists~\rho>0$
-- $\exists~\gamma\in\mathcal{K}$
-- $\exists~\beta\in\mathcal{KL}$
+**Definition:**
+A system is called **Locally ISS** iff:
+- $\exists$
+	- $\rho>0$
+	- $\gamma\in\mathcal{K}$
+	- $\beta\in\mathcal{KL}$
+
 such that
-- $\forall~x_0 \leq \rho$
-- $\forall~u(t):||u(t)||_{\mathcal{L}_\infty} \leq \rho$
-- $\forall~t \geq t_0$
+- $\forall$
+	- $x_{0} : ||x_{0}|| \leq \rho$
+	- $u(t):||u(t)||_{\mathcal{L}_\infty} \leq \rho$
+	- $t \geq t_0$
+
 we have that
 $$ ||x(t)|| \leq \beta(||x_0||,t) + \gamma(||u||_{\mathcal{L}_\infty})$$
 

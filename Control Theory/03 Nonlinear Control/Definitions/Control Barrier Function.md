@@ -7,7 +7,7 @@ Theory Author:
 Reviewed By:
 ---
 Consider: ![[Consider - Control Affine System#^system]]
-with $f,G$ [[Lipschitz#"$f$ is locally Lipschitz"|locally Lipschitz]].
+with $f,G$ [[Lipschitz (continuous)#"$f$ is locally Lipschitz"|locally Lipschitz]].
 
 Let
 - $\mathbb{D}\subseteq\mathbb{R}^{n_x}$

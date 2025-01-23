@@ -33,13 +33,13 @@ $$ ||f||_{\mathcal{L}_p} \triangleq  \bigg(\int_{a}^{b} |f(\tau)|^{p} ~d\tau \bi
 $$ ||f||_{\mathcal{L}_\infty} \triangleq  \sup_{a<t<b}|f(t)|$$
 **note:**
 - $||f||_{\mathcal{L}_1} = \int_{a}^{b} |f(\tau)| ~d\tau$          *(area under graph)*
-- $||f||_{\mathcal{L}_2} = \sqrt{\int_{a}^{b} |f(\tau)|^2 ~d\tau}$    *(?? used in some lemmas)*
+- $||f||_{\mathcal{L}_2} = \sqrt{\int_{a}^{b} |f(\tau)|^2 ~d\tau}$    *(used in some lemmas)*
 
 ## $\mathcal{L}_p$-space
 Select a function space $\mathbb{C}[a,b]$ and an $\mathcal{L}_p$-norm, these then form an $\mathcal{L}_p$-space:
 - $\mathcal{L}_p$-space $\triangleq$ ( $\mathbb{C}[a,b]$, $\mathcal{L}_p$-norm)
 - $f$ is an element of $\mathcal{L}_p$  ($f\in\mathcal{L}_p$) if its $\mathcal{L}_p$-norm is bounded
-	- i.e. $f\in\mathcal{L}_p) \Longleftrightarrow ||f||_{\mathcal{L}_p} \leq L < \infty$
+	- i.e. $f\in\mathcal{L}_{p} \Longleftrightarrow ||f||_{\mathcal{L}_p} \leq L < \infty$
 
 
 # Norms of $\mathbb{R}^{n\times m}$  (matrix norms)

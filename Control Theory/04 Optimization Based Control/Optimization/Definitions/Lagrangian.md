@@ -14,3 +14,6 @@ where
 - $\lambda^{\top} \triangleq [\bar{\lambda}^{\top}, \hat{\lambda}^{\top}]$
 	- these are called the *"Lagrangian multipliers"*
 
+**Remarks:**
+- The signs of the constraints terms may vary depending on the particular book/paper, and on the formulation of the inequality constraints.
+- The sign of the Lagrange multipliers ([[KKT Conditions (First-Order Necessary Conditions)|dual feasibility]]) will depend on the choice of Lagrangian and the formulation of the inequality constraints.

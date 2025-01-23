@@ -43,7 +43,7 @@ $$-\frac{\partial R}{\partial z}\Bigg|_{(z^{*},\lambda^{*},p)} = -\begin{bmatrix
 \end{bmatrix*}$$
 We also have that
 $$\frac{\partial R}{\partial p}\Bigg|_{(z^{*},\lambda^{*},p)} = \begin{bmatrix*}
-\nabla_{z,p}\,\mathcal{L}(z^{*},\lambda^{*}) \\
+\nabla^{2}_{z,p}\,\mathcal{L}(z^{*},\lambda^{*}) \\
 -\nabla_{p}\,g^{\top}(z^{*}) \\
 -\nabla_{p}\,h_{\mathbb{A}}^{\top}(z^{*})
 \end{bmatrix*}$$
@@ -54,7 +54,7 @@ $$\frac{d}{dp}\begin{bmatrix}z^{*} \\ \bar \lambda^{*} \\ \hat \lambda^{*}\end{b
 -\nabla_{z}h_{\mathbb{A}}^{\top}(z^{*}) & 0 & 0
 \end{bmatrix*}^{-1}
 \begin{bmatrix*}
-\nabla_{z,p}\,\mathcal{L}(z^{*},\lambda^{*}) \\
+\nabla^{2}_{z,p}\,\mathcal{L}(z^{*},\lambda^{*}) \\
 -\nabla_{p}\,g^{\top}(z^{*}) \\
 -\nabla_{p}\,h_{\mathbb{A}}^{\top}(z^{*})
 \end{bmatrix*}

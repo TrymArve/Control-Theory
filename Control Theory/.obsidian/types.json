@@ -10,6 +10,7 @@
     "Integration Order": "number",
     "Integration Type": "checkbox",
     "Explicit": "checkbox",
-    "Relevant Paper": "multitext"
+    "Relevant Paper": "multitext",
+    "Relevant Papers": "text"
   }
 }

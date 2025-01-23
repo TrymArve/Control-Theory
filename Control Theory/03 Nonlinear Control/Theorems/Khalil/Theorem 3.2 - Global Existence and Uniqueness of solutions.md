@@ -11,7 +11,7 @@ Consider: ![[Consider - NTV#^system]]
 If:
 - $f(t,x)$ is piecewise continuous in $t$
 - $\forall~x,y\in\mathbb{R}^{n_x},t\in[t_\circ,t_1]$
-	- $||f(t,x) - f(t,y)|| \leq L||x-y||$    *([[Lipschitz]])*
+	- $||f(t,x) - f(t,y)|| \leq L||x-y||$    *([[Lipschitz (continuous)]])*
 
 then:
 - the state equation of $\Sigma_\circ$ has a unique solution $x^\circ(t)$ on $[t_\circ,t_1]$

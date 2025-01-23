@@ -15,7 +15,7 @@ If:
 		- continuously differentiable
 	- $\frac{\partial f}{\partial x}$ is
 		- [[Boundedness|bounded]] *(uniformly in t)*
-		- [[Lipschitz#Locally Lipschitz (on domain)|Lipschitz]] *(uniformly in t)*
+		- [[Lipschitz (continuous)#Locally Lipschitz (on domain)|Lipschitz]] *(uniformly in t)*
 then:
 $$\text{the origin of $\Sigma_\circ$ is ES  } \Longleftrightarrow \text{  The linearization is ES}$$
 where the linearized system is
