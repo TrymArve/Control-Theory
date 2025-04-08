@@ -4,81 +4,129 @@
     "type": "split",
     "children": [
       {
-        "id": "4b65090326a1babe",
+        "id": "f24fa52878090356",
         "type": "tabs",
         "children": [
           {
-            "id": "cee69e0d8b597fa6",
+            "id": "82b41124fb47e3af",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 Optimization Based Control/Optimization/Definitions/Linearized Feasible Directions.md",
+                "file": "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/Real-Time Iteration/RTI Variants/RTI-Variants Overview.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Linearized Feasible Directions"
+              "title": "RTI-Variants Overview"
             }
           },
           {
-            "id": "737f800a8c6beaad",
+            "id": "fb2812481dc5424a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 Optimization Based Control/Optimization/Definitions/Critical Cone.md",
+                "file": "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/Real-Time Iteration/Multi-Level RTI/Multi-Level Real-Time Iterations.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Multi-Level Real-Time Iterations"
+            }
+          },
+          {
+            "id": "b41de940f31e56ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/NMPC by Gros/Gros ~~ QP-NMPC Formulation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Critical Cone"
-            }
-          },
-          {
-            "id": "a0cc08f17c5a0e00",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 Relevant Mathematics/Rules/Linear Algebra and Calculus/Derivative of Implicit Function.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Derivative of Implicit Function"
-            }
-          },
-          {
-            "id": "3fc746667f8aa96f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/NMPC Basics/Lagrangian/Jacobian of Lagrangian (NMPC).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Jacobian of Lagrangian (NMPC)"
-            }
-          },
-          {
-            "id": "6d8532517546c5e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 Nonlinear Control/Definitions/LISS - Local Input-to-State Stability.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "LISS - Local Input-to-State Stability"
+              "title": "Gros ~~ QP-NMPC Formulation"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
+      },
+      {
+        "id": "762a060ec03996a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "83d606d554255009",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/Real-Time Iteration/RTI Variants/RTI variant 4.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "RTI variant 4"
+            }
+          },
+          {
+            "id": "53539884b1e4cfb7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/Real-Time Iteration/RTI Variants/RTI variant 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "RTI variant 2"
+            }
+          },
+          {
+            "id": "c37e2ac20a5f5d70",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/Real-Time Iteration/By Gros/Gros ~ RTI.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Gros ~ RTI"
+            }
+          },
+          {
+            "id": "30d0824721b3559d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/Assumptions/Assumption - Instantaneous feedback of iNMPC.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Assumption - Instantaneous feedback of iNMPC"
+            }
+          },
+          {
+            "id": "c276346bd54ed48d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/Assumptions/Assumption - Nominal Stability of iNMPC.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Assumption - Nominal Stability of iNMPC"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +145,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -220,34 +269,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6d8532517546c5e2",
+  "active": "83d606d554255009",
   "lastOpenFiles": [
-    "03 Nonlinear Control/Definitions/Norm.md",
-    "03 Nonlinear Control/Definitions/LISS - Local Input-to-State Stability.md",
-    "03 Nonlinear Control/Definitions/Malkin's Total Stability.md",
-    "03 Nonlinear Control/Definitions/ISS - Input-to-State Stability.md",
-    "03 Nonlinear Control/Definitions/Lipschitz (continuous).md",
-    "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/NMPC Basics/Lagrangian/Lagrangian (NMPC).md",
-    "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/NMPC Basics/Lagrangian/Jacobian of Lagrangian (NMPC).md",
-    "04 Optimization Based Control/Model Predictive Control (MPC)/Linear MPC (LMPC)/LMPC by Gros/Gros ~ LMPC.md",
-    "01 Relevant Mathematics/Theorems/Implicit Function Theorem.md",
-    "04 Optimization Based Control/Optimization/Definitions/Critical Cone.md",
-    "04 Optimization Based Control/Optimization/Techniques/Parameter Sensitivity/Parameter Sensitivities.md",
-    "04 Optimization Based Control/Optimization/Definitions/KKT-Matrix.md",
-    "04 Optimization Based Control/Optimization/QP/QP - KKT matrix.md",
-    "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/NMPC Basics/Basic Cost Function.md",
-    "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/NMPC Basics/ideal NMPC.md",
-    "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/NMPC Basics/Basic NMPC-NLP.md",
-    "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/NMPC Basics/Lagrangian/Hessian of Lagrangian (NMPC).md",
-    "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/Parameter Sensitivity Based NMPC/Expanding the Initial Value Sensitivity System.md",
-    "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/Parameter Sensitivity Based NMPC/Sensitivity on Initial Condition.md",
+    "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/Real-Time Iteration/Multi-Level RTI/Multi-Level Real-Time Iterations.md",
+    "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/Real-Time Iteration/RTI Variants/RTI-Variants Overview.md",
+    "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/Real-Time Iteration/RTI Variants/RTI variant 3.md",
+    "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/Real-Time Iteration/RTI Variants/RTI-Variants summary.png",
+    "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/Real-Time Iteration/RTI Variants/RTI variant 4.md",
+    "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/Real-Time Iteration/RTI Variants/RTI variant 2.md",
+    "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/Real-Time Iteration/RTI Variants/RTI variant 1.md",
+    "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/Real-Time Iteration/Multi-Level RTI",
+    "00 Notation and Practice/Optimization.md",
+    "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/Real-Time Iteration/By Gros/Gros ~ RTI.md",
+    "00 Notation and Practice/Functions and Dynamical Systems.md",
+    "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/NMPC by Gros/Gros ~~ QP-NMPC Formulation.md",
+    "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/Real-Time Iteration/By Gros/Gros ~ RTI (simplified version).md",
+    "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/NMPC by Gros/Gros ~ NMPC.md",
+    "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/NMPC by Gros/Gros ~~ QP-NMPC Linearizations.md",
+    "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/Real-Time Iteration/By Diehl (original author)/Real Time Iterations (RTI).md",
+    "04 Optimization Based Control/Optimization/NLP/Algorithms/Sequential Quadratic Programming (SQP)/SQP Method.md",
+    "04 Optimization Based Control/Optimization/NLP/Algorithms/Newton-type Methods/Newton-type Methods.md",
     "04 Optimization Based Control/Optimization/Definitions/KKT system.md",
-    "04 Optimization Based Control/Model Predictive Control (MPC)/Techniques/Shifting Procedure.md",
-    "04 Optimization Based Control/Model Predictive Control (MPC)/Techniques/Initial Value Embedding.md",
-    "04 Optimization Based Control/Model Predictive Control (MPC)/Techniques/Condensing.md",
-    "01 Relevant Mathematics/Rules/Linear Algebra and Calculus/Derivative of Implicit Function.md",
-    "04 Optimization Based Control/Optimization/Definitions/Linearized Feasible Directions.md",
+    "04 Optimization Based Control/Optimization/Definitions/KKT-Vector.md",
     "04 Optimization Based Control/Optimization/Definitions/KKT Conditions (First-Order Necessary Conditions).md",
+    "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/NMPC Basics/ideal NMPC.md",
+    "04 Optimization Based Control/Optimization/Definitions/KKT-Matrix.md",
+    "04 Optimization Based Control/Optimization/NLP/Algorithms/Newton-type Methods",
+    "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/Real-Time Iteration/By Diehl (original author)/Real Time Iterations for NMPC.md",
+    "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/NMPC Basics/Basic NMPC-NLP.md",
+    "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/NMPC Basics/Theorem - Nominal Stability of ideal NMPC.md",
+    "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/NMPC Basics/Basic Cost Function.md",
+    "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/Real-Time Iteration/RTI Variants",
     "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/Parameter Sensitivity Based NMPC",
     "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/NMPC Basics/Constraints",
     "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/NMPC Basics/Notations",
@@ -255,9 +307,6 @@
     "04 Optimization Based Control/Optimization/Techniques/Parameter Sensitivity",
     "04 Optimization Based Control/Optimization/Techniques/Untitled/desktop.ini",
     "04 Optimization Based Control/Optimization/Techniques/Line Search",
-    "01 Relevant Mathematics/Theorems",
-    "01 Relevant Mathematics/Rules/Linear Algebra and Calculus/Derivative of norm.pdf",
-    "04 Optimization Based Control/Model Predictive Control (MPC)/Nonlinear MPC (NMPC)/Assumptions",
     "04 Optimization Based Control/Model Predictive Control (MPC)/Images/Reference Trajectory - Model Offset.svg",
     "04 Optimization Based Control/Model Predictive Control (MPC)/Images/MPC Trajectory Notation.svg",
     "04 Optimization Based Control/Model Predictive Control (MPC)/Images/LMPC vs NMPC - 1 SQP step.png",

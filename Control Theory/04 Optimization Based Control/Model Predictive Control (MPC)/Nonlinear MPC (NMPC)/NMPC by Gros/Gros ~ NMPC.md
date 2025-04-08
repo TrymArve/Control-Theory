@@ -15,6 +15,9 @@ Consider OCP: ![[Optimal Control Problem#^OCP]]
 **NMPC Controller**
 $$u^{\text{NMPC}}_{i} \triangleq \tilde{u}^{i}_{0} \leftarrow \text{NLP}_{\text{NMPC}}^{i}(\hat{x}_{i},x^{ref,i},u^{ref,i})$$![[Gros ~~ NMPC Formulation#^NLP]]
 
+^NMPC
+
+
 
 **Remarks:**
 - Note that there are no terminal costs/constraints, but should be present in an implementation

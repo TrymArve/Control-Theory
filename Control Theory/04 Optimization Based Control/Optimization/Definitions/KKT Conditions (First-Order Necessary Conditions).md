@@ -28,3 +28,5 @@ $$\begin{align*}
 		- A point that satisfies the KKT conditions is NOT necessarily a local optimum.
 	- Nevertheless, many NLP-solvers primarily attempt to find a point that satisfies the KKT conditions, and it is up to the user to make sure that it is actually an optimum. (f.ex. via [[Second Order Sufficient Condition (SOSC)|SOSC]])
 
+- For equality constrained NLPs, we can reconstruct the KKT conditions via the [[KKT-Vector]]
+- 

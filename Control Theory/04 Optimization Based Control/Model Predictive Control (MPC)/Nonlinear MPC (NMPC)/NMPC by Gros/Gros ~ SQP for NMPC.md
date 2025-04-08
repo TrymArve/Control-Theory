@@ -9,7 +9,7 @@ Theory Author:
 Reviewed By:
 ---
 
-An [[General SQP Method|SQP]]-type strategy for solving the NMPC problem.
+An [[SQP Method|SQP]]-type strategy for solving the NMPC problem.
 Notation: [[Optimization#Dynamic Optimization / MPC|here]]
 
 # SQP for NMPC

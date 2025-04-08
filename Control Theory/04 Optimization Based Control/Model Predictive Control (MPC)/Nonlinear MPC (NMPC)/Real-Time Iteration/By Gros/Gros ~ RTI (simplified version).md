@@ -7,7 +7,7 @@ Theory Author:
   - Sébastien Gros
 Reviewed By:
 ---
-This is only a simplified version of the [[Gros ~ RTI|RTI]] algorithm by Gros (originally by [[Real Time Iteration (RTI)|Diehl]]), with the purpose of explaining the concept before the full RTI algorithm is explained.
+This is only a simplified version of the [[Gros ~ RTI|RTI]] algorithm by Gros (originally by [[Real Time Iterations (RTI)|Diehl]]), with the purpose of explaining the concept before the full RTI algorithm is explained.
 
 This algorithm is an adjustment of [[Gros ~~ SQP-NMPC Algorithm]].
 

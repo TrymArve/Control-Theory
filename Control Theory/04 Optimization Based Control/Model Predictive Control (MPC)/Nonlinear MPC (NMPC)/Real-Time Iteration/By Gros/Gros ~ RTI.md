@@ -23,7 +23,7 @@ Reviewed By:
 	- $J^{i}_{j},\quad H^{i}_{j}$
 1) $\text{Construct:}$
 	- $\text{QP}^{i}_{\text{NMPC}}\quad$ *(see [[Gros ~~ QP-NMPC Formulation|QP-NMPC]])*
-	- *(prepare all possible computation, that don't require $\hat{x}_{i}$)*
+	- *(prepare all possible computations that don't require $\hat{x}_{i}$)*
 		- *condensing*
 		- *matrix factorizations*
 		- *etc.*
@@ -48,9 +48,9 @@ Reviewed By:
 - The delay introduced by feedback *(from receiving new estimate to the respective control is applied)* can be accommodated by introducing a corresponding prediction of the state estimate.
 - the sampling time $\Delta t_{i} = t_{i+1}-t_{i}$ is limited by the sum of the time spent in the 'preparation' and 'feedback' phases.
 - The time spend in the 'feedback' phase is practically the same as the time it takes to solve the [[Gros ~ LMPC|LMPC]] problem
-- Parts step 5) can often be moved to the 'preparation' phase
-	- f.ex. by using "[[Condensing]]"
+- The preparation of step 5) that does not require knowledge of the initial state (the parameter), can be moved to the 'preparation' phase:
+	- f.ex. the "[[Condensing]]" of the problem can be done prior to knowing the state
 - The increase in sampling time, $\Delta t$, required to perform the RTI scheme, from that of [[Gros ~ LMPC|Linear MPC]], is only determined by the preparation phase
 - It is desirable to minimize the 'feedback time'
 	- that is, move as much as possible from the feedback phase to the preparation phase
-	- Because the preparation phase can often fit in the time after the previous feedback phase and before the next state estimate is available, RTI-NMPT can in many cases be applied at the same sampling frequency as that of Linear MPC based on a model that is pre-linearized off-line.
+	- Because the preparation phase can often fit in the time after the previous feedback phase and before the next state estimate is available, RTI-NMPC can in many cases be applied at the same sampling frequency as that of Linear MPC based on a model that is pre-linearized off-line.
